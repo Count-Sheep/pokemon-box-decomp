@@ -51,10 +51,6 @@ XD contribution guidance, adapted for a new project:
 - Keep local harness experiments and research notes separate from the active
   source tree.
 
-The upstream XD repository currently bans AI-assisted contributions. This new
-local project has no such policy section; its rules are limited to provenance,
-matching evidence, legal cleanliness, and reviewability.
-
 ## Setup status
 
 No configure script or build files are present yet. After the first ISO is
