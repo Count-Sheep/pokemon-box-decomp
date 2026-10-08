@@ -1,0 +1,6 @@
+name: main
+object: sys/main.dol
+hash: ff1087d5649d7e54509b2e2d6e15e3ff24a8bc62
+object_base: orig/GPXJ01
+symbols: config/GPXJ01/symbols.txt
+splits: config/GPXJ01/splits.txt

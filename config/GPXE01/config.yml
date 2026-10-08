@@ -1,0 +1,6 @@
+name: main
+object: sys/main.dol
+hash: 99275f11bc36f1e5c9034d317bb2fdceddd2a301
+object_base: orig/GPXE01
+symbols: config/GPXE01/symbols.txt
+splits: config/GPXE01/splits.txt

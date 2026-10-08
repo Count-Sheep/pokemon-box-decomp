@@ -1,0 +1,6 @@
+name: main
+object: sys/main.dol
+hash: cb254692ba45ab2224c5b221c45bfab9a39a08ba
+object_base: orig/GPXP01
+symbols: config/GPXP01/symbols.txt
+splits: config/GPXP01/splits.txt

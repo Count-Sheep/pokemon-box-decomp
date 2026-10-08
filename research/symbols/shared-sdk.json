@@ -1,0 +1,5855 @@
+{
+  "method": "unique normalized instruction signature across Box US/PAL/JP, with agreeing XD and Colosseum names; branch displacements masked",
+  "names": {
+    "AIInitDMA": {
+      "GPXE01": {
+        "box_symbol": "fn_8013AFA4",
+        "address": 2148773796,
+        "size": 136,
+        "suggested_name": "AIInitDMA",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AIInitDMA",
+            "address": 2148254064,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AIInitDMA",
+            "address": 2148188272,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "4e45bc4a87bc269a08a4e81c6d35513798e8487d1f55ce4cbe426a6873200695"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8013C430",
+        "address": 2148779056,
+        "size": 136,
+        "suggested_name": "AIInitDMA",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AIInitDMA",
+            "address": 2148254064,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AIInitDMA",
+            "address": 2148188272,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "4e45bc4a87bc269a08a4e81c6d35513798e8487d1f55ce4cbe426a6873200695"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80137CD4",
+        "address": 2148760788,
+        "size": 136,
+        "suggested_name": "AIInitDMA",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AIInitDMA",
+            "address": 2148254064,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AIInitDMA",
+            "address": 2148188272,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "4e45bc4a87bc269a08a4e81c6d35513798e8487d1f55ce4cbe426a6873200695"
+      }
+    },
+    "AISetDSPSampleRate": {
+      "GPXE01": {
+        "box_symbol": "fn_8013B144",
+        "address": 2148774212,
+        "size": 224,
+        "suggested_name": "AISetDSPSampleRate",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AISetDSPSampleRate",
+            "address": 2148254480,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AISetDSPSampleRate",
+            "address": 2148188688,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "c13dbda42443b0f55f1a4394d989d17dd6fd2a894a7182b4f50c1826ab1bd589"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8013C5D0",
+        "address": 2148779472,
+        "size": 224,
+        "suggested_name": "AISetDSPSampleRate",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AISetDSPSampleRate",
+            "address": 2148254480,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AISetDSPSampleRate",
+            "address": 2148188688,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "c13dbda42443b0f55f1a4394d989d17dd6fd2a894a7182b4f50c1826ab1bd589"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80137E74",
+        "address": 2148761204,
+        "size": 224,
+        "suggested_name": "AISetDSPSampleRate",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AISetDSPSampleRate",
+            "address": 2148254480,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AISetDSPSampleRate",
+            "address": 2148188688,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "c13dbda42443b0f55f1a4394d989d17dd6fd2a894a7182b4f50c1826ab1bd589"
+      }
+    },
+    "AISetStreamPlayState": {
+      "GPXE01": {
+        "box_symbol": "fn_8013B05C",
+        "address": 2148773980,
+        "size": 216,
+        "suggested_name": "AISetStreamPlayState",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AISetStreamPlayState",
+            "address": 2148254248,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AISetStreamPlayState",
+            "address": 2148188456,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "57621ba77532c6ef37f94869c0f3a249fbb567c82a56d34b166a7bbc73106d92"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8013C4E8",
+        "address": 2148779240,
+        "size": 216,
+        "suggested_name": "AISetStreamPlayState",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AISetStreamPlayState",
+            "address": 2148254248,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AISetStreamPlayState",
+            "address": 2148188456,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "57621ba77532c6ef37f94869c0f3a249fbb567c82a56d34b166a7bbc73106d92"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80137D8C",
+        "address": 2148760972,
+        "size": 216,
+        "suggested_name": "AISetStreamPlayState",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "AISetStreamPlayState",
+            "address": 2148254248,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "AISetStreamPlayState",
+            "address": 2148188456,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "57621ba77532c6ef37f94869c0f3a249fbb567c82a56d34b166a7bbc73106d92"
+      }
+    },
+    "ARStartDMA": {
+      "GPXE01": {
+        "box_symbol": "fn_8013B8C4",
+        "address": 2148776132,
+        "size": 240,
+        "suggested_name": "ARStartDMA",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "ARStartDMA",
+            "address": 2148256400,
+            "unit": "dolphin/ar/ar.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "ARStartDMA",
+            "address": 2148190608,
+            "unit": "dolphin/ar_exact_800AC954.s"
+          }
+        ],
+        "signature": "8f44829c38ce359be458ece39fd0426c952996382f398f18231b9e5fbdbaee11"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8013CD50",
+        "address": 2148781392,
+        "size": 240,
+        "suggested_name": "ARStartDMA",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "ARStartDMA",
+            "address": 2148256400,
+            "unit": "dolphin/ar/ar.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "ARStartDMA",
+            "address": 2148190608,
+            "unit": "dolphin/ar_exact_800AC954.s"
+          }
+        ],
+        "signature": "8f44829c38ce359be458ece39fd0426c952996382f398f18231b9e5fbdbaee11"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801385B8",
+        "address": 2148763064,
+        "size": 240,
+        "suggested_name": "ARStartDMA",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "ARStartDMA",
+            "address": 2148256400,
+            "unit": "dolphin/ar/ar.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "ARStartDMA",
+            "address": 2148190608,
+            "unit": "dolphin/ar_exact_800AC954.s"
+          }
+        ],
+        "signature": "8f44829c38ce359be458ece39fd0426c952996382f398f18231b9e5fbdbaee11"
+      }
+    },
+    "CARDCheckExAsync": {
+      "GPXE01": {
+        "box_symbol": "fn_8014D284",
+        "address": 2148848260,
+        "size": 1424,
+        "suggested_name": "CARDCheckExAsync",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDCheckExAsync",
+            "address": 2148281468,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDCheckExAsync",
+            "address": 2148215284,
+            "unit": "dolphin/sdk_candidate_800B29F4.s"
+          }
+        ],
+        "signature": "0d4f96f5107d63e96f12a132c8dfe0af2e73553f5996f89f0c8d3eed26e047c3"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014E710",
+        "address": 2148853520,
+        "size": 1424,
+        "suggested_name": "CARDCheckExAsync",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDCheckExAsync",
+            "address": 2148281468,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDCheckExAsync",
+            "address": 2148215284,
+            "unit": "dolphin/sdk_candidate_800B29F4.s"
+          }
+        ],
+        "signature": "0d4f96f5107d63e96f12a132c8dfe0af2e73553f5996f89f0c8d3eed26e047c3"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80149848",
+        "address": 2148833352,
+        "size": 1424,
+        "suggested_name": "CARDCheckExAsync",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDCheckExAsync",
+            "address": 2148281468,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDCheckExAsync",
+            "address": 2148215284,
+            "unit": "dolphin/sdk_candidate_800B29F4.s"
+          }
+        ],
+        "signature": "0d4f96f5107d63e96f12a132c8dfe0af2e73553f5996f89f0c8d3eed26e047c3"
+      }
+    },
+    "CARDFreeBlocks": {
+      "GPXE01": {
+        "box_symbol": "fn_8014ABBC",
+        "address": 2148838332,
+        "size": 336,
+        "suggested_name": "CARDFreeBlocks",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDFreeBlocks",
+            "address": 2148271588,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDFreeBlocks",
+            "address": 2148205448,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "02f3430cd6ec36a65399083dcdc4307efce36d15f1a9204580d96a17637619a4"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014C048",
+        "address": 2148843592,
+        "size": 336,
+        "suggested_name": "CARDFreeBlocks",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDFreeBlocks",
+            "address": 2148271588,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDFreeBlocks",
+            "address": 2148205448,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "02f3430cd6ec36a65399083dcdc4307efce36d15f1a9204580d96a17637619a4"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801471E0",
+        "address": 2148823520,
+        "size": 336,
+        "suggested_name": "CARDFreeBlocks",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDFreeBlocks",
+            "address": 2148271588,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDFreeBlocks",
+            "address": 2148205448,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "02f3430cd6ec36a65399083dcdc4307efce36d15f1a9204580d96a17637619a4"
+      }
+    },
+    "CARDGetAttributes": {
+      "GPXE01": {
+        "box_symbol": "fn_80150444",
+        "address": 2148860996,
+        "size": 64,
+        "suggested_name": "CARDGetAttributes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDGetAttributes",
+            "address": 2148294684,
+            "unit": "dolphin/card/CARDNet.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDGetAttributes",
+            "address": 2148228004,
+            "unit": "dolphin/sdk_exact_800B5BA4.s"
+          }
+        ],
+        "signature": "b43db822d02bcdb7cc4fcdd664828e4838da8b7391592c66432252e289aebbd0"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801518D0",
+        "address": 2148866256,
+        "size": 64,
+        "suggested_name": "CARDGetAttributes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDGetAttributes",
+            "address": 2148294684,
+            "unit": "dolphin/card/CARDNet.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDGetAttributes",
+            "address": 2148228004,
+            "unit": "dolphin/sdk_exact_800B5BA4.s"
+          }
+        ],
+        "signature": "b43db822d02bcdb7cc4fcdd664828e4838da8b7391592c66432252e289aebbd0"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014C818",
+        "address": 2148845592,
+        "size": 64,
+        "suggested_name": "CARDGetAttributes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDGetAttributes",
+            "address": 2148294684,
+            "unit": "dolphin/card/CARDNet.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDGetAttributes",
+            "address": 2148228004,
+            "unit": "dolphin/sdk_exact_800B5BA4.s"
+          }
+        ],
+        "signature": "b43db822d02bcdb7cc4fcdd664828e4838da8b7391592c66432252e289aebbd0"
+      }
+    },
+    "CARDGetSerialNo": {
+      "GPXE01": {
+        "box_symbol": "fn_80150380",
+        "address": 2148860800,
+        "size": 196,
+        "suggested_name": "CARDGetSerialNo",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDGetSerialNo",
+            "address": 2148294488,
+            "unit": "dolphin/card/CARDNet.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDGetSerialNo",
+            "address": 2148227808,
+            "unit": "dolphin/sdk_exact_800B5AE0.s"
+          }
+        ],
+        "signature": "f51536ee79b739c8212477ff2f8396e8547911370a81f55b0fbb06c939eb3191"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015180C",
+        "address": 2148866060,
+        "size": 196,
+        "suggested_name": "CARDGetSerialNo",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDGetSerialNo",
+            "address": 2148294488,
+            "unit": "dolphin/card/CARDNet.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDGetSerialNo",
+            "address": 2148227808,
+            "unit": "dolphin/sdk_exact_800B5AE0.s"
+          }
+        ],
+        "signature": "f51536ee79b739c8212477ff2f8396e8547911370a81f55b0fbb06c939eb3191"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014C754",
+        "address": 2148845396,
+        "size": 196,
+        "suggested_name": "CARDGetSerialNo",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDGetSerialNo",
+            "address": 2148294488,
+            "unit": "dolphin/card/CARDNet.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDGetSerialNo",
+            "address": 2148227808,
+            "unit": "dolphin/sdk_exact_800B5AE0.s"
+          }
+        ],
+        "signature": "f51536ee79b739c8212477ff2f8396e8547911370a81f55b0fbb06c939eb3191"
+      }
+    },
+    "CARDSetStatusAsync": {
+      "GPXE01": {
+        "box_symbol": "fn_8014FE84",
+        "address": 2148859524,
+        "size": 372,
+        "suggested_name": "CARDSetStatusAsync",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDSetStatusAsync",
+            "address": 2148293284,
+            "unit": "dolphin/card/CARDStat.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDSetStatusAsync",
+            "address": 2148226652,
+            "unit": "dolphin/sdk_candidate_800B5228.s"
+          }
+        ],
+        "signature": "2d84b757e7cae6bf49b4ec3c50dac263acfca4a18d84058689c4bd961929a8db"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80151310",
+        "address": 2148864784,
+        "size": 372,
+        "suggested_name": "CARDSetStatusAsync",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDSetStatusAsync",
+            "address": 2148293284,
+            "unit": "dolphin/card/CARDStat.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDSetStatusAsync",
+            "address": 2148226652,
+            "unit": "dolphin/sdk_candidate_800B5228.s"
+          }
+        ],
+        "signature": "2d84b757e7cae6bf49b4ec3c50dac263acfca4a18d84058689c4bd961929a8db"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014C288",
+        "address": 2148844168,
+        "size": 372,
+        "suggested_name": "CARDSetStatusAsync",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CARDSetStatusAsync",
+            "address": 2148293284,
+            "unit": "dolphin/card/CARDStat.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CARDSetStatusAsync",
+            "address": 2148226652,
+            "unit": "dolphin/sdk_candidate_800B5228.s"
+          }
+        ],
+        "signature": "2d84b757e7cae6bf49b4ec3c50dac263acfca4a18d84058689c4bd961929a8db"
+      }
+    },
+    "C_MTXLookAt": {
+      "GPXE01": {
+        "box_symbol": "fn_80132908",
+        "address": 2148739336,
+        "size": 396,
+        "suggested_name": "C_MTXLookAt",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "C_MTXLookAt",
+            "address": 2148216700,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "C_MTXLookAt",
+            "address": 2148152408,
+            "unit": "dolphin/sdk_candidate_800A3458.s"
+          }
+        ],
+        "signature": "df1706669714e64a7ac02b061cb8cce3772cef5ccd22920d05665d7b26e22c48"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133DD0",
+        "address": 2148744656,
+        "size": 396,
+        "suggested_name": "C_MTXLookAt",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "C_MTXLookAt",
+            "address": 2148216700,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "C_MTXLookAt",
+            "address": 2148152408,
+            "unit": "dolphin/sdk_candidate_800A3458.s"
+          }
+        ],
+        "signature": "df1706669714e64a7ac02b061cb8cce3772cef5ccd22920d05665d7b26e22c48"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F7E4",
+        "address": 2148726756,
+        "size": 396,
+        "suggested_name": "C_MTXLookAt",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "C_MTXLookAt",
+            "address": 2148216700,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "C_MTXLookAt",
+            "address": 2148152408,
+            "unit": "dolphin/sdk_candidate_800A3458.s"
+          }
+        ],
+        "signature": "df1706669714e64a7ac02b061cb8cce3772cef5ccd22920d05665d7b26e22c48"
+      }
+    },
+    "CircleBufferInitialize": {
+      "GPXE01": {
+        "box_symbol": "fn_8016A5E0",
+        "address": 2148967904,
+        "size": 80,
+        "suggested_name": "CircleBufferInitialize",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferInitialize",
+            "address": 2148374500,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferInitialize",
+            "address": 2148286804,
+            "unit": "trk/trk_exact_800C4154.s"
+          }
+        ],
+        "signature": "bc2a49a1bbb135a3401ebd2ca1f9f3cf24163a1df625162507c6dbd5a099e6ab"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016BA70",
+        "address": 2148973168,
+        "size": 80,
+        "suggested_name": "CircleBufferInitialize",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferInitialize",
+            "address": 2148374500,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferInitialize",
+            "address": 2148286804,
+            "unit": "trk/trk_exact_800C4154.s"
+          }
+        ],
+        "signature": "bc2a49a1bbb135a3401ebd2ca1f9f3cf24163a1df625162507c6dbd5a099e6ab"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80166930",
+        "address": 2148952368,
+        "size": 80,
+        "suggested_name": "CircleBufferInitialize",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferInitialize",
+            "address": 2148374500,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferInitialize",
+            "address": 2148286804,
+            "unit": "trk/trk_exact_800C4154.s"
+          }
+        ],
+        "signature": "bc2a49a1bbb135a3401ebd2ca1f9f3cf24163a1df625162507c6dbd5a099e6ab"
+      }
+    },
+    "CircleBufferReadBytes": {
+      "GPXE01": {
+        "box_symbol": "fn_8016A3D0",
+        "address": 2148967376,
+        "size": 264,
+        "suggested_name": "CircleBufferReadBytes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferReadBytes",
+            "address": 2148373972,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferReadBytes",
+            "address": 2148286276,
+            "unit": "trk/trk_range_800C3EBC.s"
+          }
+        ],
+        "signature": "2f488e9b5e33325eed27284272e67b4460d0d8f062ec26e2cb50fe1f6d9a9e52"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016B860",
+        "address": 2148972640,
+        "size": 264,
+        "suggested_name": "CircleBufferReadBytes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferReadBytes",
+            "address": 2148373972,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferReadBytes",
+            "address": 2148286276,
+            "unit": "trk/trk_range_800C3EBC.s"
+          }
+        ],
+        "signature": "2f488e9b5e33325eed27284272e67b4460d0d8f062ec26e2cb50fe1f6d9a9e52"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80166720",
+        "address": 2148951840,
+        "size": 264,
+        "suggested_name": "CircleBufferReadBytes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferReadBytes",
+            "address": 2148373972,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferReadBytes",
+            "address": 2148286276,
+            "unit": "trk/trk_range_800C3EBC.s"
+          }
+        ],
+        "signature": "2f488e9b5e33325eed27284272e67b4460d0d8f062ec26e2cb50fe1f6d9a9e52"
+      }
+    },
+    "CircleBufferWriteBytes": {
+      "GPXE01": {
+        "box_symbol": "fn_8016A4D8",
+        "address": 2148967640,
+        "size": 264,
+        "suggested_name": "CircleBufferWriteBytes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferWriteBytes",
+            "address": 2148374236,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferWriteBytes",
+            "address": 2148286540,
+            "unit": "trk/trk_range_800C3EBC.s"
+          }
+        ],
+        "signature": "c933c27b9fc30c42464ec3df6c8e999fc76775894a7d676a4e15e603f6eacb28"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016B968",
+        "address": 2148972904,
+        "size": 264,
+        "suggested_name": "CircleBufferWriteBytes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferWriteBytes",
+            "address": 2148374236,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferWriteBytes",
+            "address": 2148286540,
+            "unit": "trk/trk_range_800C3EBC.s"
+          }
+        ],
+        "signature": "c933c27b9fc30c42464ec3df6c8e999fc76775894a7d676a4e15e603f6eacb28"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80166828",
+        "address": 2148952104,
+        "size": 264,
+        "suggested_name": "CircleBufferWriteBytes",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "CircleBufferWriteBytes",
+            "address": 2148374236,
+            "unit": "runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "CircleBufferWriteBytes",
+            "address": 2148286540,
+            "unit": "trk/trk_range_800C3EBC.s"
+          }
+        ],
+        "signature": "c933c27b9fc30c42464ec3df6c8e999fc76775894a7d676a4e15e603f6eacb28"
+      }
+    },
+    "DBGEXIImm": {
+      "GPXE01": {
+        "box_symbol": "fn_8016B244",
+        "address": 2148971076,
+        "size": 664,
+        "suggested_name": "DBGEXIImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGEXIImm",
+            "address": 2148431912,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGEXIImm",
+            "address": 2148331452,
+            "unit": "dolphin/sdk_exact_800CEF10.s"
+          }
+        ],
+        "signature": "690cdfcfdd498668debba5849789bc6859ab991c13e53bfde59f4b052547f84c"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016C6D4",
+        "address": 2148976340,
+        "size": 664,
+        "suggested_name": "DBGEXIImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGEXIImm",
+            "address": 2148431912,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGEXIImm",
+            "address": 2148331452,
+            "unit": "dolphin/sdk_exact_800CEF10.s"
+          }
+        ],
+        "signature": "690cdfcfdd498668debba5849789bc6859ab991c13e53bfde59f4b052547f84c"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80167594",
+        "address": 2148955540,
+        "size": 664,
+        "suggested_name": "DBGEXIImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGEXIImm",
+            "address": 2148431912,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGEXIImm",
+            "address": 2148331452,
+            "unit": "dolphin/sdk_exact_800CEF10.s"
+          }
+        ],
+        "signature": "690cdfcfdd498668debba5849789bc6859ab991c13e53bfde59f4b052547f84c"
+      }
+    },
+    "DBGRead": {
+      "GPXE01": {
+        "box_symbol": "fn_8016B0BC",
+        "address": 2148970684,
+        "size": 220,
+        "suggested_name": "DBGRead",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGRead",
+            "address": 2148431520,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGRead",
+            "address": 2148331060,
+            "unit": "dolphin/sdk_residual_800CED58.s"
+          }
+        ],
+        "signature": "852dfba64b7080f1fc281c70d7b7447fb423961aa8eebb557520f2dc072acc59"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016C54C",
+        "address": 2148975948,
+        "size": 220,
+        "suggested_name": "DBGRead",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGRead",
+            "address": 2148431520,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGRead",
+            "address": 2148331060,
+            "unit": "dolphin/sdk_residual_800CED58.s"
+          }
+        ],
+        "signature": "852dfba64b7080f1fc281c70d7b7447fb423961aa8eebb557520f2dc072acc59"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8016740C",
+        "address": 2148955148,
+        "size": 220,
+        "suggested_name": "DBGRead",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGRead",
+            "address": 2148431520,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGRead",
+            "address": 2148331060,
+            "unit": "dolphin/sdk_residual_800CED58.s"
+          }
+        ],
+        "signature": "852dfba64b7080f1fc281c70d7b7447fb423961aa8eebb557520f2dc072acc59"
+      }
+    },
+    "DBGReadMailbox": {
+      "GPXE01": {
+        "box_symbol": "fn_8016B198",
+        "address": 2148970904,
+        "size": 172,
+        "suggested_name": "DBGReadMailbox",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGReadMailbox",
+            "address": 2148431740,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGReadMailbox",
+            "address": 2148331280,
+            "unit": "dolphin/sdk_exact_800CEF10.s"
+          }
+        ],
+        "signature": "4ce95decf251d71f14c82916d88a6d384a0727f1845ccb67c48f2286598f3308"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016C628",
+        "address": 2148976168,
+        "size": 172,
+        "suggested_name": "DBGReadMailbox",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGReadMailbox",
+            "address": 2148431740,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGReadMailbox",
+            "address": 2148331280,
+            "unit": "dolphin/sdk_exact_800CEF10.s"
+          }
+        ],
+        "signature": "4ce95decf251d71f14c82916d88a6d384a0727f1845ccb67c48f2286598f3308"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801674E8",
+        "address": 2148955368,
+        "size": 172,
+        "suggested_name": "DBGReadMailbox",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGReadMailbox",
+            "address": 2148431740,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGReadMailbox",
+            "address": 2148331280,
+            "unit": "dolphin/sdk_exact_800CEF10.s"
+          }
+        ],
+        "signature": "4ce95decf251d71f14c82916d88a6d384a0727f1845ccb67c48f2286598f3308"
+      }
+    },
+    "DBGWrite": {
+      "GPXE01": {
+        "box_symbol": "fn_8016AFE0",
+        "address": 2148970464,
+        "size": 220,
+        "suggested_name": "DBGWrite",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGWrite",
+            "address": 2148431300,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGWrite",
+            "address": 2148330840,
+            "unit": "dolphin/sdk_residual_800CED58.s"
+          }
+        ],
+        "signature": "60542f96e8986dd871b71aa40fe1fbc5b8c3b76d78ab3f6ebb754afeab54c47f"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016C470",
+        "address": 2148975728,
+        "size": 220,
+        "suggested_name": "DBGWrite",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGWrite",
+            "address": 2148431300,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGWrite",
+            "address": 2148330840,
+            "unit": "dolphin/sdk_residual_800CED58.s"
+          }
+        ],
+        "signature": "60542f96e8986dd871b71aa40fe1fbc5b8c3b76d78ab3f6ebb754afeab54c47f"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80167330",
+        "address": 2148954928,
+        "size": 220,
+        "suggested_name": "DBGWrite",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DBGWrite",
+            "address": 2148431300,
+            "unit": "dolphin/OdemuExi2Lib/DebuggerDriver.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DBGWrite",
+            "address": 2148330840,
+            "unit": "dolphin/sdk_residual_800CED58.s"
+          }
+        ],
+        "signature": "60542f96e8986dd871b71aa40fe1fbc5b8c3b76d78ab3f6ebb754afeab54c47f"
+      }
+    },
+    "DVDClose": {
+      "GPXE01": {
+        "box_symbol": "fn_80134090",
+        "address": 2148745360,
+        "size": 36,
+        "suggested_name": "DVDClose",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDClose",
+            "address": 2148225028,
+            "unit": "dolphin/dvd/dvdfs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDClose",
+            "address": 2148159716,
+            "unit": "dolphin/dvd/dvdfs_range_800A4D28.s"
+          }
+        ],
+        "signature": "6a409750e6e54cec74982e752aa75a22e0ac6071455917ba1612eee6b7826113"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80135558",
+        "address": 2148750680,
+        "size": 36,
+        "suggested_name": "DVDClose",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDClose",
+            "address": 2148225028,
+            "unit": "dolphin/dvd/dvdfs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDClose",
+            "address": 2148159716,
+            "unit": "dolphin/dvd/dvdfs_range_800A4D28.s"
+          }
+        ],
+        "signature": "6a409750e6e54cec74982e752aa75a22e0ac6071455917ba1612eee6b7826113"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80130F30",
+        "address": 2148732720,
+        "size": 36,
+        "suggested_name": "DVDClose",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDClose",
+            "address": 2148225028,
+            "unit": "dolphin/dvd/dvdfs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDClose",
+            "address": 2148159716,
+            "unit": "dolphin/dvd/dvdfs_range_800A4D28.s"
+          }
+        ],
+        "signature": "6a409750e6e54cec74982e752aa75a22e0ac6071455917ba1612eee6b7826113"
+      }
+    },
+    "DVDCompareDiskID": {
+      "GPXE01": {
+        "box_symbol": "fn_80136FC8",
+        "address": 2148757448,
+        "size": 248,
+        "suggested_name": "DVDCompareDiskID",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDCompareDiskID",
+            "address": 2148237604,
+            "unit": "dolphin/dvd/dvdidutils.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDCompareDiskID",
+            "address": 2148172152,
+            "unit": "dolphin/vi/VI_exact_800A8178.s"
+          }
+        ],
+        "signature": "700fadac392b0dc80b254780d6fd1c9f397f77396dbda3f98973c4679d471ecb"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80138490",
+        "address": 2148762768,
+        "size": 248,
+        "suggested_name": "DVDCompareDiskID",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDCompareDiskID",
+            "address": 2148237604,
+            "unit": "dolphin/dvd/dvdidutils.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDCompareDiskID",
+            "address": 2148172152,
+            "unit": "dolphin/vi/VI_exact_800A8178.s"
+          }
+        ],
+        "signature": "700fadac392b0dc80b254780d6fd1c9f397f77396dbda3f98973c4679d471ecb"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80133E30",
+        "address": 2148744752,
+        "size": 248,
+        "suggested_name": "DVDCompareDiskID",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDCompareDiskID",
+            "address": 2148237604,
+            "unit": "dolphin/dvd/dvdidutils.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDCompareDiskID",
+            "address": 2148172152,
+            "unit": "dolphin/vi/VI_exact_800A8178.s"
+          }
+        ],
+        "signature": "700fadac392b0dc80b254780d6fd1c9f397f77396dbda3f98973c4679d471ecb"
+      }
+    },
+    "DVDGetCommandBlockStatus": {
+      "GPXE01": {
+        "box_symbol": "fn_80136540",
+        "address": 2148754752,
+        "size": 76,
+        "suggested_name": "DVDGetCommandBlockStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDGetCommandBlockStatus",
+            "address": 2148234908,
+            "unit": "dolphin/dvd/dvd.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDGetCommandBlockStatus",
+            "address": 2148169512,
+            "unit": "dolphin/dvd/DVD_range_800A7728.s"
+          }
+        ],
+        "signature": "2c75839fea50e9ea12388da029b5584bdd33001aeacbaa07f3e73674a529e104"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80137A08",
+        "address": 2148760072,
+        "size": 76,
+        "suggested_name": "DVDGetCommandBlockStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDGetCommandBlockStatus",
+            "address": 2148234908,
+            "unit": "dolphin/dvd/dvd.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDGetCommandBlockStatus",
+            "address": 2148169512,
+            "unit": "dolphin/dvd/DVD_range_800A7728.s"
+          }
+        ],
+        "signature": "2c75839fea50e9ea12388da029b5584bdd33001aeacbaa07f3e73674a529e104"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801333E0",
+        "address": 2148742112,
+        "size": 76,
+        "suggested_name": "DVDGetCommandBlockStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "DVDGetCommandBlockStatus",
+            "address": 2148234908,
+            "unit": "dolphin/dvd/dvd.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "DVDGetCommandBlockStatus",
+            "address": 2148169512,
+            "unit": "dolphin/dvd/DVD_range_800A7728.s"
+          }
+        ],
+        "signature": "2c75839fea50e9ea12388da029b5584bdd33001aeacbaa07f3e73674a529e104"
+      }
+    },
+    "GXInitFifoPtrs": {
+      "GPXE01": {
+        "box_symbol": "fn_80152050",
+        "address": 2148868176,
+        "size": 112,
+        "suggested_name": "GXInitFifoPtrs",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInitFifoPtrs",
+            "address": 2148300396,
+            "unit": "dolphin/gx/GXFifo.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInitFifoPtrs",
+            "address": 2148233600,
+            "unit": "dolphin/sdk_exact_800B6FE0.s"
+          }
+        ],
+        "signature": "3e4695f383514e0781c85106d6da394e27c362bd5fa6bff426eba55fd3f3bef9"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801534DC",
+        "address": 2148873436,
+        "size": 112,
+        "suggested_name": "GXInitFifoPtrs",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInitFifoPtrs",
+            "address": 2148300396,
+            "unit": "dolphin/gx/GXFifo.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInitFifoPtrs",
+            "address": 2148233600,
+            "unit": "dolphin/sdk_exact_800B6FE0.s"
+          }
+        ],
+        "signature": "3e4695f383514e0781c85106d6da394e27c362bd5fa6bff426eba55fd3f3bef9"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014E380",
+        "address": 2148852608,
+        "size": 112,
+        "suggested_name": "GXInitFifoPtrs",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInitFifoPtrs",
+            "address": 2148300396,
+            "unit": "dolphin/gx/GXFifo.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInitFifoPtrs",
+            "address": 2148233600,
+            "unit": "dolphin/sdk_exact_800B6FE0.s"
+          }
+        ],
+        "signature": "3e4695f383514e0781c85106d6da394e27c362bd5fa6bff426eba55fd3f3bef9"
+      }
+    },
+    "GXInitTexObjCI": {
+      "GPXE01": {
+        "box_symbol": "fn_80155434",
+        "address": 2148881460,
+        "size": 72,
+        "suggested_name": "GXInitTexObjCI",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInitTexObjCI",
+            "address": 2148316856,
+            "unit": "dolphin/gx/GXTexture.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInitTexObjCI",
+            "address": 2148248664,
+            "unit": "dolphin/sdk_range_800BA7C0.s"
+          }
+        ],
+        "signature": "9a2f55b7551bd98d93c12c7561096b3af43dcbf68b4e3845fe4b8c36e11ad36a"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801568C0",
+        "address": 2148886720,
+        "size": 72,
+        "suggested_name": "GXInitTexObjCI",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInitTexObjCI",
+            "address": 2148316856,
+            "unit": "dolphin/gx/GXTexture.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInitTexObjCI",
+            "address": 2148248664,
+            "unit": "dolphin/sdk_range_800BA7C0.s"
+          }
+        ],
+        "signature": "9a2f55b7551bd98d93c12c7561096b3af43dcbf68b4e3845fe4b8c36e11ad36a"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80151CD0",
+        "address": 2148867280,
+        "size": 72,
+        "suggested_name": "GXInitTexObjCI",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInitTexObjCI",
+            "address": 2148316856,
+            "unit": "dolphin/gx/GXTexture.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInitTexObjCI",
+            "address": 2148248664,
+            "unit": "dolphin/sdk_range_800BA7C0.s"
+          }
+        ],
+        "signature": "9a2f55b7551bd98d93c12c7561096b3af43dcbf68b4e3845fe4b8c36e11ad36a"
+      }
+    },
+    "GXInvalidateTexAll": {
+      "GPXE01": {
+        "box_symbol": "fn_801559CC",
+        "address": 2148882892,
+        "size": 72,
+        "suggested_name": "GXInvalidateTexAll",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInvalidateTexAll",
+            "address": 2148318324,
+            "unit": "dolphin/gx/GXTexture.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInvalidateTexAll",
+            "address": 2148250268,
+            "unit": "dolphin/sdk_range_800BAE64.s"
+          }
+        ],
+        "signature": "275aa1f46800aa6528b77aee1b0985170f60a36533c14f4d59f9b890c6234fda"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80156E58",
+        "address": 2148888152,
+        "size": 72,
+        "suggested_name": "GXInvalidateTexAll",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInvalidateTexAll",
+            "address": 2148318324,
+            "unit": "dolphin/gx/GXTexture.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInvalidateTexAll",
+            "address": 2148250268,
+            "unit": "dolphin/sdk_range_800BAE64.s"
+          }
+        ],
+        "signature": "275aa1f46800aa6528b77aee1b0985170f60a36533c14f4d59f9b890c6234fda"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801522EC",
+        "address": 2148868844,
+        "size": 72,
+        "suggested_name": "GXInvalidateTexAll",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXInvalidateTexAll",
+            "address": 2148318324,
+            "unit": "dolphin/gx/GXTexture.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXInvalidateTexAll",
+            "address": 2148250268,
+            "unit": "dolphin/sdk_range_800BAE64.s"
+          }
+        ],
+        "signature": "275aa1f46800aa6528b77aee1b0985170f60a36533c14f4d59f9b890c6234fda"
+      }
+    },
+    "GXLoadNrmMtxImm": {
+      "GPXE01": {
+        "box_symbol": "fn_80157420",
+        "address": 2148889632,
+        "size": 80,
+        "suggested_name": "GXLoadNrmMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadNrmMtxImm",
+            "address": 2148332692,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadNrmMtxImm",
+            "address": 2148259076,
+            "unit": "dolphin/sdk_candidate_800BD454.s"
+          }
+        ],
+        "signature": "500c8bd32c56d620bbcd397a8f1f16108d323e63203ae8dbeff87df377410273"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801588AC",
+        "address": 2148894892,
+        "size": 80,
+        "suggested_name": "GXLoadNrmMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadNrmMtxImm",
+            "address": 2148332692,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadNrmMtxImm",
+            "address": 2148259076,
+            "unit": "dolphin/sdk_candidate_800BD454.s"
+          }
+        ],
+        "signature": "500c8bd32c56d620bbcd397a8f1f16108d323e63203ae8dbeff87df377410273"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80153E10",
+        "address": 2148875792,
+        "size": 80,
+        "suggested_name": "GXLoadNrmMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadNrmMtxImm",
+            "address": 2148332692,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadNrmMtxImm",
+            "address": 2148259076,
+            "unit": "dolphin/sdk_candidate_800BD454.s"
+          }
+        ],
+        "signature": "500c8bd32c56d620bbcd397a8f1f16108d323e63203ae8dbeff87df377410273"
+      }
+    },
+    "GXLoadPosMtxImm": {
+      "GPXE01": {
+        "box_symbol": "fn_801573D0",
+        "address": 2148889552,
+        "size": 80,
+        "suggested_name": "GXLoadPosMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadPosMtxImm",
+            "address": 2148332612,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadPosMtxImm",
+            "address": 2148258996,
+            "unit": "dolphin/sdk_candidate_800BD454.s"
+          }
+        ],
+        "signature": "cc6b4a890c58e6aa4b012c9af0b7d5ed7e6cc02f2a1d01c39379697a817e5e56"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015885C",
+        "address": 2148894812,
+        "size": 80,
+        "suggested_name": "GXLoadPosMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadPosMtxImm",
+            "address": 2148332612,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadPosMtxImm",
+            "address": 2148258996,
+            "unit": "dolphin/sdk_candidate_800BD454.s"
+          }
+        ],
+        "signature": "cc6b4a890c58e6aa4b012c9af0b7d5ed7e6cc02f2a1d01c39379697a817e5e56"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80153DC0",
+        "address": 2148875712,
+        "size": 80,
+        "suggested_name": "GXLoadPosMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadPosMtxImm",
+            "address": 2148332612,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadPosMtxImm",
+            "address": 2148258996,
+            "unit": "dolphin/sdk_candidate_800BD454.s"
+          }
+        ],
+        "signature": "cc6b4a890c58e6aa4b012c9af0b7d5ed7e6cc02f2a1d01c39379697a817e5e56"
+      }
+    },
+    "GXLoadTexMtxImm": {
+      "GPXE01": {
+        "box_symbol": "fn_801574A4",
+        "address": 2148889764,
+        "size": 180,
+        "suggested_name": "GXLoadTexMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadTexMtxImm",
+            "address": 2148332824,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadTexMtxImm",
+            "address": 2148259212,
+            "unit": "dolphin/sdk_candidate_800BD58C.s"
+          }
+        ],
+        "signature": "a1be8256733c023c3ab8b27a6e1b66b05fddf7b29d154a8c2fc47f677cbf825d"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80158930",
+        "address": 2148895024,
+        "size": 180,
+        "suggested_name": "GXLoadTexMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadTexMtxImm",
+            "address": 2148332824,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadTexMtxImm",
+            "address": 2148259212,
+            "unit": "dolphin/sdk_candidate_800BD58C.s"
+          }
+        ],
+        "signature": "a1be8256733c023c3ab8b27a6e1b66b05fddf7b29d154a8c2fc47f677cbf825d"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80153E98",
+        "address": 2148875928,
+        "size": 180,
+        "suggested_name": "GXLoadTexMtxImm",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "GXLoadTexMtxImm",
+            "address": 2148332824,
+            "unit": "dolphin/gx/GXTransform.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "GXLoadTexMtxImm",
+            "address": 2148259212,
+            "unit": "dolphin/sdk_candidate_800BD58C.s"
+          }
+        ],
+        "signature": "a1be8256733c023c3ab8b27a6e1b66b05fddf7b29d154a8c2fc47f677cbf825d"
+      }
+    },
+    "HandleCloseFileSupportRequest": {
+      "GPXE01": {
+        "box_symbol": "fn_80166BC8",
+        "address": 2148953032,
+        "size": 232,
+        "suggested_name": "HandleCloseFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandleCloseFileSupportRequest",
+            "address": 2148359492,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandleCloseFileSupportRequest",
+            "address": 2148271804,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "428797f33491d867353cb6b283c51c83e4fe41a2bb391b01281c494dd3a6b69b"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80168054",
+        "address": 2148958292,
+        "size": 232,
+        "suggested_name": "HandleCloseFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandleCloseFileSupportRequest",
+            "address": 2148359492,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandleCloseFileSupportRequest",
+            "address": 2148271804,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "428797f33491d867353cb6b283c51c83e4fe41a2bb391b01281c494dd3a6b69b"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80163364",
+        "address": 2148938596,
+        "size": 232,
+        "suggested_name": "HandleCloseFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandleCloseFileSupportRequest",
+            "address": 2148359492,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandleCloseFileSupportRequest",
+            "address": 2148271804,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "428797f33491d867353cb6b283c51c83e4fe41a2bb391b01281c494dd3a6b69b"
+      }
+    },
+    "HandleOpenFileSupportRequest": {
+      "GPXE01": {
+        "box_symbol": "fn_80166CB0",
+        "address": 2148953264,
+        "size": 284,
+        "suggested_name": "HandleOpenFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandleOpenFileSupportRequest",
+            "address": 2148359724,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandleOpenFileSupportRequest",
+            "address": 2148272036,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "74b5dc7f819c3560b192570f9869ff2f5033f87556f599693618945edc4f8799"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016813C",
+        "address": 2148958524,
+        "size": 284,
+        "suggested_name": "HandleOpenFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandleOpenFileSupportRequest",
+            "address": 2148359724,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandleOpenFileSupportRequest",
+            "address": 2148272036,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "74b5dc7f819c3560b192570f9869ff2f5033f87556f599693618945edc4f8799"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8016344C",
+        "address": 2148938828,
+        "size": 284,
+        "suggested_name": "HandleOpenFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandleOpenFileSupportRequest",
+            "address": 2148359724,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandleOpenFileSupportRequest",
+            "address": 2148272036,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "74b5dc7f819c3560b192570f9869ff2f5033f87556f599693618945edc4f8799"
+      }
+    },
+    "HandlePositionFileSupportRequest": {
+      "GPXE01": {
+        "box_symbol": "fn_80166AB8",
+        "address": 2148952760,
+        "size": 272,
+        "suggested_name": "HandlePositionFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandlePositionFileSupportRequest",
+            "address": 2148359220,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandlePositionFileSupportRequest",
+            "address": 2148271532,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "af432f8fbdd07c71548810a93ffe29d4651297325f78174d0579678741f12d59"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80167F44",
+        "address": 2148958020,
+        "size": 272,
+        "suggested_name": "HandlePositionFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandlePositionFileSupportRequest",
+            "address": 2148359220,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandlePositionFileSupportRequest",
+            "address": 2148271532,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "af432f8fbdd07c71548810a93ffe29d4651297325f78174d0579678741f12d59"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80163254",
+        "address": 2148938324,
+        "size": 272,
+        "suggested_name": "HandlePositionFileSupportRequest",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "HandlePositionFileSupportRequest",
+            "address": 2148359220,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/support.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "HandlePositionFileSupportRequest",
+            "address": 2148271532,
+            "unit": "trk/TRKDispatch_r52_800C0504_prefix.s"
+          }
+        ],
+        "signature": "af432f8fbdd07c71548810a93ffe29d4651297325f78174d0579678741f12d59"
+      }
+    },
+    "OSSaveContext": {
+      "GPXE01": {
+        "box_symbol": "fn_80129A2C",
+        "address": 2148702764,
+        "size": 128,
+        "suggested_name": "OSSaveContext",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "OSSaveContext",
+            "address": 2148185456,
+            "unit": "dolphin/os/OSContext.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "OSSaveContext",
+            "address": 2148121552,
+            "unit": "dolphin/os/OSContext.s"
+          }
+        ],
+        "signature": "5076f0fde2d065938e8f0b535ed2f71516e6923fe2b9c1a97ea2f853a2bcd713"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8012AE88",
+        "address": 2148707976,
+        "size": 128,
+        "suggested_name": "OSSaveContext",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "OSSaveContext",
+            "address": 2148185456,
+            "unit": "dolphin/os/OSContext.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "OSSaveContext",
+            "address": 2148121552,
+            "unit": "dolphin/os/OSContext.s"
+          }
+        ],
+        "signature": "5076f0fde2d065938e8f0b535ed2f71516e6923fe2b9c1a97ea2f853a2bcd713"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80126A94",
+        "address": 2148690580,
+        "size": 128,
+        "suggested_name": "OSSaveContext",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "OSSaveContext",
+            "address": 2148185456,
+            "unit": "dolphin/os/OSContext.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "OSSaveContext",
+            "address": 2148121552,
+            "unit": "dolphin/os/OSContext.s"
+          }
+        ],
+        "signature": "5076f0fde2d065938e8f0b535ed2f71516e6923fe2b9c1a97ea2f853a2bcd713"
+      }
+    },
+    "OSTicksToCalendarTime": {
+      "GPXE01": {
+        "box_symbol": "fn_8012E708",
+        "address": 2148722440,
+        "size": 516,
+        "suggested_name": "OSTicksToCalendarTime",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "OSTicksToCalendarTime",
+            "address": 2148213948,
+            "unit": "dolphin/os/OSTime.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "OSTicksToCalendarTime",
+            "address": 2148149656,
+            "unit": "dolphin/os/OSTime.s"
+          }
+        ],
+        "signature": "d8c6df8de27bf9f6edbaf6db61ae2423937f3d3b81bd0c98d7a73152f7eb7277"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8012FBD0",
+        "address": 2148727760,
+        "size": 516,
+        "suggested_name": "OSTicksToCalendarTime",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "OSTicksToCalendarTime",
+            "address": 2148213948,
+            "unit": "dolphin/os/OSTime.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "OSTicksToCalendarTime",
+            "address": 2148149656,
+            "unit": "dolphin/os/OSTime.s"
+          }
+        ],
+        "signature": "d8c6df8de27bf9f6edbaf6db61ae2423937f3d3b81bd0c98d7a73152f7eb7277"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012B5E4",
+        "address": 2148709860,
+        "size": 516,
+        "suggested_name": "OSTicksToCalendarTime",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "OSTicksToCalendarTime",
+            "address": 2148213948,
+            "unit": "dolphin/os/OSTime.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "OSTicksToCalendarTime",
+            "address": 2148149656,
+            "unit": "dolphin/os/OSTime.s"
+          }
+        ],
+        "signature": "d8c6df8de27bf9f6edbaf6db61ae2423937f3d3b81bd0c98d7a73152f7eb7277"
+      }
+    },
+    "PSMTXCopy": {
+      "GPXE01": {
+        "box_symbol": "fn_801323D0",
+        "address": 2148738000,
+        "size": 52,
+        "suggested_name": "PSMTXCopy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXCopy",
+            "address": 2148214920,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXCopy",
+            "address": 2148150628,
+            "unit": "dolphin/sdk_r58_800A2D38_prefix.s"
+          }
+        ],
+        "signature": "16a1071dcfbc5fc2775a7b929ee6903ac5ab4d946af9119d57f5c8b823f41df1"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133898",
+        "address": 2148743320,
+        "size": 52,
+        "suggested_name": "PSMTXCopy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXCopy",
+            "address": 2148214920,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXCopy",
+            "address": 2148150628,
+            "unit": "dolphin/sdk_r58_800A2D38_prefix.s"
+          }
+        ],
+        "signature": "16a1071dcfbc5fc2775a7b929ee6903ac5ab4d946af9119d57f5c8b823f41df1"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F2AC",
+        "address": 2148725420,
+        "size": 52,
+        "suggested_name": "PSMTXCopy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXCopy",
+            "address": 2148214920,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXCopy",
+            "address": 2148150628,
+            "unit": "dolphin/sdk_r58_800A2D38_prefix.s"
+          }
+        ],
+        "signature": "16a1071dcfbc5fc2775a7b929ee6903ac5ab4d946af9119d57f5c8b823f41df1"
+      }
+    },
+    "PSMTXInverse": {
+      "GPXE01": {
+        "box_symbol": "fn_801324D0",
+        "address": 2148738256,
+        "size": 248,
+        "suggested_name": "PSMTXInverse",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXInverse",
+            "address": 2148215256,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXInverse",
+            "address": 2148150964,
+            "unit": "dolphin/sdk_r58_800A2D38_prefix.s"
+          }
+        ],
+        "signature": "074022d70637ea719752b3150cdfa3d334e2a31907549ed8d7b67a06fb165eae"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133998",
+        "address": 2148743576,
+        "size": 248,
+        "suggested_name": "PSMTXInverse",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXInverse",
+            "address": 2148215256,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXInverse",
+            "address": 2148150964,
+            "unit": "dolphin/sdk_r58_800A2D38_prefix.s"
+          }
+        ],
+        "signature": "074022d70637ea719752b3150cdfa3d334e2a31907549ed8d7b67a06fb165eae"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F3AC",
+        "address": 2148725676,
+        "size": 248,
+        "suggested_name": "PSMTXInverse",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXInverse",
+            "address": 2148215256,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXInverse",
+            "address": 2148150964,
+            "unit": "dolphin/sdk_r58_800A2D38_prefix.s"
+          }
+        ],
+        "signature": "074022d70637ea719752b3150cdfa3d334e2a31907549ed8d7b67a06fb165eae"
+      }
+    },
+    "PSMTXMultVec": {
+      "GPXE01": {
+        "box_symbol": "fn_80132A94",
+        "address": 2148739732,
+        "size": 84,
+        "suggested_name": "PSMTXMultVec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXMultVec",
+            "address": 2148217584,
+            "unit": "dolphin/mtx/mtxvec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXMultVec",
+            "address": 2148153292,
+            "unit": "dolphin/sdk_range_800A37CC.s"
+          }
+        ],
+        "signature": "0e86b49668bd9172bfd1256aa2842a4326032efab48cb6b8df58523a63992e78"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133F5C",
+        "address": 2148745052,
+        "size": 84,
+        "suggested_name": "PSMTXMultVec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXMultVec",
+            "address": 2148217584,
+            "unit": "dolphin/mtx/mtxvec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXMultVec",
+            "address": 2148153292,
+            "unit": "dolphin/sdk_range_800A37CC.s"
+          }
+        ],
+        "signature": "0e86b49668bd9172bfd1256aa2842a4326032efab48cb6b8df58523a63992e78"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F970",
+        "address": 2148727152,
+        "size": 84,
+        "suggested_name": "PSMTXMultVec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXMultVec",
+            "address": 2148217584,
+            "unit": "dolphin/mtx/mtxvec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXMultVec",
+            "address": 2148153292,
+            "unit": "dolphin/sdk_range_800A37CC.s"
+          }
+        ],
+        "signature": "0e86b49668bd9172bfd1256aa2842a4326032efab48cb6b8df58523a63992e78"
+      }
+    },
+    "PSMTXMultVecSR": {
+      "GPXE01": {
+        "box_symbol": "fn_80132AE8",
+        "address": 2148739816,
+        "size": 84,
+        "suggested_name": "PSMTXMultVecSR",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXMultVecSR",
+            "address": 2148217668,
+            "unit": "dolphin/mtx/mtxvec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXMultVecSR",
+            "address": 2148153376,
+            "unit": "dolphin/sdk_range_800A37CC.s"
+          }
+        ],
+        "signature": "831561b9c18bf5233f08767cec93407f1c3816f570908000c04ab6be57d3f780"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133FB0",
+        "address": 2148745136,
+        "size": 84,
+        "suggested_name": "PSMTXMultVecSR",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXMultVecSR",
+            "address": 2148217668,
+            "unit": "dolphin/mtx/mtxvec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXMultVecSR",
+            "address": 2148153376,
+            "unit": "dolphin/sdk_range_800A37CC.s"
+          }
+        ],
+        "signature": "831561b9c18bf5233f08767cec93407f1c3816f570908000c04ab6be57d3f780"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F9C4",
+        "address": 2148727236,
+        "size": 84,
+        "suggested_name": "PSMTXMultVecSR",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXMultVecSR",
+            "address": 2148217668,
+            "unit": "dolphin/mtx/mtxvec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXMultVecSR",
+            "address": 2148153376,
+            "unit": "dolphin/sdk_range_800A37CC.s"
+          }
+        ],
+        "signature": "831561b9c18bf5233f08767cec93407f1c3816f570908000c04ab6be57d3f780"
+      }
+    },
+    "PSMTXScaleApply": {
+      "GPXE01": {
+        "box_symbol": "fn_801328B0",
+        "address": 2148739248,
+        "size": 88,
+        "suggested_name": "PSMTXScaleApply",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXScaleApply",
+            "address": 2148216448,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXScaleApply",
+            "address": 2148152156,
+            "unit": "dolphin/sdk_r59_800A335C_o2.s"
+          }
+        ],
+        "signature": "a80e661ad837f24fd73ee2aed9890c8bd1d5b8c8236c53c33d4a636a0065c453"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133D78",
+        "address": 2148744568,
+        "size": 88,
+        "suggested_name": "PSMTXScaleApply",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXScaleApply",
+            "address": 2148216448,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXScaleApply",
+            "address": 2148152156,
+            "unit": "dolphin/sdk_r59_800A335C_o2.s"
+          }
+        ],
+        "signature": "a80e661ad837f24fd73ee2aed9890c8bd1d5b8c8236c53c33d4a636a0065c453"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F78C",
+        "address": 2148726668,
+        "size": 88,
+        "suggested_name": "PSMTXScaleApply",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXScaleApply",
+            "address": 2148216448,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXScaleApply",
+            "address": 2148152156,
+            "unit": "dolphin/sdk_r59_800A335C_o2.s"
+          }
+        ],
+        "signature": "a80e661ad837f24fd73ee2aed9890c8bd1d5b8c8236c53c33d4a636a0065c453"
+      }
+    },
+    "PSMTXTransApply": {
+      "GPXE01": {
+        "box_symbol": "fn_8013283C",
+        "address": 2148739132,
+        "size": 76,
+        "suggested_name": "PSMTXTransApply",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXTransApply",
+            "address": 2148216332,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXTransApply",
+            "address": 2148152040,
+            "unit": "dolphin/sdk_r59_800A3194_prefix.s"
+          }
+        ],
+        "signature": "282352ff267e0d5e83043d89188bc46363fe127380a6eb5414487ff0da6072f7"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133D04",
+        "address": 2148744452,
+        "size": 76,
+        "suggested_name": "PSMTXTransApply",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXTransApply",
+            "address": 2148216332,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXTransApply",
+            "address": 2148152040,
+            "unit": "dolphin/sdk_r59_800A3194_prefix.s"
+          }
+        ],
+        "signature": "282352ff267e0d5e83043d89188bc46363fe127380a6eb5414487ff0da6072f7"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012F718",
+        "address": 2148726552,
+        "size": 76,
+        "suggested_name": "PSMTXTransApply",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSMTXTransApply",
+            "address": 2148216332,
+            "unit": "dolphin/mtx/mtx.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSMTXTransApply",
+            "address": 2148152040,
+            "unit": "dolphin/sdk_r59_800A3194_prefix.s"
+          }
+        ],
+        "signature": "282352ff267e0d5e83043d89188bc46363fe127380a6eb5414487ff0da6072f7"
+      }
+    },
+    "PSVECCrossProduct": {
+      "GPXE01": {
+        "box_symbol": "fn_80132D70",
+        "address": 2148740464,
+        "size": 60,
+        "suggested_name": "PSVECCrossProduct",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSVECCrossProduct",
+            "address": 2148218560,
+            "unit": "dolphin/mtx/vec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSVECCrossProduct",
+            "address": 2148154268,
+            "unit": "dolphin/sdk_candidate_800A3A78.s"
+          }
+        ],
+        "signature": "5628e2b0f92b5abb682884c6b2ca18d2286f3036053e283dbc44550998ee11a4"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80134238",
+        "address": 2148745784,
+        "size": 60,
+        "suggested_name": "PSVECCrossProduct",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSVECCrossProduct",
+            "address": 2148218560,
+            "unit": "dolphin/mtx/vec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSVECCrossProduct",
+            "address": 2148154268,
+            "unit": "dolphin/sdk_candidate_800A3A78.s"
+          }
+        ],
+        "signature": "5628e2b0f92b5abb682884c6b2ca18d2286f3036053e283dbc44550998ee11a4"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012FC4C",
+        "address": 2148727884,
+        "size": 60,
+        "suggested_name": "PSVECCrossProduct",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "PSVECCrossProduct",
+            "address": 2148218560,
+            "unit": "dolphin/mtx/vec.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "PSVECCrossProduct",
+            "address": 2148154268,
+            "unit": "dolphin/sdk_candidate_800A3A78.s"
+          }
+        ],
+        "signature": "5628e2b0f92b5abb682884c6b2ca18d2286f3036053e283dbc44550998ee11a4"
+      }
+    },
+    "SIDecodeType": {
+      "GPXE01": {
+        "box_symbol": "fn_80132040",
+        "address": 2148737088,
+        "size": 332,
+        "suggested_name": "SIDecodeType",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "SIDecodeType",
+            "address": 2148446532,
+            "unit": "dolphin/si/SIBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "SIDecodeType",
+            "address": 2148339192,
+            "unit": "dolphin/si/SITypeDecode.s"
+          }
+        ],
+        "signature": "3f7b2669f68e1189131d66f801d91e28c017403690a9b384c80cb947e8603ed6"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80133508",
+        "address": 2148742408,
+        "size": 332,
+        "suggested_name": "SIDecodeType",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "SIDecodeType",
+            "address": 2148446532,
+            "unit": "dolphin/si/SIBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "SIDecodeType",
+            "address": 2148339192,
+            "unit": "dolphin/si/SITypeDecode.s"
+          }
+        ],
+        "signature": "3f7b2669f68e1189131d66f801d91e28c017403690a9b384c80cb947e8603ed6"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012EF1C",
+        "address": 2148724508,
+        "size": 332,
+        "suggested_name": "SIDecodeType",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "SIDecodeType",
+            "address": 2148446532,
+            "unit": "dolphin/si/SIBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "SIDecodeType",
+            "address": 2148339192,
+            "unit": "dolphin/si/SITypeDecode.s"
+          }
+        ],
+        "signature": "3f7b2669f68e1189131d66f801d91e28c017403690a9b384c80cb947e8603ed6"
+      }
+    },
+    "SetInterruptMask": {
+      "GPXE01": {
+        "box_symbol": "fn_8012A900",
+        "address": 2148706560,
+        "size": 728,
+        "suggested_name": "SetInterruptMask",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "SetInterruptMask",
+            "address": 2148197484,
+            "unit": "dolphin/os/OSInterrupt.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "SetInterruptMask",
+            "address": 2148130860,
+            "unit": "dolphin/os/OSInterrupt.s"
+          }
+        ],
+        "signature": "f2517a1111841625fb021c1c7502f65c69bab076662f6dc9e409d2c047ab1645"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8012BD5C",
+        "address": 2148711772,
+        "size": 728,
+        "suggested_name": "SetInterruptMask",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "SetInterruptMask",
+            "address": 2148197484,
+            "unit": "dolphin/os/OSInterrupt.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "SetInterruptMask",
+            "address": 2148130860,
+            "unit": "dolphin/os/OSInterrupt.s"
+          }
+        ],
+        "signature": "f2517a1111841625fb021c1c7502f65c69bab076662f6dc9e409d2c047ab1645"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80127968",
+        "address": 2148694376,
+        "size": 728,
+        "suggested_name": "SetInterruptMask",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "SetInterruptMask",
+            "address": 2148197484,
+            "unit": "dolphin/os/OSInterrupt.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "SetInterruptMask",
+            "address": 2148130860,
+            "unit": "dolphin/os/OSInterrupt.s"
+          }
+        ],
+        "signature": "f2517a1111841625fb021c1c7502f65c69bab076662f6dc9e409d2c047ab1645"
+      }
+    },
+    "TRKAppendBuffer": {
+      "GPXE01": {
+        "box_symbol": "fn_801652AC",
+        "address": 2148946604,
+        "size": 164,
+        "suggested_name": "TRKAppendBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKAppendBuffer",
+            "address": 2148353064,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKAppendBuffer",
+            "address": 2148265376,
+            "unit": "trk/TRKNub_exact_800BED14.s"
+          }
+        ],
+        "signature": "afa9206dcf25e31858f92320821a4025c4c9c0f6d6fd7aa5b7d23dd1ba9175c0"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80166738",
+        "address": 2148951864,
+        "size": 164,
+        "suggested_name": "TRKAppendBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKAppendBuffer",
+            "address": 2148353064,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKAppendBuffer",
+            "address": 2148265376,
+            "unit": "trk/TRKNub_exact_800BED14.s"
+          }
+        ],
+        "signature": "afa9206dcf25e31858f92320821a4025c4c9c0f6d6fd7aa5b7d23dd1ba9175c0"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80161AE8",
+        "address": 2148932328,
+        "size": 164,
+        "suggested_name": "TRKAppendBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKAppendBuffer",
+            "address": 2148353064,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKAppendBuffer",
+            "address": 2148265376,
+            "unit": "trk/TRKNub_exact_800BED14.s"
+          }
+        ],
+        "signature": "afa9206dcf25e31858f92320821a4025c4c9c0f6d6fd7aa5b7d23dd1ba9175c0"
+      }
+    },
+    "TRKAppendBuffer_ui8": {
+      "GPXE01": {
+        "box_symbol": "fn_801650BC",
+        "address": 2148946108,
+        "size": 104,
+        "suggested_name": "TRKAppendBuffer_ui8",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKAppendBuffer_ui8",
+            "address": 2148352568,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKAppendBuffer_ui8",
+            "address": 2148264880,
+            "unit": "trk/TRKNub_exact_800BEBB0.s"
+          }
+        ],
+        "signature": "4305cd0e5b34889f13165b3a323765f883b6d02e0b1cc40fafbb97f51b2b9403"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80166548",
+        "address": 2148951368,
+        "size": 104,
+        "suggested_name": "TRKAppendBuffer_ui8",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKAppendBuffer_ui8",
+            "address": 2148352568,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKAppendBuffer_ui8",
+            "address": 2148264880,
+            "unit": "trk/TRKNub_exact_800BEBB0.s"
+          }
+        ],
+        "signature": "4305cd0e5b34889f13165b3a323765f883b6d02e0b1cc40fafbb97f51b2b9403"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801618F8",
+        "address": 2148931832,
+        "size": 104,
+        "suggested_name": "TRKAppendBuffer_ui8",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKAppendBuffer_ui8",
+            "address": 2148352568,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKAppendBuffer_ui8",
+            "address": 2148264880,
+            "unit": "trk/TRKNub_exact_800BEBB0.s"
+          }
+        ],
+        "signature": "4305cd0e5b34889f13165b3a323765f883b6d02e0b1cc40fafbb97f51b2b9403"
+      }
+    },
+    "TRKDoNotifyStopped": {
+      "GPXE01": {
+        "box_symbol": "fn_801671E4",
+        "address": 2148954596,
+        "size": 152,
+        "suggested_name": "TRKDoNotifyStopped",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoNotifyStopped",
+            "address": 2148361056,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/notify.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoNotifyStopped",
+            "address": 2148273368,
+            "unit": "trk/TRKDispatch_exact_800C0CD8.s"
+          }
+        ],
+        "signature": "5be32b53c67daddfcc716cf31703abafd6c97414d824fcac838983fb99d942eb"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80168670",
+        "address": 2148959856,
+        "size": 152,
+        "suggested_name": "TRKDoNotifyStopped",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoNotifyStopped",
+            "address": 2148361056,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/notify.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoNotifyStopped",
+            "address": 2148273368,
+            "unit": "trk/TRKDispatch_exact_800C0CD8.s"
+          }
+        ],
+        "signature": "5be32b53c67daddfcc716cf31703abafd6c97414d824fcac838983fb99d942eb"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801639A0",
+        "address": 2148940192,
+        "size": 152,
+        "suggested_name": "TRKDoNotifyStopped",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoNotifyStopped",
+            "address": 2148361056,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/notify.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoNotifyStopped",
+            "address": 2148273368,
+            "unit": "trk/TRKDispatch_exact_800C0CD8.s"
+          }
+        ],
+        "signature": "5be32b53c67daddfcc716cf31703abafd6c97414d824fcac838983fb99d942eb"
+      }
+    },
+    "TRKDoStep": {
+      "GPXE01": {
+        "box_symbol": "fn_80165B98",
+        "address": 2148948888,
+        "size": 544,
+        "suggested_name": "TRKDoStep",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoStep",
+            "address": 2148355348,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoStep",
+            "address": 2148267660,
+            "unit": "trk/TRKDispatch_range_800BF53C.s"
+          }
+        ],
+        "signature": "325813dbf30f81efd8d0038c5103975f33c17377112d4772e385ce8fac01a202"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80167024",
+        "address": 2148954148,
+        "size": 544,
+        "suggested_name": "TRKDoStep",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoStep",
+            "address": 2148355348,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoStep",
+            "address": 2148267660,
+            "unit": "trk/TRKDispatch_range_800BF53C.s"
+          }
+        ],
+        "signature": "325813dbf30f81efd8d0038c5103975f33c17377112d4772e385ce8fac01a202"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801623D4",
+        "address": 2148934612,
+        "size": 544,
+        "suggested_name": "TRKDoStep",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoStep",
+            "address": 2148355348,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoStep",
+            "address": 2148267660,
+            "unit": "trk/TRKDispatch_range_800BF53C.s"
+          }
+        ],
+        "signature": "325813dbf30f81efd8d0038c5103975f33c17377112d4772e385ce8fac01a202"
+      }
+    },
+    "TRKDoStop": {
+      "GPXE01": {
+        "box_symbol": "fn_80165AF0",
+        "address": 2148948720,
+        "size": 168,
+        "suggested_name": "TRKDoStop",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoStop",
+            "address": 2148355180,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoStop",
+            "address": 2148267492,
+            "unit": "trk/TRKDispatch_range_800BF53C.s"
+          }
+        ],
+        "signature": "ce34a069fabdde87d2c963a187ab60f3b639343ba45e1ce689418b160b433560"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80166F7C",
+        "address": 2148953980,
+        "size": 168,
+        "suggested_name": "TRKDoStop",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoStop",
+            "address": 2148355180,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoStop",
+            "address": 2148267492,
+            "unit": "trk/TRKDispatch_range_800BF53C.s"
+          }
+        ],
+        "signature": "ce34a069fabdde87d2c963a187ab60f3b639343ba45e1ce689418b160b433560"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8016232C",
+        "address": 2148934444,
+        "size": 168,
+        "suggested_name": "TRKDoStop",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKDoStop",
+            "address": 2148355180,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKDoStop",
+            "address": 2148267492,
+            "unit": "trk/TRKDispatch_range_800BF53C.s"
+          }
+        ],
+        "signature": "ce34a069fabdde87d2c963a187ab60f3b639343ba45e1ce689418b160b433560"
+      }
+    },
+    "TRKReadBuffer": {
+      "GPXE01": {
+        "box_symbol": "fn_80165220",
+        "address": 2148946464,
+        "size": 140,
+        "suggested_name": "TRKReadBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKReadBuffer",
+            "address": 2148352924,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKReadBuffer",
+            "address": 2148265236,
+            "unit": "trk/TRKNub_exact_800BED14.s"
+          }
+        ],
+        "signature": "5640da129bbc90e6bae1f98aeb92878f26ed28cdd11c1a2926488e4f89817afa"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801666AC",
+        "address": 2148951724,
+        "size": 140,
+        "suggested_name": "TRKReadBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKReadBuffer",
+            "address": 2148352924,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKReadBuffer",
+            "address": 2148265236,
+            "unit": "trk/TRKNub_exact_800BED14.s"
+          }
+        ],
+        "signature": "5640da129bbc90e6bae1f98aeb92878f26ed28cdd11c1a2926488e4f89817afa"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80161A5C",
+        "address": 2148932188,
+        "size": 140,
+        "suggested_name": "TRKReadBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKReadBuffer",
+            "address": 2148352924,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKReadBuffer",
+            "address": 2148265236,
+            "unit": "trk/TRKNub_exact_800BED14.s"
+          }
+        ],
+        "signature": "5640da129bbc90e6bae1f98aeb92878f26ed28cdd11c1a2926488e4f89817afa"
+      }
+    },
+    "TRKReadBuffer_ui8": {
+      "GPXE01": {
+        "box_symbol": "fn_80164E40",
+        "address": 2148945472,
+        "size": 152,
+        "suggested_name": "TRKReadBuffer_ui8",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKReadBuffer_ui8",
+            "address": 2148351932,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKReadBuffer_ui8",
+            "address": 2148264244,
+            "unit": "trk/TRKNub_candidate_800BE844.s"
+          }
+        ],
+        "signature": "de0c5f8c8dd0bddaf399a330fde3ed34378fe6a2a68ca6de1e724a777d7f3875"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801662CC",
+        "address": 2148950732,
+        "size": 152,
+        "suggested_name": "TRKReadBuffer_ui8",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKReadBuffer_ui8",
+            "address": 2148351932,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKReadBuffer_ui8",
+            "address": 2148264244,
+            "unit": "trk/TRKNub_candidate_800BE844.s"
+          }
+        ],
+        "signature": "de0c5f8c8dd0bddaf399a330fde3ed34378fe6a2a68ca6de1e724a777d7f3875"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8016167C",
+        "address": 2148931196,
+        "size": 152,
+        "suggested_name": "TRKReadBuffer_ui8",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKReadBuffer_ui8",
+            "address": 2148351932,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKReadBuffer_ui8",
+            "address": 2148264244,
+            "unit": "trk/TRKNub_candidate_800BE844.s"
+          }
+        ],
+        "signature": "de0c5f8c8dd0bddaf399a330fde3ed34378fe6a2a68ca6de1e724a777d7f3875"
+      }
+    },
+    "TRKResetBuffer": {
+      "GPXE01": {
+        "box_symbol": "fn_80165380",
+        "address": 2148946816,
+        "size": 64,
+        "suggested_name": "TRKResetBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKResetBuffer",
+            "address": 2148353276,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKResetBuffer",
+            "address": 2148265588,
+            "unit": "trk/TRKNub_range_800BEE74.s"
+          }
+        ],
+        "signature": "0aec30fb05e3cd3428774331fed9c7472c715ec43024987f7b266d8d9b9e2f0f"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8016680C",
+        "address": 2148952076,
+        "size": 64,
+        "suggested_name": "TRKResetBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKResetBuffer",
+            "address": 2148353276,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKResetBuffer",
+            "address": 2148265588,
+            "unit": "trk/TRKNub_range_800BEE74.s"
+          }
+        ],
+        "signature": "0aec30fb05e3cd3428774331fed9c7472c715ec43024987f7b266d8d9b9e2f0f"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80161BBC",
+        "address": 2148932540,
+        "size": 64,
+        "suggested_name": "TRKResetBuffer",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKResetBuffer",
+            "address": 2148353276,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKResetBuffer",
+            "address": 2148265588,
+            "unit": "trk/TRKNub_range_800BEE74.s"
+          }
+        ],
+        "signature": "0aec30fb05e3cd3428774331fed9c7472c715ec43024987f7b266d8d9b9e2f0f"
+      }
+    },
+    "TRKSetBufferPosition": {
+      "GPXE01": {
+        "box_symbol": "fn_80165350",
+        "address": 2148946768,
+        "size": 48,
+        "suggested_name": "TRKSetBufferPosition",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKSetBufferPosition",
+            "address": 2148353228,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKSetBufferPosition",
+            "address": 2148265540,
+            "unit": "trk/TRKBufferReset.s"
+          }
+        ],
+        "signature": "9dceda306d2a4ee5fb9735c5f9e731cb5b0df272703f2ef554794b05004d13b4"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801667DC",
+        "address": 2148952028,
+        "size": 48,
+        "suggested_name": "TRKSetBufferPosition",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKSetBufferPosition",
+            "address": 2148353228,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKSetBufferPosition",
+            "address": 2148265540,
+            "unit": "trk/TRKBufferReset.s"
+          }
+        ],
+        "signature": "9dceda306d2a4ee5fb9735c5f9e731cb5b0df272703f2ef554794b05004d13b4"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80161B8C",
+        "address": 2148932492,
+        "size": 48,
+        "suggested_name": "TRKSetBufferPosition",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKSetBufferPosition",
+            "address": 2148353228,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKSetBufferPosition",
+            "address": 2148265540,
+            "unit": "trk/TRKBufferReset.s"
+          }
+        ],
+        "signature": "9dceda306d2a4ee5fb9735c5f9e731cb5b0df272703f2ef554794b05004d13b4"
+      }
+    },
+    "TRKTargetReadInstruction": {
+      "GPXE01": {
+        "box_symbol": "fn_80168ABC",
+        "address": 2148960956,
+        "size": 76,
+        "suggested_name": "TRKTargetReadInstruction",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKTargetReadInstruction",
+            "address": 2148367416,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKTargetReadInstruction",
+            "address": 2148279728,
+            "unit": "trk/TRKTarget_exact_800C24BC.s"
+          }
+        ],
+        "signature": "95216ecb65557e3ddb773831e8da2bd40d959113e7dd40a240407c92c5d63acc"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80169F48",
+        "address": 2148966216,
+        "size": 76,
+        "suggested_name": "TRKTargetReadInstruction",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKTargetReadInstruction",
+            "address": 2148367416,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKTargetReadInstruction",
+            "address": 2148279728,
+            "unit": "trk/TRKTarget_exact_800C24BC.s"
+          }
+        ],
+        "signature": "95216ecb65557e3ddb773831e8da2bd40d959113e7dd40a240407c92c5d63acc"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8016512C",
+        "address": 2148946220,
+        "size": 76,
+        "suggested_name": "TRKTargetReadInstruction",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRKTargetReadInstruction",
+            "address": 2148367416,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRKTargetReadInstruction",
+            "address": 2148279728,
+            "unit": "trk/TRKTarget_exact_800C24BC.s"
+          }
+        ],
+        "signature": "95216ecb65557e3ddb773831e8da2bd40d959113e7dd40a240407c92c5d63acc"
+      }
+    },
+    "TRK_flush_cache": {
+      "GPXE01": {
+        "box_symbol": "fn_8016727C",
+        "address": 2148954748,
+        "size": 56,
+        "suggested_name": "TRK_flush_cache",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRK_flush_cache",
+            "address": 2148361208,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/flush_cache.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRK_flush_cache",
+            "address": 2148273520,
+            "unit": "trk/TRKDispatch_range_800C0CD8.s"
+          }
+        ],
+        "signature": "b32920fcf4ac8d1f143be3006adf592aa22b0f6f2581c1f53bef964b2441678d"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80168708",
+        "address": 2148960008,
+        "size": 56,
+        "suggested_name": "TRK_flush_cache",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRK_flush_cache",
+            "address": 2148361208,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/flush_cache.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRK_flush_cache",
+            "address": 2148273520,
+            "unit": "trk/TRKDispatch_range_800C0CD8.s"
+          }
+        ],
+        "signature": "b32920fcf4ac8d1f143be3006adf592aa22b0f6f2581c1f53bef964b2441678d"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80163A38",
+        "address": 2148940344,
+        "size": 56,
+        "suggested_name": "TRK_flush_cache",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRK_flush_cache",
+            "address": 2148361208,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/flush_cache.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRK_flush_cache",
+            "address": 2148273520,
+            "unit": "trk/TRKDispatch_range_800C0CD8.s"
+          }
+        ],
+        "signature": "b32920fcf4ac8d1f143be3006adf592aa22b0f6f2581c1f53bef964b2441678d"
+      }
+    },
+    "TRK_ppc_memcpy": {
+      "GPXE01": {
+        "box_symbol": "fn_8016737C",
+        "address": 2148955004,
+        "size": 60,
+        "suggested_name": "TRK_ppc_memcpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRK_ppc_memcpy",
+            "address": 2148361464,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRK_ppc_memcpy",
+            "address": 2148273776,
+            "unit": "trk/TRKDispatch_candidate_800C0E60.s"
+          }
+        ],
+        "signature": "c21a1fc5bdb79a742bea81f18acaf0bac7a627244559c1f03f5dc7c652554820"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80168808",
+        "address": 2148960264,
+        "size": 60,
+        "suggested_name": "TRK_ppc_memcpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRK_ppc_memcpy",
+            "address": 2148361464,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRK_ppc_memcpy",
+            "address": 2148273776,
+            "unit": "trk/TRKDispatch_candidate_800C0E60.s"
+          }
+        ],
+        "signature": "c21a1fc5bdb79a742bea81f18acaf0bac7a627244559c1f03f5dc7c652554820"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80163B38",
+        "address": 2148940600,
+        "size": 60,
+        "suggested_name": "TRK_ppc_memcpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "TRK_ppc_memcpy",
+            "address": 2148361464,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "TRK_ppc_memcpy",
+            "address": 2148273776,
+            "unit": "trk/TRKDispatch_candidate_800C0E60.s"
+          }
+        ],
+        "signature": "c21a1fc5bdb79a742bea81f18acaf0bac7a627244559c1f03f5dc7c652554820"
+      }
+    },
+    "UpdateIconOffsets": {
+      "GPXE01": {
+        "box_symbol": "fn_8014FB78",
+        "address": 2148858744,
+        "size": 504,
+        "suggested_name": "UpdateIconOffsets",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "UpdateIconOffsets",
+            "address": 2148292504,
+            "unit": "dolphin/card/CARDStat.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "UpdateIconOffsets",
+            "address": 2148225848,
+            "unit": "dolphin/sdk_candidate_800B5228.s"
+          }
+        ],
+        "signature": "6203969e97ea108915b69e872cc0676d6f6d335d38682dfc8bb2e9934568b470"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80151004",
+        "address": 2148864004,
+        "size": 504,
+        "suggested_name": "UpdateIconOffsets",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "UpdateIconOffsets",
+            "address": 2148292504,
+            "unit": "dolphin/card/CARDStat.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "UpdateIconOffsets",
+            "address": 2148225848,
+            "unit": "dolphin/sdk_candidate_800B5228.s"
+          }
+        ],
+        "signature": "6203969e97ea108915b69e872cc0676d6f6d335d38682dfc8bb2e9934568b470"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014BF64",
+        "address": 2148843364,
+        "size": 504,
+        "suggested_name": "UpdateIconOffsets",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "UpdateIconOffsets",
+            "address": 2148292504,
+            "unit": "dolphin/card/CARDStat.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "UpdateIconOffsets",
+            "address": 2148225848,
+            "unit": "dolphin/sdk_candidate_800B5228.s"
+          }
+        ],
+        "signature": "6203969e97ea108915b69e872cc0676d6f6d335d38682dfc8bb2e9934568b470"
+      }
+    },
+    "VerifyDir": {
+      "GPXE01": {
+        "box_symbol": "fn_8014CD34",
+        "address": 2148846900,
+        "size": 576,
+        "suggested_name": "VerifyDir",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "VerifyDir",
+            "address": 2148280108,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "VerifyDir",
+            "address": 2148213924,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "c16021a01ae0b87e948a08d2fe2d3a2d665ddd9abd7825ae3b3c382f65f16884"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014E1C0",
+        "address": 2148852160,
+        "size": 576,
+        "suggested_name": "VerifyDir",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "VerifyDir",
+            "address": 2148280108,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "VerifyDir",
+            "address": 2148213924,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "c16021a01ae0b87e948a08d2fe2d3a2d665ddd9abd7825ae3b3c382f65f16884"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801492F8",
+        "address": 2148831992,
+        "size": 576,
+        "suggested_name": "VerifyDir",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "VerifyDir",
+            "address": 2148280108,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "VerifyDir",
+            "address": 2148213924,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "c16021a01ae0b87e948a08d2fe2d3a2d665ddd9abd7825ae3b3c382f65f16884"
+      }
+    },
+    "VerifyFAT": {
+      "GPXE01": {
+        "box_symbol": "fn_8014CF74",
+        "address": 2148847476,
+        "size": 644,
+        "suggested_name": "VerifyFAT",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "VerifyFAT",
+            "address": 2148280684,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "VerifyFAT",
+            "address": 2148214500,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "6839dc732d2341ff4ea62204a98d0fa652c948d8350ea178b6d1da2f566097d8"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014E400",
+        "address": 2148852736,
+        "size": 644,
+        "suggested_name": "VerifyFAT",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "VerifyFAT",
+            "address": 2148280684,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "VerifyFAT",
+            "address": 2148214500,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "6839dc732d2341ff4ea62204a98d0fa652c948d8350ea178b6d1da2f566097d8"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80149538",
+        "address": 2148832568,
+        "size": 644,
+        "suggested_name": "VerifyFAT",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "VerifyFAT",
+            "address": 2148280684,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "VerifyFAT",
+            "address": 2148214500,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "6839dc732d2341ff4ea62204a98d0fa652c948d8350ea178b6d1da2f566097d8"
+      }
+    },
+    "__AI_set_stream_sample_rate": {
+      "GPXE01": {
+        "box_symbol": "fn_8013B238",
+        "address": 2148774456,
+        "size": 212,
+        "suggested_name": "__AI_set_stream_sample_rate",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__AI_set_stream_sample_rate",
+            "address": 2148254724,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__AI_set_stream_sample_rate",
+            "address": 2148188932,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "865813e675af9b2bbf3983d535d6512deea17679b24dbd57ca9b0f1a23300bdb"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8013C6C4",
+        "address": 2148779716,
+        "size": 212,
+        "suggested_name": "__AI_set_stream_sample_rate",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__AI_set_stream_sample_rate",
+            "address": 2148254724,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__AI_set_stream_sample_rate",
+            "address": 2148188932,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "865813e675af9b2bbf3983d535d6512deea17679b24dbd57ca9b0f1a23300bdb"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80137F68",
+        "address": 2148761448,
+        "size": 212,
+        "suggested_name": "__AI_set_stream_sample_rate",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__AI_set_stream_sample_rate",
+            "address": 2148254724,
+            "unit": "dolphin/ai/ai.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__AI_set_stream_sample_rate",
+            "address": 2148188932,
+            "unit": "dolphin/ai_exact_800AC02C.s"
+          }
+        ],
+        "signature": "865813e675af9b2bbf3983d535d6512deea17679b24dbd57ca9b0f1a23300bdb"
+      }
+    },
+    "__CARDCheckSum": {
+      "GPXE01": {
+        "box_symbol": "fn_8014C900",
+        "address": 2148845824,
+        "size": 432,
+        "suggested_name": "__CARDCheckSum",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDCheckSum",
+            "address": 2148279032,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDCheckSum",
+            "address": 2148212848,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "4ea6b0d949267b1a57e390bd34f8f7432d8035e55a9827146ef2b5d85103858b"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014DD8C",
+        "address": 2148851084,
+        "size": 432,
+        "suggested_name": "__CARDCheckSum",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDCheckSum",
+            "address": 2148279032,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDCheckSum",
+            "address": 2148212848,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "4ea6b0d949267b1a57e390bd34f8f7432d8035e55a9827146ef2b5d85103858b"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80148EC4",
+        "address": 2148830916,
+        "size": 432,
+        "suggested_name": "__CARDCheckSum",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDCheckSum",
+            "address": 2148279032,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDCheckSum",
+            "address": 2148212848,
+            "unit": "dolphin/sdk_range_800B2070.s"
+          }
+        ],
+        "signature": "4ea6b0d949267b1a57e390bd34f8f7432d8035e55a9827146ef2b5d85103858b"
+      }
+    },
+    "__CARDClearStatus": {
+      "GPXE01": {
+        "box_symbol": "fn_80149F10",
+        "address": 2148835088,
+        "size": 172,
+        "suggested_name": "__CARDClearStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDClearStatus",
+            "address": 2148268296,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDClearStatus",
+            "address": 2148202320,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "a27e15dd694d591166a9e35619e87b1435a3414c9f6144bf897f0943c8702260"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014B39C",
+        "address": 2148840348,
+        "size": 172,
+        "suggested_name": "__CARDClearStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDClearStatus",
+            "address": 2148268296,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDClearStatus",
+            "address": 2148202320,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "a27e15dd694d591166a9e35619e87b1435a3414c9f6144bf897f0943c8702260"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80146668",
+        "address": 2148820584,
+        "size": 172,
+        "suggested_name": "__CARDClearStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDClearStatus",
+            "address": 2148268296,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDClearStatus",
+            "address": 2148202320,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "a27e15dd694d591166a9e35619e87b1435a3414c9f6144bf897f0943c8702260"
+      }
+    },
+    "__CARDCompareFileName": {
+      "GPXE01": {
+        "box_symbol": "fn_8014EB5C",
+        "address": 2148854620,
+        "size": 104,
+        "suggested_name": "__CARDCompareFileName",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDCompareFileName",
+            "address": 2148287700,
+            "unit": "dolphin/card/CARDOpen.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDCompareFileName",
+            "address": 2148221448,
+            "unit": "dolphin/card_exact_800B3B68.s"
+          }
+        ],
+        "signature": "4270d9262071f5a4a28073d5d84ad69e03d16f8d0f4932afab5205de7d352f0c"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014FFE8",
+        "address": 2148859880,
+        "size": 104,
+        "suggested_name": "__CARDCompareFileName",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDCompareFileName",
+            "address": 2148287700,
+            "unit": "dolphin/card/CARDOpen.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDCompareFileName",
+            "address": 2148221448,
+            "unit": "dolphin/card_exact_800B3B68.s"
+          }
+        ],
+        "signature": "4270d9262071f5a4a28073d5d84ad69e03d16f8d0f4932afab5205de7d352f0c"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014B0DC",
+        "address": 2148839644,
+        "size": 104,
+        "suggested_name": "__CARDCompareFileName",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDCompareFileName",
+            "address": 2148287700,
+            "unit": "dolphin/card/CARDOpen.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDCompareFileName",
+            "address": 2148221448,
+            "unit": "dolphin/card_exact_800B3B68.s"
+          }
+        ],
+        "signature": "4270d9262071f5a4a28073d5d84ad69e03d16f8d0f4932afab5205de7d352f0c"
+      }
+    },
+    "__CARDEnableInterrupt": {
+      "GPXE01": {
+        "box_symbol": "fn_80149C70",
+        "address": 2148834416,
+        "size": 192,
+        "suggested_name": "__CARDEnableInterrupt",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDEnableInterrupt",
+            "address": 2148267624,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDEnableInterrupt",
+            "address": 2148201888,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "73d672c022a29b9d9ab9abba58669e15b6b3e8ab3658e82f69be1adcde637413"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014B0FC",
+        "address": 2148839676,
+        "size": 192,
+        "suggested_name": "__CARDEnableInterrupt",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDEnableInterrupt",
+            "address": 2148267624,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDEnableInterrupt",
+            "address": 2148201888,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "73d672c022a29b9d9ab9abba58669e15b6b3e8ab3658e82f69be1adcde637413"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801464B8",
+        "address": 2148820152,
+        "size": 192,
+        "suggested_name": "__CARDEnableInterrupt",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDEnableInterrupt",
+            "address": 2148267624,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDEnableInterrupt",
+            "address": 2148201888,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "73d672c022a29b9d9ab9abba58669e15b6b3e8ab3658e82f69be1adcde637413"
+      }
+    },
+    "__CARDPutControlBlock": {
+      "GPXE01": {
+        "box_symbol": "fn_8014AB58",
+        "address": 2148838232,
+        "size": 100,
+        "suggested_name": "__CARDPutControlBlock",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDPutControlBlock",
+            "address": 2148271440,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDPutControlBlock",
+            "address": 2148205300,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "a8dc2b195f566a7f2277d2fcc3938491f2a85a07e84ac8177716df38a6038832"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014BFE4",
+        "address": 2148843492,
+        "size": 100,
+        "suggested_name": "__CARDPutControlBlock",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDPutControlBlock",
+            "address": 2148271440,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDPutControlBlock",
+            "address": 2148205300,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "a8dc2b195f566a7f2277d2fcc3938491f2a85a07e84ac8177716df38a6038832"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014717C",
+        "address": 2148823420,
+        "size": 100,
+        "suggested_name": "__CARDPutControlBlock",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDPutControlBlock",
+            "address": 2148271440,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDPutControlBlock",
+            "address": 2148205300,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "a8dc2b195f566a7f2277d2fcc3938491f2a85a07e84ac8177716df38a6038832"
+      }
+    },
+    "__CARDReadStatus": {
+      "GPXE01": {
+        "box_symbol": "fn_80149D30",
+        "address": 2148834608,
+        "size": 240,
+        "suggested_name": "__CARDReadStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDReadStatus",
+            "address": 2148267816,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDReadStatus",
+            "address": 2148202080,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "79d00edb3b313970adcfcb12fbfd63ca257cd7e0200263f1ca8f1ecaebdef31d"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014B1BC",
+        "address": 2148839868,
+        "size": 240,
+        "suggested_name": "__CARDReadStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDReadStatus",
+            "address": 2148267816,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDReadStatus",
+            "address": 2148202080,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "79d00edb3b313970adcfcb12fbfd63ca257cd7e0200263f1ca8f1ecaebdef31d"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80146578",
+        "address": 2148820344,
+        "size": 240,
+        "suggested_name": "__CARDReadStatus",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDReadStatus",
+            "address": 2148267816,
+            "unit": "dolphin/card/CARDBios.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDReadStatus",
+            "address": 2148202080,
+            "unit": "dolphin/card_exact_800AF474.s"
+          }
+        ],
+        "signature": "79d00edb3b313970adcfcb12fbfd63ca257cd7e0200263f1ca8f1ecaebdef31d"
+      }
+    },
+    "__CARDSeek": {
+      "GPXE01": {
+        "box_symbol": "fn_8014F388",
+        "address": 2148856712,
+        "size": 440,
+        "suggested_name": "__CARDSeek",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDSeek",
+            "address": 2148290040,
+            "unit": "dolphin/card/CARDRead.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDSeek",
+            "address": 2148223380,
+            "unit": "dolphin/sdk_candidate_800B4644.s"
+          }
+        ],
+        "signature": "ce1f90bc7764bd218a5446e7ddf95e34e2e65646acc206ef55a65c982e377be5"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80150814",
+        "address": 2148861972,
+        "size": 440,
+        "suggested_name": "__CARDSeek",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDSeek",
+            "address": 2148290040,
+            "unit": "dolphin/card/CARDRead.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDSeek",
+            "address": 2148223380,
+            "unit": "dolphin/sdk_candidate_800B4644.s"
+          }
+        ],
+        "signature": "ce1f90bc7764bd218a5446e7ddf95e34e2e65646acc206ef55a65c982e377be5"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014B770",
+        "address": 2148841328,
+        "size": 440,
+        "suggested_name": "__CARDSeek",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDSeek",
+            "address": 2148290040,
+            "unit": "dolphin/card/CARDRead.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDSeek",
+            "address": 2148223380,
+            "unit": "dolphin/sdk_candidate_800B4644.s"
+          }
+        ],
+        "signature": "ce1f90bc7764bd218a5446e7ddf95e34e2e65646acc206ef55a65c982e377be5"
+      }
+    },
+    "__CARDVerify": {
+      "GPXE01": {
+        "box_symbol": "fn_8014D1F8",
+        "address": 2148848120,
+        "size": 140,
+        "suggested_name": "__CARDVerify",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDVerify",
+            "address": 2148281328,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDVerify",
+            "address": 2148215144,
+            "unit": "dolphin/sdk_exact_800B2968.s"
+          }
+        ],
+        "signature": "ad34bf8b5b33d5adb26b0834d1c2c222db61ddce65d5aa0cd35c99fb94e1ce1b"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014E684",
+        "address": 2148853380,
+        "size": 140,
+        "suggested_name": "__CARDVerify",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDVerify",
+            "address": 2148281328,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDVerify",
+            "address": 2148215144,
+            "unit": "dolphin/sdk_exact_800B2968.s"
+          }
+        ],
+        "signature": "ad34bf8b5b33d5adb26b0834d1c2c222db61ddce65d5aa0cd35c99fb94e1ce1b"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801497BC",
+        "address": 2148833212,
+        "size": 140,
+        "suggested_name": "__CARDVerify",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__CARDVerify",
+            "address": 2148281328,
+            "unit": "dolphin/card/CARDCheck.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__CARDVerify",
+            "address": 2148215144,
+            "unit": "dolphin/sdk_exact_800B2968.s"
+          }
+        ],
+        "signature": "ad34bf8b5b33d5adb26b0834d1c2c222db61ddce65d5aa0cd35c99fb94e1ce1b"
+      }
+    },
+    "__DVDDequeueWaitingQueue": {
+      "GPXE01": {
+        "box_symbol": "fn_80136DD0",
+        "address": 2148756944,
+        "size": 96,
+        "suggested_name": "__DVDDequeueWaitingQueue",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__DVDDequeueWaitingQueue",
+            "address": 2148237100,
+            "unit": "dolphin/dvd/dvdqueue.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__DVDDequeueWaitingQueue",
+            "address": 2148171648,
+            "unit": "dolphin/dvd/DVDQueue.s"
+          }
+        ],
+        "signature": "6c3fbbeab1f5e0cdfb88b2cd5e9acb94a8268e14aa5a4dab74f97b5160f89480"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80138298",
+        "address": 2148762264,
+        "size": 96,
+        "suggested_name": "__DVDDequeueWaitingQueue",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__DVDDequeueWaitingQueue",
+            "address": 2148237100,
+            "unit": "dolphin/dvd/dvdqueue.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__DVDDequeueWaitingQueue",
+            "address": 2148171648,
+            "unit": "dolphin/dvd/DVDQueue.s"
+          }
+        ],
+        "signature": "6c3fbbeab1f5e0cdfb88b2cd5e9acb94a8268e14aa5a4dab74f97b5160f89480"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80133C38",
+        "address": 2148744248,
+        "size": 96,
+        "suggested_name": "__DVDDequeueWaitingQueue",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__DVDDequeueWaitingQueue",
+            "address": 2148237100,
+            "unit": "dolphin/dvd/dvdqueue.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__DVDDequeueWaitingQueue",
+            "address": 2148171648,
+            "unit": "dolphin/dvd/DVDQueue.s"
+          }
+        ],
+        "signature": "6c3fbbeab1f5e0cdfb88b2cd5e9acb94a8268e14aa5a4dab74f97b5160f89480"
+      }
+    },
+    "__GXCleanGPFifo": {
+      "GPXE01": {
+        "box_symbol": "fn_80152624",
+        "address": 2148869668,
+        "size": 256,
+        "suggested_name": "__GXCleanGPFifo",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__GXCleanGPFifo",
+            "address": 2148302516,
+            "unit": "dolphin/gx/GXFifo.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__GXCleanGPFifo",
+            "address": 2148234764,
+            "unit": "dolphin/sdk_range_800B71FC.s"
+          }
+        ],
+        "signature": "a668dd0dcdaefc72c9625a17d4886694d6c8f4a1ada676092d351ecbaab096f7"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80153AB0",
+        "address": 2148874928,
+        "size": 256,
+        "suggested_name": "__GXCleanGPFifo",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__GXCleanGPFifo",
+            "address": 2148302516,
+            "unit": "dolphin/gx/GXFifo.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__GXCleanGPFifo",
+            "address": 2148234764,
+            "unit": "dolphin/sdk_range_800B71FC.s"
+          }
+        ],
+        "signature": "a668dd0dcdaefc72c9625a17d4886694d6c8f4a1ada676092d351ecbaab096f7"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8014E958",
+        "address": 2148854104,
+        "size": 256,
+        "suggested_name": "__GXCleanGPFifo",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__GXCleanGPFifo",
+            "address": 2148302516,
+            "unit": "dolphin/gx/GXFifo.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__GXCleanGPFifo",
+            "address": 2148234764,
+            "unit": "dolphin/sdk_range_800B71FC.s"
+          }
+        ],
+        "signature": "a668dd0dcdaefc72c9625a17d4886694d6c8f4a1ada676092d351ecbaab096f7"
+      }
+    },
+    "__OSDoHotReset": {
+      "GPXE01": {
+        "box_symbol": "fn_8012BF64",
+        "address": 2148712292,
+        "size": 72,
+        "suggested_name": "__OSDoHotReset",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__OSDoHotReset",
+            "address": 2148203512,
+            "unit": "dolphin/os/OSReset.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__OSDoHotReset",
+            "address": 2148138944,
+            "unit": "dolphin/os/OSReset.s"
+          }
+        ],
+        "signature": "46b05dd66d5488dfd27b22232015ed49ab535db773a28d698fe3f9b35f61f685"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8012D3C0",
+        "address": 2148717504,
+        "size": 72,
+        "suggested_name": "__OSDoHotReset",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__OSDoHotReset",
+            "address": 2148203512,
+            "unit": "dolphin/os/OSReset.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__OSDoHotReset",
+            "address": 2148138944,
+            "unit": "dolphin/os/OSReset.s"
+          }
+        ],
+        "signature": "46b05dd66d5488dfd27b22232015ed49ab535db773a28d698fe3f9b35f61f685"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80128FDC",
+        "address": 2148700124,
+        "size": 72,
+        "suggested_name": "__OSDoHotReset",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__OSDoHotReset",
+            "address": 2148203512,
+            "unit": "dolphin/os/OSReset.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__OSDoHotReset",
+            "address": 2148138944,
+            "unit": "dolphin/os/OSReset.s"
+          }
+        ],
+        "signature": "46b05dd66d5488dfd27b22232015ed49ab535db773a28d698fe3f9b35f61f685"
+      }
+    },
+    "__OSUnlockAllMutex": {
+      "GPXE01": {
+        "box_symbol": "fn_8012B8E4",
+        "address": 2148710628,
+        "size": 112,
+        "suggested_name": "__OSUnlockAllMutex",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__OSUnlockAllMutex",
+            "address": 2148202752,
+            "unit": "dolphin/os/OSMutex.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__OSUnlockAllMutex",
+            "address": 2148137304,
+            "unit": "dolphin/sdk_exact_8009F958.s"
+          }
+        ],
+        "signature": "579f948543759425ebfb62946980dd998e9038080148e2e72a453976cdce1888"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8012CD40",
+        "address": 2148715840,
+        "size": 112,
+        "suggested_name": "__OSUnlockAllMutex",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__OSUnlockAllMutex",
+            "address": 2148202752,
+            "unit": "dolphin/os/OSMutex.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__OSUnlockAllMutex",
+            "address": 2148137304,
+            "unit": "dolphin/sdk_exact_8009F958.s"
+          }
+        ],
+        "signature": "579f948543759425ebfb62946980dd998e9038080148e2e72a453976cdce1888"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8012894C",
+        "address": 2148698444,
+        "size": 112,
+        "suggested_name": "__OSUnlockAllMutex",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__OSUnlockAllMutex",
+            "address": 2148202752,
+            "unit": "dolphin/os/OSMutex.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__OSUnlockAllMutex",
+            "address": 2148137304,
+            "unit": "dolphin/sdk_exact_8009F958.s"
+          }
+        ],
+        "signature": "579f948543759425ebfb62946980dd998e9038080148e2e72a453976cdce1888"
+      }
+    },
+    "__StringWrite": {
+      "GPXE01": {
+        "box_symbol": "fn_8015F048",
+        "address": 2148921416,
+        "size": 108,
+        "suggested_name": "__StringWrite",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__StringWrite",
+            "address": 2148399720,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__StringWrite",
+            "address": 2148304888,
+            "unit": "crt/printf_exact_800C87F8.s"
+          }
+        ],
+        "signature": "c33b2a09c6ed1f312ef82d05cf14fe8b43abbd652d2e3d005ccabc3ca0011b90"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801604D4",
+        "address": 2148926676,
+        "size": 108,
+        "suggested_name": "__StringWrite",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__StringWrite",
+            "address": 2148399720,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__StringWrite",
+            "address": 2148304888,
+            "unit": "crt/printf_exact_800C87F8.s"
+          }
+        ],
+        "signature": "c33b2a09c6ed1f312ef82d05cf14fe8b43abbd652d2e3d005ccabc3ca0011b90"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015BA18",
+        "address": 2148907544,
+        "size": 108,
+        "suggested_name": "__StringWrite",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__StringWrite",
+            "address": 2148399720,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__StringWrite",
+            "address": 2148304888,
+            "unit": "crt/printf_exact_800C87F8.s"
+          }
+        ],
+        "signature": "c33b2a09c6ed1f312ef82d05cf14fe8b43abbd652d2e3d005ccabc3ca0011b90"
+      }
+    },
+    "__copy_longs_aligned": {
+      "GPXE01": {
+        "box_symbol": "fn_8015ECBC",
+        "address": 2148920508,
+        "size": 188,
+        "suggested_name": "__copy_longs_aligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_aligned",
+            "address": 2148398788,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_aligned",
+            "address": 2148303956,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "84c58a8dd2e79f36883260702df2c919203ccd25f955edaf027b28defb19085d"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80160148",
+        "address": 2148925768,
+        "size": 188,
+        "suggested_name": "__copy_longs_aligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_aligned",
+            "address": 2148398788,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_aligned",
+            "address": 2148303956,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "84c58a8dd2e79f36883260702df2c919203ccd25f955edaf027b28defb19085d"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015B68C",
+        "address": 2148906636,
+        "size": 188,
+        "suggested_name": "__copy_longs_aligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_aligned",
+            "address": 2148398788,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_aligned",
+            "address": 2148303956,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "84c58a8dd2e79f36883260702df2c919203ccd25f955edaf027b28defb19085d"
+      }
+    },
+    "__copy_longs_rev_aligned": {
+      "GPXE01": {
+        "box_symbol": "fn_8015EC14",
+        "address": 2148920340,
+        "size": 168,
+        "suggested_name": "__copy_longs_rev_aligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_rev_aligned",
+            "address": 2148398620,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_rev_aligned",
+            "address": 2148303788,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "a72cfae5f3ae9fb0484a83d65f741cbedda39de0fac4ec99729a106b2a020231"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801600A0",
+        "address": 2148925600,
+        "size": 168,
+        "suggested_name": "__copy_longs_rev_aligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_rev_aligned",
+            "address": 2148398620,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_rev_aligned",
+            "address": 2148303788,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "a72cfae5f3ae9fb0484a83d65f741cbedda39de0fac4ec99729a106b2a020231"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015B5E4",
+        "address": 2148906468,
+        "size": 168,
+        "suggested_name": "__copy_longs_rev_aligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_rev_aligned",
+            "address": 2148398620,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_rev_aligned",
+            "address": 2148303788,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "a72cfae5f3ae9fb0484a83d65f741cbedda39de0fac4ec99729a106b2a020231"
+      }
+    },
+    "__copy_longs_rev_unaligned": {
+      "GPXE01": {
+        "box_symbol": "fn_8015EAA8",
+        "address": 2148919976,
+        "size": 172,
+        "suggested_name": "__copy_longs_rev_unaligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_rev_unaligned",
+            "address": 2148398256,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_rev_unaligned",
+            "address": 2148303424,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "c4b821d6079d8a4b7930a83a519e60e436658ada6ad3354e9482a4b3a3867a44"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015FF34",
+        "address": 2148925236,
+        "size": 172,
+        "suggested_name": "__copy_longs_rev_unaligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_rev_unaligned",
+            "address": 2148398256,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_rev_unaligned",
+            "address": 2148303424,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "c4b821d6079d8a4b7930a83a519e60e436658ada6ad3354e9482a4b3a3867a44"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015B478",
+        "address": 2148906104,
+        "size": 172,
+        "suggested_name": "__copy_longs_rev_unaligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_rev_unaligned",
+            "address": 2148398256,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_rev_unaligned",
+            "address": 2148303424,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "c4b821d6079d8a4b7930a83a519e60e436658ada6ad3354e9482a4b3a3867a44"
+      }
+    },
+    "__copy_longs_unaligned": {
+      "GPXE01": {
+        "box_symbol": "fn_8015EB54",
+        "address": 2148920148,
+        "size": 192,
+        "suggested_name": "__copy_longs_unaligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_unaligned",
+            "address": 2148398428,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_unaligned",
+            "address": 2148303596,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "5639e1c12ffdeb18009b972f9ee0c106912d50ca2f2f6ac65b5c03a81ac909b6"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015FFE0",
+        "address": 2148925408,
+        "size": 192,
+        "suggested_name": "__copy_longs_unaligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_unaligned",
+            "address": 2148398428,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_unaligned",
+            "address": 2148303596,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "5639e1c12ffdeb18009b972f9ee0c106912d50ca2f2f6ac65b5c03a81ac909b6"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015B524",
+        "address": 2148906276,
+        "size": 192,
+        "suggested_name": "__copy_longs_unaligned",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__copy_longs_unaligned",
+            "address": 2148398428,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__copy_longs_unaligned",
+            "address": 2148303596,
+            "unit": "crt/mem.s"
+          }
+        ],
+        "signature": "5639e1c12ffdeb18009b972f9ee0c106912d50ca2f2f6ac65b5c03a81ac909b6"
+      }
+    },
+    "__num2dec": {
+      "GPXE01": {
+        "box_symbol": "fn_8015BD58",
+        "address": 2148908376,
+        "size": 420,
+        "suggested_name": "__num2dec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__num2dec",
+            "address": 2148385112,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__num2dec",
+            "address": 2148291840,
+            "unit": "dolphin/sdk_range_800C5458.s"
+          }
+        ],
+        "signature": "b7030bfdd0e0ee11c35098be805cfe872cd25346d6f623f6c2ef2b6630bd1201"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015D1E4",
+        "address": 2148913636,
+        "size": 420,
+        "suggested_name": "__num2dec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__num2dec",
+            "address": 2148385112,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__num2dec",
+            "address": 2148291840,
+            "unit": "dolphin/sdk_range_800C5458.s"
+          }
+        ],
+        "signature": "b7030bfdd0e0ee11c35098be805cfe872cd25346d6f623f6c2ef2b6630bd1201"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80158798",
+        "address": 2148894616,
+        "size": 420,
+        "suggested_name": "__num2dec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__num2dec",
+            "address": 2148385112,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__num2dec",
+            "address": 2148291840,
+            "unit": "dolphin/sdk_range_800C5458.s"
+          }
+        ],
+        "signature": "b7030bfdd0e0ee11c35098be805cfe872cd25346d6f623f6c2ef2b6630bd1201"
+      }
+    },
+    "__pool_free": {
+      "GPXE01": {
+        "box_symbol": "fn_8015B7FC",
+        "address": 2148907004,
+        "size": 88,
+        "suggested_name": "__pool_free",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__pool_free",
+            "address": 2148379516,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__pool_free",
+            "address": 2148290468,
+            "unit": "crt/exit.s"
+          }
+        ],
+        "signature": "7640ef5e5e8ead49514a4f7fa63f7e322f8019c770510f637e2f031a40ec63af"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015CC88",
+        "address": 2148912264,
+        "size": 88,
+        "suggested_name": "__pool_free",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__pool_free",
+            "address": 2148379516,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__pool_free",
+            "address": 2148290468,
+            "unit": "crt/exit.s"
+          }
+        ],
+        "signature": "7640ef5e5e8ead49514a4f7fa63f7e322f8019c770510f637e2f031a40ec63af"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015823C",
+        "address": 2148893244,
+        "size": 88,
+        "suggested_name": "__pool_free",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__pool_free",
+            "address": 2148379516,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__pool_free",
+            "address": 2148290468,
+            "unit": "crt/exit.s"
+          }
+        ],
+        "signature": "7640ef5e5e8ead49514a4f7fa63f7e322f8019c770510f637e2f031a40ec63af"
+      }
+    },
+    "__timesdec": {
+      "GPXE01": {
+        "box_symbol": "fn_8015DA34",
+        "address": 2148915764,
+        "size": 632,
+        "suggested_name": "__timesdec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__timesdec",
+            "address": 2148394044,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__timesdec",
+            "address": 2148299228,
+            "unit": "dolphin/sdk_range_800C5458.s"
+          }
+        ],
+        "signature": "7e037cf9fce099ae4126ffba5f4446113fe81875551c6ad4068d0c91181e22d3"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015EEC0",
+        "address": 2148921024,
+        "size": 632,
+        "suggested_name": "__timesdec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__timesdec",
+            "address": 2148394044,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__timesdec",
+            "address": 2148299228,
+            "unit": "dolphin/sdk_range_800C5458.s"
+          }
+        ],
+        "signature": "7e037cf9fce099ae4126ffba5f4446113fe81875551c6ad4068d0c91181e22d3"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015A474",
+        "address": 2148902004,
+        "size": 632,
+        "suggested_name": "__timesdec",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "__timesdec",
+            "address": 2148394044,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "__timesdec",
+            "address": 2148299228,
+            "unit": "dolphin/sdk_range_800C5458.s"
+          }
+        ],
+        "signature": "7e037cf9fce099ae4126ffba5f4446113fe81875551c6ad4068d0c91181e22d3"
+      }
+    },
+    "bitrev": {
+      "GPXE01": {
+        "box_symbol": "fn_8014AE44",
+        "address": 2148838980,
+        "size": 364,
+        "suggested_name": "bitrev",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "bitrev",
+            "address": 2148272032,
+            "unit": "dolphin/card/CARDUnlock.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "bitrev",
+            "address": 2148205864,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "298b134ea1a95736ebefaaff336f665157f28d3ab97c2ab8b57c2fe9f4574c5c"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8014C2D0",
+        "address": 2148844240,
+        "size": 364,
+        "suggested_name": "bitrev",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "bitrev",
+            "address": 2148272032,
+            "unit": "dolphin/card/CARDUnlock.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "bitrev",
+            "address": 2148205864,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "298b134ea1a95736ebefaaff336f665157f28d3ab97c2ab8b57c2fe9f4574c5c"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80147418",
+        "address": 2148824088,
+        "size": 364,
+        "suggested_name": "bitrev",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "bitrev",
+            "address": 2148272032,
+            "unit": "dolphin/card/CARDUnlock.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "bitrev",
+            "address": 2148205864,
+            "unit": "dolphin/sdk_exact_800B01AC.s"
+          }
+        ],
+        "signature": "298b134ea1a95736ebefaaff336f665157f28d3ab97c2ab8b57c2fe9f4574c5c"
+      }
+    },
+    "copysign": {
+      "GPXE01": {
+        "box_symbol": "fn_80163E40",
+        "address": 2148941376,
+        "size": 40,
+        "suggested_name": "copysign",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "copysign",
+            "address": 2148426648,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "copysign",
+            "address": 2148326328,
+            "unit": "crt/math_copysign.s"
+          }
+        ],
+        "signature": "6b8d571ba08243ffa724c64ac69ea97fb30bb14650cde17bd6c080f13e4b4127"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801652CC",
+        "address": 2148946636,
+        "size": 40,
+        "suggested_name": "copysign",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "copysign",
+            "address": 2148426648,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "copysign",
+            "address": 2148326328,
+            "unit": "crt/math_copysign.s"
+          }
+        ],
+        "signature": "6b8d571ba08243ffa724c64ac69ea97fb30bb14650cde17bd6c080f13e4b4127"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801608C0",
+        "address": 2148927680,
+        "size": 40,
+        "suggested_name": "copysign",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "copysign",
+            "address": 2148426648,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "copysign",
+            "address": 2148326328,
+            "unit": "crt/math_copysign.s"
+          }
+        ],
+        "signature": "6b8d571ba08243ffa724c64ac69ea97fb30bb14650cde17bd6c080f13e4b4127"
+      }
+    },
+    "deallocate_from_var_pools": {
+      "GPXE01": {
+        "box_symbol": "fn_8015B9AC",
+        "address": 2148907436,
+        "size": 660,
+        "suggested_name": "deallocate_from_var_pools",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "deallocate_from_var_pools",
+            "address": 2148379948,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "deallocate_from_var_pools",
+            "address": 2148290900,
+            "unit": "crt/exit.s"
+          }
+        ],
+        "signature": "26c0680e62a9891305e009c1e3cb724dc241c868df1e144768ffa4fca0739906"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015CE38",
+        "address": 2148912696,
+        "size": 660,
+        "suggested_name": "deallocate_from_var_pools",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "deallocate_from_var_pools",
+            "address": 2148379948,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "deallocate_from_var_pools",
+            "address": 2148290900,
+            "unit": "crt/exit.s"
+          }
+        ],
+        "signature": "26c0680e62a9891305e009c1e3cb724dc241c868df1e144768ffa4fca0739906"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_801583EC",
+        "address": 2148893676,
+        "size": 660,
+        "suggested_name": "deallocate_from_var_pools",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "deallocate_from_var_pools",
+            "address": 2148379948,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "deallocate_from_var_pools",
+            "address": 2148290900,
+            "unit": "crt/exit.s"
+          }
+        ],
+        "signature": "26c0680e62a9891305e009c1e3cb724dc241c868df1e144768ffa4fca0739906"
+      }
+    },
+    "fclose": {
+      "GPXE01": {
+        "box_symbol": "fn_8015E2A4",
+        "address": 2148917924,
+        "size": 444,
+        "suggested_name": "fclose",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "fclose",
+            "address": 2148396204,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "fclose",
+            "address": 2148301372,
+            "unit": "crt/stdio_range_800C7558.s"
+          }
+        ],
+        "signature": "63f219da5534221fb7115e76a86f3d2d7516ae4efc24e64ef5d92822b5fb6826"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015F730",
+        "address": 2148923184,
+        "size": 444,
+        "suggested_name": "fclose",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "fclose",
+            "address": 2148396204,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "fclose",
+            "address": 2148301372,
+            "unit": "crt/stdio_range_800C7558.s"
+          }
+        ],
+        "signature": "63f219da5534221fb7115e76a86f3d2d7516ae4efc24e64ef5d92822b5fb6826"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015ACE4",
+        "address": 2148904164,
+        "size": 444,
+        "suggested_name": "fclose",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "fclose",
+            "address": 2148396204,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "fclose",
+            "address": 2148301372,
+            "unit": "crt/stdio_range_800C7558.s"
+          }
+        ],
+        "signature": "63f219da5534221fb7115e76a86f3d2d7516ae4efc24e64ef5d92822b5fb6826"
+      }
+    },
+    "fflush": {
+      "GPXE01": {
+        "box_symbol": "fn_8015E16C",
+        "address": 2148917612,
+        "size": 312,
+        "suggested_name": "fflush",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "fflush",
+            "address": 2148395892,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "fflush",
+            "address": 2148301060,
+            "unit": "crt/stdio_range_800C7558.s"
+          }
+        ],
+        "signature": "6b245bf7ced725ad2b84d4c97f2d5d16a9140e234205c92afd69761b208e0866"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015F5F8",
+        "address": 2148922872,
+        "size": 312,
+        "suggested_name": "fflush",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "fflush",
+            "address": 2148395892,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "fflush",
+            "address": 2148301060,
+            "unit": "crt/stdio_range_800C7558.s"
+          }
+        ],
+        "signature": "6b245bf7ced725ad2b84d4c97f2d5d16a9140e234205c92afd69761b208e0866"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015ABAC",
+        "address": 2148903852,
+        "size": 312,
+        "suggested_name": "fflush",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "fflush",
+            "address": 2148395892,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "fflush",
+            "address": 2148301060,
+            "unit": "crt/stdio_range_800C7558.s"
+          }
+        ],
+        "signature": "6b245bf7ced725ad2b84d4c97f2d5d16a9140e234205c92afd69761b208e0866"
+      }
+    },
+    "memcmp": {
+      "GPXE01": {
+        "box_symbol": "fn_8015E938",
+        "address": 2148919608,
+        "size": 76,
+        "suggested_name": "memcmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "memcmp",
+            "address": 2148397888,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "memcmp",
+            "address": 2148303056,
+            "unit": "crt/wchar.s"
+          }
+        ],
+        "signature": "28ede8b241ddc67ee1257326ff688cce095cdfa250e16940b1e287da4454e29e"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_8015FDC4",
+        "address": 2148924868,
+        "size": 76,
+        "suggested_name": "memcmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "memcmp",
+            "address": 2148397888,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "memcmp",
+            "address": 2148303056,
+            "unit": "crt/wchar.s"
+          }
+        ],
+        "signature": "28ede8b241ddc67ee1257326ff688cce095cdfa250e16940b1e287da4454e29e"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015B308",
+        "address": 2148905736,
+        "size": 76,
+        "suggested_name": "memcmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "memcmp",
+            "address": 2148397888,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "memcmp",
+            "address": 2148303056,
+            "unit": "crt/wchar.s"
+          }
+        ],
+        "signature": "28ede8b241ddc67ee1257326ff688cce095cdfa250e16940b1e287da4454e29e"
+      }
+    },
+    "modf": {
+      "GPXE01": {
+        "box_symbol": "fn_801642D4",
+        "address": 2148942548,
+        "size": 252,
+        "suggested_name": "modf",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "modf",
+            "address": 2148427820,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "modf",
+            "address": 2148327500,
+            "unit": "crt/math_exact_800CE04C.s"
+          }
+        ],
+        "signature": "cffdab51d1038be0b2bd6bf39f183c3dc16b13457b55426d19c1d0b0f2f1ff77"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80165760",
+        "address": 2148947808,
+        "size": 252,
+        "suggested_name": "modf",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "modf",
+            "address": 2148427820,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "modf",
+            "address": 2148327500,
+            "unit": "crt/math_exact_800CE04C.s"
+          }
+        ],
+        "signature": "cffdab51d1038be0b2bd6bf39f183c3dc16b13457b55426d19c1d0b0f2f1ff77"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80160D54",
+        "address": 2148928852,
+        "size": 252,
+        "suggested_name": "modf",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "modf",
+            "address": 2148427820,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "modf",
+            "address": 2148327500,
+            "unit": "crt/math_exact_800CE04C.s"
+          }
+        ],
+        "signature": "cffdab51d1038be0b2bd6bf39f183c3dc16b13457b55426d19c1d0b0f2f1ff77"
+      }
+    },
+    "round_decimal": {
+      "GPXE01": {
+        "box_symbol": "fn_8015FF9C",
+        "address": 2148925340,
+        "size": 300,
+        "suggested_name": "round_decimal",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "round_decimal",
+            "address": 2148403644,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "round_decimal",
+            "address": 2148308812,
+            "unit": "crt/printf_residual_800C8864.s"
+          }
+        ],
+        "signature": "9d861d326e3799a6bb5083ced48b8fcd25b50d868ff6e1516beb1e226feaded8"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80161428",
+        "address": 2148930600,
+        "size": 300,
+        "suggested_name": "round_decimal",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "round_decimal",
+            "address": 2148403644,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "round_decimal",
+            "address": 2148308812,
+            "unit": "crt/printf_residual_800C8864.s"
+          }
+        ],
+        "signature": "9d861d326e3799a6bb5083ced48b8fcd25b50d868ff6e1516beb1e226feaded8"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015C96C",
+        "address": 2148911468,
+        "size": 300,
+        "suggested_name": "round_decimal",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "round_decimal",
+            "address": 2148403644,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "round_decimal",
+            "address": 2148308812,
+            "unit": "crt/printf_residual_800C8864.s"
+          }
+        ],
+        "signature": "9d861d326e3799a6bb5083ced48b8fcd25b50d868ff6e1516beb1e226feaded8"
+      }
+    },
+    "stateTimeout": {
+      "GPXE01": {
+        "box_symbol": "fn_801347A0",
+        "address": 2148747168,
+        "size": 52,
+        "suggested_name": "stateTimeout",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "stateTimeout",
+            "address": 2148227036,
+            "unit": "dolphin/dvd/dvd.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "stateTimeout",
+            "address": 2148161724,
+            "unit": "dolphin/dvd/DVD_exact_800A58BC.s"
+          }
+        ],
+        "signature": "3dda9ce088b3cce168f8f9c674a88c8f7373681eaedc3585ba77f32f908448c4"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80135C68",
+        "address": 2148752488,
+        "size": 52,
+        "suggested_name": "stateTimeout",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "stateTimeout",
+            "address": 2148227036,
+            "unit": "dolphin/dvd/dvd.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "stateTimeout",
+            "address": 2148161724,
+            "unit": "dolphin/dvd/DVD_exact_800A58BC.s"
+          }
+        ],
+        "signature": "3dda9ce088b3cce168f8f9c674a88c8f7373681eaedc3585ba77f32f908448c4"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80131640",
+        "address": 2148734528,
+        "size": 52,
+        "suggested_name": "stateTimeout",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "stateTimeout",
+            "address": 2148227036,
+            "unit": "dolphin/dvd/dvd.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "stateTimeout",
+            "address": 2148161724,
+            "unit": "dolphin/dvd/DVD_exact_800A58BC.s"
+          }
+        ],
+        "signature": "3dda9ce088b3cce168f8f9c674a88c8f7373681eaedc3585ba77f32f908448c4"
+      }
+    },
+    "strcmp": {
+      "GPXE01": {
+        "box_symbol": "fn_80160F70",
+        "address": 2148929392,
+        "size": 296,
+        "suggested_name": "strcmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strcmp",
+            "address": 2148408060,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strcmp",
+            "address": 2148313084,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "bc3af561c2141c6a764f65bf2f382bff3c5c6cdc3ad924f84df4c4ccb2cae693"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801623FC",
+        "address": 2148934652,
+        "size": 296,
+        "suggested_name": "strcmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strcmp",
+            "address": 2148408060,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strcmp",
+            "address": 2148313084,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "bc3af561c2141c6a764f65bf2f382bff3c5c6cdc3ad924f84df4c4ccb2cae693"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015D940",
+        "address": 2148915520,
+        "size": 296,
+        "suggested_name": "strcmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strcmp",
+            "address": 2148408060,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strcmp",
+            "address": 2148313084,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "bc3af561c2141c6a764f65bf2f382bff3c5c6cdc3ad924f84df4c4ccb2cae693"
+      }
+    },
+    "strcpy": {
+      "GPXE01": {
+        "box_symbol": "fn_80161108",
+        "address": 2148929800,
+        "size": 184,
+        "suggested_name": "strcpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strcpy",
+            "address": 2148408468,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strcpy",
+            "address": 2148313448,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "86285a6dea4eba847ef9ab9fbe30b8dfeef46eb28b90eb3315d52b3d425d6bdd"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80162594",
+        "address": 2148935060,
+        "size": 184,
+        "suggested_name": "strcpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strcpy",
+            "address": 2148408468,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strcpy",
+            "address": 2148313448,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "86285a6dea4eba847ef9ab9fbe30b8dfeef46eb28b90eb3315d52b3d425d6bdd"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015DAD8",
+        "address": 2148915928,
+        "size": 184,
+        "suggested_name": "strcpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strcpy",
+            "address": 2148408468,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strcpy",
+            "address": 2148313448,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "86285a6dea4eba847ef9ab9fbe30b8dfeef46eb28b90eb3315d52b3d425d6bdd"
+      }
+    },
+    "strncmp": {
+      "GPXE01": {
+        "box_symbol": "fn_80160F30",
+        "address": 2148929328,
+        "size": 64,
+        "suggested_name": "strncmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strncmp",
+            "address": 2148407996,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strncmp",
+            "address": 2148313020,
+            "unit": "crt/string_range_800CA78C.s"
+          }
+        ],
+        "signature": "dcec033c51c87279511febcce83f9c00f2ef297765ce3ac842f8a7e8ee95d604"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_801623BC",
+        "address": 2148934588,
+        "size": 64,
+        "suggested_name": "strncmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strncmp",
+            "address": 2148407996,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strncmp",
+            "address": 2148313020,
+            "unit": "crt/string_range_800CA78C.s"
+          }
+        ],
+        "signature": "dcec033c51c87279511febcce83f9c00f2ef297765ce3ac842f8a7e8ee95d604"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015D900",
+        "address": 2148915456,
+        "size": 64,
+        "suggested_name": "strncmp",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strncmp",
+            "address": 2148407996,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strncmp",
+            "address": 2148313020,
+            "unit": "crt/string_range_800CA78C.s"
+          }
+        ],
+        "signature": "dcec033c51c87279511febcce83f9c00f2ef297765ce3ac842f8a7e8ee95d604"
+      }
+    },
+    "strncpy": {
+      "GPXE01": {
+        "box_symbol": "fn_801610C4",
+        "address": 2148929732,
+        "size": 68,
+        "suggested_name": "strncpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strncpy",
+            "address": 2148408400,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strncpy",
+            "address": 2148313380,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "ea08826fb733bae3fc78ac0fd0dd67e13e4b40e0eea4608f21ab9717c34c9ad5"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80162550",
+        "address": 2148934992,
+        "size": 68,
+        "suggested_name": "strncpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strncpy",
+            "address": 2148408400,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strncpy",
+            "address": 2148313380,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "ea08826fb733bae3fc78ac0fd0dd67e13e4b40e0eea4608f21ab9717c34c9ad5"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_8015DA94",
+        "address": 2148915860,
+        "size": 68,
+        "suggested_name": "strncpy",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "strncpy",
+            "address": 2148408400,
+            "unit": "PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "strncpy",
+            "address": 2148313380,
+            "unit": "crt/string.s"
+          }
+        ],
+        "signature": "ea08826fb733bae3fc78ac0fd0dd67e13e4b40e0eea4608f21ab9717c34c9ad5"
+      }
+    },
+    "usr_puts_serial": {
+      "GPXE01": {
+        "box_symbol": "fn_80165848",
+        "address": 2148948040,
+        "size": 136,
+        "suggested_name": "usr_puts_serial",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "usr_puts_serial",
+            "address": 2148354500,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/usr_put.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "usr_puts_serial",
+            "address": 2148266812,
+            "unit": "dolphin/sdk_range_800BF33C.s"
+          }
+        ],
+        "signature": "5172caf93d5723ce85da22c6cfcec7814b8d5d344db0c9e02d08e29f61b000f6"
+      },
+      "GPXP01": {
+        "box_symbol": "fn_80166CD4",
+        "address": 2148953300,
+        "size": 136,
+        "suggested_name": "usr_puts_serial",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "usr_puts_serial",
+            "address": 2148354500,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/usr_put.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "usr_puts_serial",
+            "address": 2148266812,
+            "unit": "dolphin/sdk_range_800BF33C.s"
+          }
+        ],
+        "signature": "5172caf93d5723ce85da22c6cfcec7814b8d5d344db0c9e02d08e29f61b000f6"
+      },
+      "GPXJ01": {
+        "box_symbol": "fn_80162084",
+        "address": 2148933764,
+        "size": 136,
+        "suggested_name": "usr_puts_serial",
+        "references": [
+          {
+            "project": "xd",
+            "symbol": "usr_puts_serial",
+            "address": 2148354500,
+            "unit": "runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/usr_put.s"
+          },
+          {
+            "project": "colosseum",
+            "symbol": "usr_puts_serial",
+            "address": 2148266812,
+            "unit": "dolphin/sdk_range_800BF33C.s"
+          }
+        ],
+        "signature": "5172caf93d5723ce85da22c6cfcec7814b8d5d344db0c9e02d08e29f61b000f6"
+      }
+    }
+  }
+}

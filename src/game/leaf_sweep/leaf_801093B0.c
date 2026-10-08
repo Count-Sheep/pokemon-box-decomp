@@ -1,0 +1,17 @@
+int fn_801093B0(void) { return 34; }
+int fn_801093B8(void) { return 47; }
+int fn_801093C0(void) { return 623; }
+int fn_801093C8(void) { return 424; }
+int fn_801093D0(void) { return 254; }
+int fn_801093D8(void) { return 498; }
+int fn_801093E0(void) { return 560; }
+int fn_801093E8(void) { return 105; }
+int fn_801093F0(void) { return 335; }
+int fn_801093F8(void) { return 580; }
+int fn_80109400(void) { return 1000; }
+int fn_80109408(void) { return 140; }
+int fn_80109410(void) { return 30; }
+int fn_80109418(void) { return 30; }
+int fn_80109420(void) { return 30; }
+int fn_80109428(void) { return 30; }
+int fn_80109430(void) { return 85; }

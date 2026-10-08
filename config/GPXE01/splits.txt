@@ -1,0 +1,1118 @@
+Sections:
+	.init       type:code align:4
+	extab       type:rodata align:32
+	extabindex  type:rodata align:32
+	.text       type:code align:8
+	.ctors      type:rodata align:32
+	.dtors      type:rodata align:32
+	.rodata     type:rodata align:32
+	.data       type:data align:32
+	.bss        type:bss align:16
+	.sdata      type:data align:32
+	.sbss       type:bss align:8
+	.sdata2     type:rodata align:32
+	.sbss2      type:bss align:32
+
+game/leaf_sweep/leaf_80006588.c:
+	.text       start:0x80006588 end:0x80006590
+
+game/leaf_sweep/leaf_80007A74.c:
+	.text       start:0x80007A74 end:0x80007A84
+
+game/leaf_sweep/leaf_80008CB0.c:
+	.text       start:0x80008CB0 end:0x80008CB4
+
+game/leaf_sweep/leaf_800091C4.c:
+	.text       start:0x800091C4 end:0x800091CC
+
+game/leaf_sweep/leaf_800095C8.c:
+	.text       start:0x800095C8 end:0x800095D4
+
+game/leaf_sweep/leaf_800095E4.c:
+	.text       start:0x800095E4 end:0x800095EC
+
+game/leaf_sweep/leaf_800095F8.c:
+	.text       start:0x800095F8 end:0x80009604
+
+game/leaf_sweep/leaf_80009610.c:
+	.text       start:0x80009610 end:0x80009620
+
+game/leaf_sweep/leaf_80009628.c:
+	.text       start:0x80009628 end:0x8000962C
+
+game/leaf_sweep/leaf_800098B8.c:
+	.text       start:0x800098B8 end:0x800098C0
+
+game/leaf_sweep/leaf_800098CC.c:
+	.text       start:0x800098CC end:0x800098D4
+
+game/leaf_sweep/leaf_800098E8.c:
+	.text       start:0x800098E8 end:0x800098F8
+
+game/leaf_sweep/leaf_8000990C.c:
+	.text       start:0x8000990C end:0x80009914
+
+game/leaf_sweep/leaf_8000992C.c:
+	.text       start:0x8000992C end:0x80009934
+
+game/leaf_sweep/leaf_8000B15C.c:
+	.text       start:0x8000B15C end:0x8000B18C
+
+game/leaf_sweep/leaf_8000D688.c:
+	.text       start:0x8000D688 end:0x8000D690
+
+game/leaf_sweep/leaf_8000D6E4.c:
+	.text       start:0x8000D6E4 end:0x8000D6E8
+
+game/auto_03_8000F234_leaf.c:
+	.text       start:0x8000F234 end:0x8000F270
+
+game/leaf_sweep/leaf_80010B08.c:
+	.text       start:0x80010B08 end:0x80010B0C
+
+game/leaf_sweep/leaf_80014620.c:
+	.text       start:0x80014620 end:0x80014624
+
+game/leaf_sweep/leaf_80014BE0.c:
+	.text       start:0x80014BE0 end:0x80014BE8
+
+game/leaf_sweep/leaf_80014E90.c:
+	.text       start:0x80014E90 end:0x80014E98
+
+game/leaf_sweep/leaf_80016D84.c:
+	.text       start:0x80016D84 end:0x80016D90
+
+game/leaf_sweep/leaf_80016E28.c:
+	.text       start:0x80016E28 end:0x80016E30
+
+game/leaf_sweep/leaf_80019188.c:
+	.text       start:0x80019188 end:0x800191B0
+
+game/leaf_sweep/leaf_8001A9C4.c:
+	.text       start:0x8001A9C4 end:0x8001A9C8
+
+game/leaf_sweep/leaf_8001E580.c:
+	.text       start:0x8001E580 end:0x8001E588
+
+game/leaf_sweep/leaf_8001E6D4.c:
+	.text       start:0x8001E6D4 end:0x8001E6DC
+
+game/leaf_sweep/leaf_8001EDBC.c:
+	.text       start:0x8001EDBC end:0x8001EDC4
+
+game/leaf_sweep/leaf_8002011C.c:
+	.text       start:0x8002011C end:0x80020124
+
+game/leaf_sweep/leaf_800204FC.c:
+	.text       start:0x800204FC end:0x80020504
+
+game/leaf_sweep/leaf_80022BFC.c:
+	.text       start:0x80022BFC end:0x80022C04
+
+game/leaf_sweep/leaf_80023814.c:
+	.text       start:0x80023814 end:0x80023818
+
+game/leaf_sweep/leaf_8002813C.c:
+	.text       start:0x8002813C end:0x80028144
+
+game/leaf_sweep/leaf_80029580.c:
+	.text       start:0x80029580 end:0x80029588
+
+game/leaf_sweep/leaf_80036EE0.c:
+	.text       start:0x80036EE0 end:0x80036EE8
+
+game/leaf_sweep/leaf_80036FD4.c:
+	.text       start:0x80036FD4 end:0x80036FE8
+
+game/leaf_sweep/leaf_8003722C.c:
+	.text       start:0x8003722C end:0x80037234
+
+game/leaf_sweep/leaf_80037CB4.c:
+	.text       start:0x80037CB4 end:0x80037CBC
+
+game/leaf_sweep/leaf_8003809C.c:
+	.text       start:0x8003809C end:0x800380A4
+
+game/leaf_sweep/leaf_8003826C.c:
+	.text       start:0x8003826C end:0x80038274
+
+game/leaf_sweep/leaf_8003858C.c:
+	.text       start:0x8003858C end:0x80038594
+
+game/leaf_sweep/leaf_800395EC.c:
+	.text       start:0x800395EC end:0x800395F4
+
+game/leaf_sweep/leaf_80039644.c:
+	.text       start:0x80039644 end:0x8003964C
+
+game/leaf_sweep/leaf_800396D0.c:
+	.text       start:0x800396D0 end:0x800396D8
+
+game/leaf_sweep/leaf_80039768.c:
+	.text       start:0x80039768 end:0x8003976C
+
+game/leaf_sweep/leaf_8003A1A4.c:
+	.text       start:0x8003A1A4 end:0x8003A1BC
+
+game/leaf_sweep/leaf_800405B0.c:
+	.text       start:0x800405B0 end:0x800405D4
+
+game/auto_03_80048920_leaf.c:
+	.text       start:0x80048920 end:0x80048974
+
+game/leaf_sweep/leaf_8004C7FC.c:
+	.text       start:0x8004C7FC end:0x8004C800
+
+game/leaf_sweep/leaf_80053E94.c:
+	.text       start:0x80053E94 end:0x80053E9C
+
+game/leaf_sweep/leaf_80053F1C.c:
+	.text       start:0x80053F1C end:0x80053F24
+
+game/leaf_sweep/leaf_80053FA4.c:
+	.text       start:0x80053FA4 end:0x80053FAC
+
+game/leaf_sweep/leaf_8005402C.c:
+	.text       start:0x8005402C end:0x80054034
+
+game/leaf_sweep/leaf_800540B4.c:
+	.text       start:0x800540B4 end:0x800540BC
+
+game/leaf_sweep/leaf_8005413C.c:
+	.text       start:0x8005413C end:0x8005414C
+
+game/auto_03_80056564_leaf.c:
+	.text       start:0x80056564 end:0x8005658C
+
+game/auto_03_8005D598_leaf.c:
+	.text       start:0x8005D598 end:0x8005D5CC
+
+game/leaf_sweep/leaf_80063B78.c:
+	.text       start:0x80063B78 end:0x80063B7C
+
+game/leaf_sweep/leaf_8006DA3C.c:
+	.text       start:0x8006DA3C end:0x8006DA40
+
+game/leaf_sweep/leaf_800703F8.c:
+	.text       start:0x800703F8 end:0x80070400
+
+game/leaf_sweep/leaf_80072E10.c:
+	.text       start:0x80072E10 end:0x80072E14
+
+game/leaf_sweep/leaf_80073930.c:
+	.text       start:0x80073930 end:0x80073938
+
+game/leaf_sweep/leaf_800740A4.c:
+	.text       start:0x800740A4 end:0x800740B4
+
+game/leaf_sweep/leaf_80083ABC.c:
+	.text       start:0x80083ABC end:0x80083AC4
+
+game/leaf_sweep/leaf_80084244.c:
+	.text       start:0x80084244 end:0x8008424C
+
+game/leaf_sweep/leaf_80084708.c:
+	.text       start:0x80084708 end:0x80084714
+
+game/leaf_sweep/leaf_800848F4.c:
+	.text       start:0x800848F4 end:0x80084904
+
+game/leaf_sweep/leaf_80084D40.c:
+	.text       start:0x80084D40 end:0x80084D44
+
+game/auto_03_80085BE8_leaf.c:
+	.text       start:0x80085BE8 end:0x80085C0C
+
+game/leaf_sweep/leaf_80086A1C.c:
+	.text       start:0x80086A1C end:0x80086A24
+
+game/leaf_sweep/leaf_80086BA0.c:
+	.text       start:0x80086BA0 end:0x80086BB0
+
+game/leaf_sweep/leaf_80088410.c:
+	.text       start:0x80088410 end:0x80088418
+
+game/leaf_sweep/leaf_80088A34.c:
+	.text       start:0x80088A34 end:0x80088A3C
+
+game/auto_03_8008AB74_leaves.c:
+	.text       start:0x8008AB74 end:0x8008AC20
+
+game/auto_03_8008AC20_leaf.c:
+	.text       start:0x8008AC20 end:0x8008AC60
+
+game/auto_03_8008AC60_leaves.c:
+	.text       start:0x8008AC60 end:0x8008ACA0
+
+game/auto_03_8008ACA0_leaf.c:
+	.text       start:0x8008ACA0 end:0x8008AD10
+
+game/auto_03_8008C7BC_leaf.c:
+	.text       start:0x8008C7BC end:0x8008C7C0
+
+game/auto_03_8008DF50_leaf.c:
+	.text       start:0x8008DF50 end:0x8008DF7C
+
+game/auto_03_8008DF7C_leaf.c:
+	.text       start:0x8008DF7C end:0x8008DFA4
+
+game/auto_03_8008DFA4_leaf.c:
+	.text       start:0x8008DFA4 end:0x8008DFD4
+
+game/auto_03_8008E010_leaf.c:
+	.text       start:0x8008E010 end:0x8008E050
+
+game/auto_03_8008E09C_leaf.c:
+	.text       start:0x8008E09C end:0x8008E0A8
+
+game/auto_03_8008E118_leaf.c:
+	.text       start:0x8008E118 end:0x8008E124
+
+game/auto_03_8008E250_leaf.c:
+	.text       start:0x8008E250 end:0x8008E298
+
+game/auto_03_8008E95C_leaf.c:
+	.text       start:0x8008E95C end:0x8008E978
+
+game/auto_03_8008E9F0_leaf.c:
+	.text       start:0x8008E9F0 end:0x8008EA0C
+
+game/auto_03_8008EA48_leaf.c:
+	.text       start:0x8008EA48 end:0x8008EA70
+
+game/auto_03_8008EA70_leaf.c:
+	.text       start:0x8008EA70 end:0x8008EA74
+
+game/auto_03_8008EA74_leaf.c:
+	.text       start:0x8008EA74 end:0x8008EAAC
+
+game/auto_03_8008F0B8_leaves.c:
+	.text       start:0x8008F0B8 end:0x8008F14C
+
+game/auto_03_8008F328_leaves.c:
+	.text       start:0x8008F328 end:0x8008F3C0
+
+game/auto_03_8008F3C0_leaf.c:
+	.text       start:0x8008F3C0 end:0x8008F430
+
+game/auto_03_800901A8_leaves.c:
+	.text       start:0x800901A8 end:0x800901B8
+
+game/auto_03_800916C4_leaves.c:
+	.text       start:0x800916C4 end:0x800917B4
+
+game/auto_03_800917B4_leaf.c:
+	.text       start:0x800917B4 end:0x800917C0
+
+game/auto_03_800917C0_leaf.c:
+	.text       start:0x800917C0 end:0x800917CC
+
+game/auto_03_80091DF4_leaf.c:
+	.text       start:0x80091DF4 end:0x80091DFC
+
+game/auto_03_80091EF8_leaf.c:
+	.text       start:0x80091EF8 end:0x80091F00
+
+game/auto_03_80095134_leaf.c:
+	.text       start:0x80095134 end:0x80095144
+
+game/auto_03_80095914_leaf.c:
+	.text       start:0x80095914 end:0x80095924
+
+game/auto_03_80095FD0_leaf.c:
+	.text       start:0x80095FD0 end:0x80095FE0
+
+game/auto_03_800967C8_leaf.c:
+	.text       start:0x800967C8 end:0x80096808
+
+game/auto_03_80096808_leaf.c:
+	.text       start:0x80096808 end:0x800968A4
+
+game/auto_03_80098578_leaves.c:
+	.text       start:0x80098578 end:0x80098580
+
+game/auto_03_800985C8_leaves.c:
+	.text       start:0x800985C8 end:0x800985EC
+
+game/auto_03_800987B0_leaf.c:
+	.text       start:0x800987B0 end:0x800987B4
+
+game/auto_03_8009A438_leaf.c:
+	.text       start:0x8009A438 end:0x8009A480
+
+game/auto_03_8009A480_leaf.c:
+	.text       start:0x8009A480 end:0x8009A48C
+
+game/auto_03_800B9A80_leaf.c:
+	.text       start:0x800B9A80 end:0x800B9AB4
+
+game/auto_03_800B9AB4_leaf.c:
+	.text       start:0x800B9AB4 end:0x800B9AE0
+
+game/auto_03_800BA2D4_leaf.c:
+	.text       start:0x800BA2D4 end:0x800BA2F4
+
+game/auto_03_800BBD10_leaf.c:
+	.text       start:0x800BBD10 end:0x800BBD58
+
+game/auto_03_800BBE30_leaf.c:
+	.text       start:0x800BBE30 end:0x800BBE74
+
+game/auto_03_800BC93C_leaf.c:
+	.text       start:0x800BC93C end:0x800BC974
+
+game/auto_03_800BCC64_leaves.c:
+	.text       start:0x800BCC64 end:0x800BCC84
+
+game/auto_03_800BCCB0_leaf.c:
+	.text       start:0x800BCCB0 end:0x800BCD10
+
+game/auto_03_800BCEB0_leaves.c:
+	.text       start:0x800BCEB0 end:0x800BCEC0
+
+game/auto_03_800BCF40_leaf.c:
+	.text       start:0x800BCF40 end:0x800BCF7C
+
+game/auto_03_800BD1F4_leaves.c:
+	.text       start:0x800BD1F4 end:0x800BD220
+
+game/auto_03_800BD220_leaf.c:
+	.text       start:0x800BD220 end:0x800BD228
+
+game/auto_03_800BD228_leaf.c:
+	.text       start:0x800BD228 end:0x800BD244
+
+game/auto_03_800BD244_leaves.c:
+	.text       start:0x800BD244 end:0x800BD260
+
+game/auto_03_800BD260_leaf.c:
+	.text       start:0x800BD260 end:0x800BD274
+
+game/auto_03_800BD6E0_leaves.c:
+	.text       start:0x800BD6E0 end:0x800BD728
+
+game/auto_03_800BD728_leaf.c:
+	.text       start:0x800BD728 end:0x800BD72C
+
+game/auto_03_800BD72C_leaf.c:
+	.text       start:0x800BD72C end:0x800BD744
+
+game/auto_03_800BD744_leaves.c:
+	.text       start:0x800BD744 end:0x800BD750
+
+game/auto_03_800BE308_leaf.c:
+	.text       start:0x800BE308 end:0x800BE30C
+
+game/auto_03_800BE784_leaf.c:
+	.text       start:0x800BE784 end:0x800BE7D0
+
+game/auto_03_800BE7D0_leaf.c:
+	.text       start:0x800BE7D0 end:0x800BE804
+
+game/auto_03_800BF0AC_leaf.c:
+	.text       start:0x800BF0AC end:0x800BF0CC
+
+game/auto_03_800BF1C8_leaf.c:
+	.text       start:0x800BF1C8 end:0x800BF1E4
+
+game/auto_03_800BF308_leaves.c:
+	.text       start:0x800BF308 end:0x800BF31C
+
+game/auto_03_800BF928_leaf.c:
+	.text       start:0x800BF928 end:0x800BF92C
+
+game/auto_03_800BF92C_leaves.c:
+	.text       start:0x800BF92C end:0x800BF98C
+
+game/auto_03_800BFB1C_leaf.c:
+	.text       start:0x800BFB1C end:0x800BFB78
+
+game/auto_03_800BFBA8_leaves.c:
+	.text       start:0x800BFBA8 end:0x800BFBC4
+
+game/auto_03_800C0034_leaf.c:
+	.text       start:0x800C0034 end:0x800C003C
+
+game/leaf_sweep/leaf_800C2174.c:
+	.text       start:0x800C2174 end:0x800C217C
+
+game/leaf_sweep/leaf_800C2584.c:
+	.text       start:0x800C2584 end:0x800C2590
+
+game/leaf_sweep/leaf_800C3C0C.c:
+	.text       start:0x800C3C0C end:0x800C3C14
+
+game/leaf_sweep/leaf_800C752C.c:
+	.text       start:0x800C752C end:0x800C7534
+
+game/leaf_sweep/leaf_800C75B8.c:
+	.text       start:0x800C75B8 end:0x800C75C0
+
+game/leaf_sweep/leaf_800CA25C.c:
+	.text       start:0x800CA25C end:0x800CA26C
+
+game/leaf_sweep/leaf_800CA4A8.c:
+	.text       start:0x800CA4A8 end:0x800CA4B0
+
+game/leaf_sweep/leaf_800CAB6C.c:
+	.text       start:0x800CAB6C end:0x800CAB74
+
+game/leaf_sweep/leaf_800CBBE0.c:
+	.text       start:0x800CBBE0 end:0x800CBBF0
+
+game/leaf_sweep/leaf_800CD3F4.c:
+	.text       start:0x800CD3F4 end:0x800CD400
+
+game/leaf_sweep/leaf_800D1E50.c:
+	.text       start:0x800D1E50 end:0x800D1E54
+
+game/leaf_sweep/leaf_800D26F8.c:
+	.text       start:0x800D26F8 end:0x800D26FC
+
+game/auto_03_800D61E0_leaf.c:
+	.text       start:0x800D61E0 end:0x800D6288
+
+game/auto_03_800D7200_leaf.c:
+	.text       start:0x800D7200 end:0x800D73DC
+
+game/leaf_sweep/leaf_800D7BE4.c:
+	.text       start:0x800D7BE4 end:0x800D7BF0
+
+game/leaf_sweep/leaf_800D8290.c:
+	.text       start:0x800D8290 end:0x800D8298
+
+game/leaf_sweep/leaf_800D8508.c:
+	.text       start:0x800D8508 end:0x800D8510
+
+game/leaf_sweep/leaf_800D89AC.c:
+	.text       start:0x800D89AC end:0x800D89CC
+
+game/leaf_sweep/leaf_800D89E4.c:
+	.text       start:0x800D89E4 end:0x800D8A0C
+
+game/leaf_sweep/leaf_800D8D84.c:
+	.text       start:0x800D8D84 end:0x800D8D8C
+
+game/leaf_sweep/leaf_800D9CF0.c:
+	.text       start:0x800D9CF0 end:0x800D9D10
+
+game/leaf_sweep/leaf_800D9D6C.c:
+	.text       start:0x800D9D6C end:0x800D9D80
+
+game/leaf_sweep/leaf_800DA364.c:
+	.text       start:0x800DA364 end:0x800DA374
+
+game/leaf_sweep/leaf_800DA588.c:
+	.text       start:0x800DA588 end:0x800DA58C
+
+game/leaf_sweep/leaf_800E11DC.c:
+	.text       start:0x800E11DC end:0x800E11F8
+
+game/leaf_sweep/leaf_800E134C.c:
+	.text       start:0x800E134C end:0x800E1360
+
+game/leaf_sweep/leaf_800E1380.c:
+	.text       start:0x800E1380 end:0x800E1390
+
+game/leaf_sweep/leaf_800E1478.c:
+	.text       start:0x800E1478 end:0x800E1488
+
+game/leaf_sweep/leaf_800E15C8.c:
+	.text       start:0x800E15C8 end:0x800E15D0
+
+game/leaf_sweep/leaf_800E15E0.c:
+	.text       start:0x800E15E0 end:0x800E1600
+
+game/leaf_sweep/leaf_800E1620.c:
+	.text       start:0x800E1620 end:0x800E1630
+
+game/leaf_sweep/leaf_800E1718.c:
+	.text       start:0x800E1718 end:0x800E1728
+
+game/leaf_sweep/leaf_800E1868.c:
+	.text       start:0x800E1868 end:0x800E1870
+
+game/leaf_sweep/leaf_800E1880.c:
+	.text       start:0x800E1880 end:0x800E18A0
+
+game/leaf_sweep/leaf_800E18C0.c:
+	.text       start:0x800E18C0 end:0x800E18D0
+
+game/leaf_sweep/leaf_800E19B8.c:
+	.text       start:0x800E19B8 end:0x800E19C8
+
+game/leaf_sweep/leaf_800E1B08.c:
+	.text       start:0x800E1B08 end:0x800E1B10
+
+game/leaf_sweep/leaf_800E1B30.c:
+	.text       start:0x800E1B30 end:0x800E1B44
+
+game/leaf_sweep/leaf_800E1B64.c:
+	.text       start:0x800E1B64 end:0x800E1B74
+
+game/leaf_sweep/leaf_800E1C5C.c:
+	.text       start:0x800E1C5C end:0x800E1C6C
+
+game/leaf_sweep/leaf_800E1DAC.c:
+	.text       start:0x800E1DAC end:0x800E1DB4
+
+game/leaf_sweep/leaf_800E1DD4.c:
+	.text       start:0x800E1DD4 end:0x800E1DE8
+
+game/leaf_sweep/leaf_800E1E08.c:
+	.text       start:0x800E1E08 end:0x800E1E18
+
+game/leaf_sweep/leaf_800E1F00.c:
+	.text       start:0x800E1F00 end:0x800E1F0C
+
+game/leaf_sweep/leaf_800E204C.c:
+	.text       start:0x800E204C end:0x800E2054
+
+game/leaf_sweep/leaf_800E2074.c:
+	.text       start:0x800E2074 end:0x800E2100
+
+game/leaf_sweep/leaf_800E676C.c:
+	.text       start:0x800E676C end:0x800E6774
+
+game/leaf_sweep/leaf_800E79FC.c:
+	.text       start:0x800E79FC end:0x800E7A1C
+
+game/leaf_sweep/leaf_800E7E80.c:
+	.text       start:0x800E7E80 end:0x800E7E84
+
+game/leaf_sweep/leaf_800E7ED0.c:
+	.text       start:0x800E7ED0 end:0x800E7ED8
+
+game/leaf_sweep/leaf_800E98E8.c:
+	.text       start:0x800E98E8 end:0x800E98F0
+
+game/leaf_sweep/leaf_800E9944.c:
+	.text       start:0x800E9944 end:0x800E994C
+
+game/leaf_sweep/leaf_800EC4DC.c:
+	.text       start:0x800EC4DC end:0x800EC4E4
+
+game/leaf_sweep/leaf_800EC560.c:
+	.text       start:0x800EC560 end:0x800EC568
+
+game/leaf_sweep/leaf_800EC588.c:
+	.text       start:0x800EC588 end:0x800EC58C
+
+game/leaf_sweep/leaf_800EC644.c:
+	.text       start:0x800EC644 end:0x800EC648
+
+game/leaf_sweep/leaf_800EFC00.c:
+	.text       start:0x800EFC00 end:0x800EFC08
+
+game/leaf_sweep/leaf_800EFEE4.c:
+	.text       start:0x800EFEE4 end:0x800EFEEC
+
+game/leaf_sweep/leaf_800EFF0C.c:
+	.text       start:0x800EFF0C end:0x800EFF10
+
+game/leaf_sweep/leaf_800F0E4C.c:
+	.text       start:0x800F0E4C end:0x800F0E54
+
+game/leaf_sweep/leaf_800F146C.c:
+	.text       start:0x800F146C end:0x800F1474
+
+game/leaf_sweep/leaf_800F14E4.c:
+	.text       start:0x800F14E4 end:0x800F14EC
+
+game/leaf_sweep/leaf_800F150C.c:
+	.text       start:0x800F150C end:0x800F1510
+
+game/leaf_sweep/leaf_800F3898.c:
+	.text       start:0x800F3898 end:0x800F38A0
+
+game/leaf_sweep/leaf_800F3C5C.c:
+	.text       start:0x800F3C5C end:0x800F3C64
+
+game/leaf_sweep/leaf_800F3F08.c:
+	.text       start:0x800F3F08 end:0x800F3F0C
+
+game/leaf_sweep/leaf_800F7E0C.c:
+	.text       start:0x800F7E0C end:0x800F7E14
+
+game/leaf_sweep/leaf_800F9B7C.c:
+	.text       start:0x800F9B7C end:0x800F9B84
+
+game/leaf_sweep/leaf_800F9C60.c:
+	.text       start:0x800F9C60 end:0x800F9C64
+
+game/auto_03_800FB7F8_leaf.c:
+	.text       start:0x800FB7F8 end:0x800FB810
+
+game/leaf_sweep/leaf_80103264.c:
+	.text       start:0x80103264 end:0x8010326C
+
+game/leaf_sweep/leaf_8010328C.c:
+	.text       start:0x8010328C end:0x80103290
+
+game/leaf_sweep/leaf_80103A3C.c:
+	.text       start:0x80103A3C end:0x80103A4C
+
+game/leaf_sweep/leaf_80104508.c:
+	.text       start:0x80104508 end:0x80104510
+
+game/leaf_sweep/leaf_80105294.c:
+	.text       start:0x80105294 end:0x801052AC
+
+game/leaf_sweep/leaf_80105318.c:
+	.text       start:0x80105318 end:0x80105324
+
+game/leaf_sweep/leaf_80105390.c:
+	.text       start:0x80105390 end:0x801053A4
+
+game/leaf_sweep/leaf_801053B4.c:
+	.text       start:0x801053B4 end:0x801053B8
+
+game/leaf_sweep/leaf_80105414.c:
+	.text       start:0x80105414 end:0x80105428
+
+game/leaf_sweep/leaf_80105494.c:
+	.text       start:0x80105494 end:0x801054A0
+
+game/leaf_sweep/leaf_801054E8.c:
+	.text       start:0x801054E8 end:0x801054F4
+
+game/leaf_sweep/leaf_801066D4.c:
+	.text       start:0x801066D4 end:0x801066D8
+
+game/leaf_sweep/leaf_80106CD0.c:
+	.text       start:0x80106CD0 end:0x80106CD4
+
+game/leaf_sweep/leaf_80107788.c:
+	.text       start:0x80107788 end:0x801077D0
+
+game/leaf_sweep/leaf_80107DFC.c:
+	.text       start:0x80107DFC end:0x80107E04
+
+game/leaf_sweep/leaf_80107F00.c:
+	.text       start:0x80107F00 end:0x80107F08
+
+game/leaf_sweep/leaf_8010810C.c:
+	.text       start:0x8010810C end:0x80108114
+
+game/leaf_sweep/leaf_801084A0.c:
+	.text       start:0x801084A0 end:0x801084A8
+
+game/leaf_sweep/leaf_80108554.c:
+	.text       start:0x80108554 end:0x80108568
+
+game/leaf_sweep/leaf_801087E4.c:
+	.text       start:0x801087E4 end:0x801087EC
+
+game/leaf_sweep/leaf_80108848.c:
+	.text       start:0x80108848 end:0x80108850
+
+game/leaf_sweep/leaf_801088A0.c:
+	.text       start:0x801088A0 end:0x801088A8
+
+game/leaf_sweep/leaf_80108904.c:
+	.text       start:0x80108904 end:0x801089A8
+
+game/leaf_sweep/leaf_80108A04.c:
+	.text       start:0x80108A04 end:0x80108AD0
+
+game/leaf_sweep/leaf_80108CB0.c:
+	.text       start:0x80108CB0 end:0x80108CBC
+
+game/leaf_sweep/leaf_80109354.c:
+	.text       start:0x80109354 end:0x80109360
+
+game/leaf_sweep/leaf_801093B0.c:
+	.text       start:0x801093B0 end:0x80109438
+
+game/leaf_sweep/leaf_8010D8C0.c:
+	.text       start:0x8010D8C0 end:0x8010D8C4
+
+game/leaf_sweep/leaf_8010E3E4.c:
+	.text       start:0x8010E3E4 end:0x8010E3F8
+
+game/leaf_sweep/leaf_8010E7C4.c:
+	.text       start:0x8010E7C4 end:0x8010E7C8
+
+game/leaf_sweep/leaf_80111BE4.c:
+	.text       start:0x80111BE4 end:0x80111C04
+
+game/leaf_sweep/leaf_80111CF8.c:
+	.text       start:0x80111CF8 end:0x80111D00
+
+game/leaf_sweep/leaf_80112008.c:
+	.text       start:0x80112008 end:0x80112020
+
+game/leaf_sweep/leaf_801130F8.c:
+	.text       start:0x801130F8 end:0x80113104
+
+game/leaf_sweep/leaf_80113314.c:
+	.text       start:0x80113314 end:0x8011331C
+
+game/leaf_sweep/leaf_80113328.c:
+	.text       start:0x80113328 end:0x80113338
+
+game/leaf_sweep/leaf_80113344.c:
+	.text       start:0x80113344 end:0x8011335C
+
+game/leaf_sweep/leaf_801133EC.c:
+	.text       start:0x801133EC end:0x801133F8
+
+game/leaf_sweep/leaf_801134A8.c:
+	.text       start:0x801134A8 end:0x801134B0
+
+game/leaf_sweep/leaf_801134BC.c:
+	.text       start:0x801134BC end:0x801134CC
+
+game/leaf_sweep/leaf_801134D8.c:
+	.text       start:0x801134D8 end:0x801134E0
+
+game/leaf_sweep/leaf_801135DC.c:
+	.text       start:0x801135DC end:0x801135E8
+
+game/leaf_sweep/leaf_801137A0.c:
+	.text       start:0x801137A0 end:0x801137A8
+
+game/leaf_sweep/leaf_801137B4.c:
+	.text       start:0x801137B4 end:0x801137BC
+
+game/leaf_sweep/leaf_80113924.c:
+	.text       start:0x80113924 end:0x8011393C
+
+game/leaf_sweep/leaf_80113998.c:
+	.text       start:0x80113998 end:0x801139A4
+
+game/leaf_sweep/leaf_80113A44.c:
+	.text       start:0x80113A44 end:0x80113A50
+
+game/leaf_sweep/leaf_80113C08.c:
+	.text       start:0x80113C08 end:0x80113C10
+
+game/leaf_sweep/leaf_80113C1C.c:
+	.text       start:0x80113C1C end:0x80113C24
+
+game/leaf_sweep/leaf_80113D8C.c:
+	.text       start:0x80113D8C end:0x80113DA4
+
+game/leaf_sweep/leaf_80113E00.c:
+	.text       start:0x80113E00 end:0x80113E04
+
+game/leaf_sweep/leaf_80113EA4.c:
+	.text       start:0x80113EA4 end:0x80113EB0
+
+game/leaf_sweep/leaf_80114068.c:
+	.text       start:0x80114068 end:0x80114070
+
+game/leaf_sweep/leaf_8011407C.c:
+	.text       start:0x8011407C end:0x80114084
+
+game/leaf_sweep/leaf_801141EC.c:
+	.text       start:0x801141EC end:0x80114204
+
+game/leaf_sweep/leaf_80114260.c:
+	.text       start:0x80114260 end:0x80114264
+
+game/leaf_sweep/leaf_80114304.c:
+	.text       start:0x80114304 end:0x80114310
+
+game/leaf_sweep/leaf_801143A0.c:
+	.text       start:0x801143A0 end:0x801143B0
+
+game/leaf_sweep/leaf_80114478.c:
+	.text       start:0x80114478 end:0x80114480
+
+game/leaf_sweep/leaf_801144DC.c:
+	.text       start:0x801144DC end:0x8011451C
+
+game/leaf_sweep/leaf_801145BC.c:
+	.text       start:0x801145BC end:0x801145D0
+
+game/leaf_sweep/leaf_801145DC.c:
+	.text       start:0x801145DC end:0x801145E4
+
+game/leaf_sweep/leaf_8011483C.c:
+	.text       start:0x8011483C end:0x80114854
+
+game/leaf_sweep/leaf_801148B0.c:
+	.text       start:0x801148B0 end:0x801148BC
+
+game/leaf_sweep/leaf_80114978.c:
+	.text       start:0x80114978 end:0x80114980
+
+game/leaf_sweep/leaf_8011498C.c:
+	.text       start:0x8011498C end:0x80114994
+
+game/leaf_sweep/leaf_801149EC.c:
+	.text       start:0x801149EC end:0x80114A08
+
+game/leaf_sweep/leaf_80114AC4.c:
+	.text       start:0x80114AC4 end:0x80114AE0
+
+game/leaf_sweep/leaf_80114BC4.c:
+	.text       start:0x80114BC4 end:0x80114BD4
+
+game/leaf_sweep/leaf_80114C30.c:
+	.text       start:0x80114C30 end:0x80114C38
+
+game/leaf_sweep/leaf_80114C44.c:
+	.text       start:0x80114C44 end:0x80114C6C
+
+game/leaf_sweep/leaf_80114CC8.c:
+	.text       start:0x80114CC8 end:0x80114CD4
+
+game/leaf_sweep/leaf_80114E24.c:
+	.text       start:0x80114E24 end:0x80114E34
+
+game/leaf_sweep/leaf_80114E70.c:
+	.text       start:0x80114E70 end:0x80114E78
+
+game/leaf_sweep/leaf_80114E84.c:
+	.text       start:0x80114E84 end:0x80114EB8
+
+game/leaf_sweep/leaf_80114F14.c:
+	.text       start:0x80114F14 end:0x80114F20
+
+game/leaf_sweep/leaf_80114F7C.c:
+	.text       start:0x80114F7C end:0x80114F88
+
+game/leaf_sweep/leaf_80114FE4.c:
+	.text       start:0x80114FE4 end:0x80115000
+
+game/leaf_sweep/leaf_801151D0.c:
+	.text       start:0x801151D0 end:0x80115218
+
+game/leaf_sweep/leaf_8011C3D4.c:
+	.text       start:0x8011C3D4 end:0x8011C3DC
+
+game/leaf_sweep/leaf_8011C498.c:
+	.text       start:0x8011C498 end:0x8011C4A4
+
+game/leaf_sweep/leaf_8011C528.c:
+	.text       start:0x8011C528 end:0x8011C530
+
+game/leaf_sweep/leaf_8011C59C.c:
+	.text       start:0x8011C59C end:0x8011C5A4
+
+game/leaf_sweep/leaf_8011C600.c:
+	.text       start:0x8011C600 end:0x8011C60C
+
+game/leaf_sweep/leaf_8011C678.c:
+	.text       start:0x8011C678 end:0x8011C680
+
+game/leaf_sweep/leaf_8011C6EC.c:
+	.text       start:0x8011C6EC end:0x8011C6F4
+
+game/leaf_sweep/leaf_8011C750.c:
+	.text       start:0x8011C750 end:0x8011C758
+
+game/leaf_sweep/leaf_8011C7CC.c:
+	.text       start:0x8011C7CC end:0x8011C7D4
+
+game/leaf_sweep/leaf_8011C840.c:
+	.text       start:0x8011C840 end:0x8011C848
+
+game/leaf_sweep/leaf_8011C8A4.c:
+	.text       start:0x8011C8A4 end:0x8011C8AC
+
+game/leaf_sweep/leaf_8011E800.c:
+	.text       start:0x8011E800 end:0x8011E810
+
+game/leaf_sweep/leaf_8011E904.c:
+	.text       start:0x8011E904 end:0x8011E90C
+
+game/leaf_sweep/leaf_8011E9C4.c:
+	.text       start:0x8011E9C4 end:0x8011E9CC
+
+game/leaf_sweep/leaf_8011EABC.c:
+	.text       start:0x8011EABC end:0x8011EAC4
+
+game/leaf_sweep/leaf_80122370.c:
+	.text       start:0x80122370 end:0x80122380
+
+game/leaf_sweep/leaf_801223DC.c:
+	.text       start:0x801223DC end:0x801223E4
+
+game/leaf_sweep/leaf_80122408.c:
+	.text       start:0x80122408 end:0x80122414
+
+game/leaf_sweep/leaf_80122470.c:
+	.text       start:0x80122470 end:0x801224A0
+
+game/leaf_sweep/leaf_801224FC.c:
+	.text       start:0x801224FC end:0x80122508
+
+game/leaf_sweep/leaf_80122C04.c:
+	.text       start:0x80122C04 end:0x80122C0C
+
+game/leaf_sweep/leaf_80122D5C.c:
+	.text       start:0x80122D5C end:0x80122D64
+
+game/leaf_sweep/leaf_8012420C.c:
+	.text       start:0x8012420C end:0x8012421C
+
+game/leaf_sweep/leaf_80127554.c:
+	.text       start:0x80127554 end:0x8012755C
+
+game/leaf_sweep/leaf_801275D0.c:
+	.text       start:0x801275D0 end:0x801275D8
+
+game/leaf_sweep/leaf_80127660.c:
+	.text       start:0x80127660 end:0x80127668
+
+game/leaf_sweep/leaf_801276F0.c:
+	.text       start:0x801276F0 end:0x801276F8
+
+game/leaf_sweep/leaf_80127764.c:
+	.text       start:0x80127764 end:0x8012776C
+
+game/leaf_sweep/leaf_80127824.c:
+	.text       start:0x80127824 end:0x8012782C
+
+dolphin/os/OSContextClear.c:
+	.text       start:0x80129B8C end:0x80129BB0
+
+game/leaf_sweep/leaf_8012D1B8.c:
+	.text       start:0x8012D1B8 end:0x8012D1BC
+
+dolphin/os/OSInitThreadQueue.c:
+	.text       start:0x8012D314 end:0x8012D324
+
+dolphin/si/SITypeDecode.c:
+	.text       start:0x80132040 end:0x8013218C
+
+dolphin/db/DBPrintf.c:
+	.text       start:0x80132354 end:0x801323A4
+
+game/leaf_sweep/leaf_80134504.c:
+	.text       start:0x80134504 end:0x80134508
+
+game/leaf_sweep/leaf_8013D484.c:
+	.text       start:0x8013D484 end:0x8013D488
+
+game/leaf_sweep/leaf_8013E8EC.c:
+	.text       start:0x8013E8EC end:0x8013E8F0
+
+game/leaf_sweep/leaf_8013F52C.c:
+	.text       start:0x8013F52C end:0x8013F530
+
+game/leaf_sweep/leaf_801401E4.c:
+	.text       start:0x801401E4 end:0x801401E8
+
+game/leaf_sweep/leaf_801430B8.c:
+	.text       start:0x801430B8 end:0x801430BC
+
+game/leaf_sweep/leaf_80148D68.c:
+	.text       start:0x80148D68 end:0x80148D70
+
+game/leaf_sweep/leaf_8014991C.c:
+	.text       start:0x8014991C end:0x80149920
+
+dolphin/card/bitrev.c:
+	.text       start:0x8014AE44 end:0x8014AFB0
+
+game/leaf_sweep/leaf_8014C334.c:
+	.text       start:0x8014C334 end:0x8014C33C
+
+game/leaf_sweep/leaf_8014C69C.c:
+	.text       start:0x8014C69C end:0x8014C6A4
+
+dolphin/card/CARDCheckSum.c:
+	.text       start:0x8014C900 end:0x8014CAB0
+
+dolphin/card/CARDVerify.c:
+	.text       start:0x8014D1F8 end:0x8014D284
+
+dolphin/card/UpdateIconOffsets.c:
+	.text       start:0x8014FB78 end:0x8014FD70
+
+dolphin/gx/GXInitFifoBase.c:
+	.text       start:0x80151FE4 end:0x80152050
+
+game/leaf_sweep/leaf_801555E0.c:
+	.text       start:0x801555E0 end:0x801555E8
+
+dolphin/gx/GXInitTexCacheRegion.c:
+	.text       start:0x801558A0 end:0x80155994
+
+dolphin/gx/GXSetTmemConfig.c:
+	.text       start:0x80155C58 end:0x80155FAC
+
+game/leaf_sweep/leaf_8015642C.c:
+	.text       start:0x8015642C end:0x80156430
+
+crt/fwrite.c:
+	.text       start:0x8015E0F0 end:0x8015E16C
+
+crt/fseek.c:
+	.text       start:0x8015E460 end:0x8015E4CC
+
+crt/memchr.c:
+	.text       start:0x8015E984 end:0x8015E9DC
+
+crt/mem.c:
+	.text       start:0x8015E9DC end:0x8015ED78
+
+crt/round_decimal.c:
+	.text       start:0x8015FF9C end:0x801600C8
+
+crt/string_search.c:
+	.text       start:0x80160F00 end:0x80160F70
+
+crt/strcmp.c:
+	.text       start:0x80160F70 end:0x80161098
+
+crt/strncpy.c:
+	.text       start:0x801610C4 end:0x80161108
+
+crt/strcpy.c:
+	.text       start:0x80161108 end:0x801611C0
+
+crt/fwide.c:
+	.text       start:0x801616F0 end:0x80161778
+
+game/leaf_sweep/leaf_80161778.c:
+	.text       start:0x80161778 end:0x80161780
+
+crt/copysign.c:
+	.text       start:0x80163E40 end:0x80163E68
+
+crt/modf.c:
+	.text       start:0x801642D4 end:0x801643D0
+
+game/leaf_sweep/leaf_8016558C.c:
+	.text       start:0x8016558C end:0x80165594
+
+MetroTRK/usr_put.c:
+	.text       start:0x80165844 end:0x80165848
+
+MetroTRK/TRKDispatchInit.c:
+	.text       start:0x80165A40 end:0x80165A48
+
+game/leaf_sweep/leaf_80166858.c:
+	.text       start:0x80166858 end:0x80166868
+
+game/leaf_sweep/leaf_801671CC.c:
+	.text       start:0x801671CC end:0x801671E4
+
+MetroTRK/ddh_cc_close.c:
+	.text       start:0x8016A314 end:0x8016A31C
+
+MetroTRK/ddh_cc_shutdown.c:
+	.text       start:0x8016A340 end:0x8016A348
+
+game/leaf_sweep/leaf_8016A630.c:
+	.text       start:0x8016A630 end:0x8016A638
+
+MetroTRK/gdev_cc_close.c:
+	.text       start:0x8016A8C8 end:0x8016A8D0
+
+MetroTRK/gdev_cc_shutdown.c:
+	.text       start:0x8016A8F4 end:0x8016A8FC
+
+game/leaf_sweep/leaf_8016AA28.c:
+	.text       start:0x8016AA28 end:0x8016AA54
+
+game/leaf_sweep/leaf_8016AA5C.c:
+	.text       start:0x8016AA5C end:0x8016AA64
+
+dolphin/odenotstub/odenotstub.c:
+	.text       start:0x8016B4DC end:0x8016B4E4
