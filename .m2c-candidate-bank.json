@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "versions": {
+    "GPXE01": {
+      "manifest": "config/GPXE01/m2c_candidates.json",
+      "source_dir": "src/game/m2c_candidates",
+      "split_file": "config/GPXE01/splits.txt",
+      "section": ".text"
+    }
+  }
+}

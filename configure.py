@@ -13,6 +13,8 @@
 ###
 
 import argparse
+import json
+import shlex
 import sys
 from pathlib import Path
 from tools.project import (
@@ -236,6 +238,25 @@ config.warn_missing_config = True
 config.warn_missing_source = False
 config.libs = []
 if config.version == "GPXE01":
+    candidate_manifest = Path("config") / config.version / "m2c_candidates.json"
+    candidate_rows = (json.loads(candidate_manifest.read_text(encoding="utf-8")).get("candidates", [])
+                      if candidate_manifest.is_file() else [])
+    generated_candidate_objects = [
+        Object(bool(row.get("completed")), row["path"],
+               mw_version=f"GC/{row['profile']}",
+               cflags=[shlex.join(row["compiler_flags"])])
+        for row in candidate_rows
+    ]
+    config.reconfig_deps.append(candidate_manifest)
+    config.libs.append(
+        {
+            "lib": "m2c-candidates",
+            "mw_version": "GC/1.2.5n",
+            "cflags": cflags_base,
+            "progress_category": "game",
+            "objects": generated_candidate_objects,
+        }
+    )
     leaf_manifest = Path("config") / config.version / "leaf_promotions.txt"
     generated_leaf_objects = ([Object(True, line) for line in
                                leaf_manifest.read_text(encoding="utf-8").splitlines() if line]
