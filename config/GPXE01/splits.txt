@@ -16,32 +16,74 @@ Sections:
 game/leaf_sweep/leaf_80006588.c:
 	.text       start:0x80006588 end:0x80006590
 
+game/m2c_candidates/candidate_8000696C.c:
+	.text       start:0x8000696C end:0x8000699C
+
+game/m2c_candidates/candidate_800069F4.c:
+	.text       start:0x800069F4 end:0x80006A04
+
+game/m2c_candidates/candidate_80006A04.c:
+	.text       start:0x80006A04 end:0x80006A14
+
+game/m2c_candidates/candidate_800079D0.c:
+	.text       start:0x800079D0 end:0x800079D8
+
 game/leaf_sweep/leaf_80007A74.c:
 	.text       start:0x80007A74 end:0x80007A84
 
 game/leaf_sweep/leaf_80008CB0.c:
 	.text       start:0x80008CB0 end:0x80008CB4
 
+game/m2c_candidates/candidate_80008D70.c:
+	.text       start:0x80008D70 end:0x80008D7C
+
 game/leaf_sweep/leaf_800091C4.c:
 	.text       start:0x800091C4 end:0x800091CC
+
+game/m2c_candidates/candidate_800091CC.c:
+	.text       start:0x800091CC end:0x800091D4
+
+game/m2c_candidates/candidate_800091D4.c:
+	.text       start:0x800091D4 end:0x800091DC
 
 game/leaf_sweep/leaf_800095C8.c:
 	.text       start:0x800095C8 end:0x800095D4
 
+game/m2c_candidates/candidate_800095D4.c:
+	.text       start:0x800095D4 end:0x800095DC
+
+game/m2c_candidates/candidate_800095DC.c:
+	.text       start:0x800095DC end:0x800095E4
+
 game/leaf_sweep/leaf_800095E4.c:
 	.text       start:0x800095E4 end:0x800095EC
+
+game/m2c_candidates/candidate_800095EC.c:
+	.text       start:0x800095EC end:0x800095F8
 
 game/leaf_sweep/leaf_800095F8.c:
 	.text       start:0x800095F8 end:0x80009604
 
+game/m2c_candidates/candidate_80009604.c:
+	.text       start:0x80009604 end:0x80009610
+
 game/leaf_sweep/leaf_80009610.c:
 	.text       start:0x80009610 end:0x80009620
+
+game/m2c_candidates/candidate_80009620.c:
+	.text       start:0x80009620 end:0x80009628
 
 game/leaf_sweep/leaf_80009628.c:
 	.text       start:0x80009628 end:0x8000962C
 
+game/m2c_candidates/candidate_800098AC.c:
+	.text       start:0x800098AC end:0x800098B8
+
 game/leaf_sweep/leaf_800098B8.c:
 	.text       start:0x800098B8 end:0x800098C0
+
+game/m2c_candidates/candidate_800098C0.c:
+	.text       start:0x800098C0 end:0x800098CC
 
 game/leaf_sweep/leaf_800098CC.c:
 	.text       start:0x800098CC end:0x800098D4
@@ -52,17 +94,35 @@ game/leaf_sweep/leaf_800098E8.c:
 game/leaf_sweep/leaf_8000990C.c:
 	.text       start:0x8000990C end:0x80009914
 
+game/m2c_candidates/candidate_80009914.c:
+	.text       start:0x80009914 end:0x80009920
+
+game/m2c_candidates/candidate_80009920.c:
+	.text       start:0x80009920 end:0x8000992C
+
 game/leaf_sweep/leaf_8000992C.c:
 	.text       start:0x8000992C end:0x80009934
 
+game/m2c_candidates/candidate_8000ADD8.c:
+	.text       start:0x8000ADD8 end:0x8000ADE8
+
+game/m2c_candidates/candidate_8000ADE8.c:
+	.text       start:0x8000ADE8 end:0x8000ADF8
+
 game/leaf_sweep/leaf_8000B15C.c:
 	.text       start:0x8000B15C end:0x8000B18C
+
+game/m2c_candidates/candidate_8000BD60.c:
+	.text       start:0x8000BD60 end:0x8000BD70
 
 game/leaf_sweep/leaf_8000D688.c:
 	.text       start:0x8000D688 end:0x8000D690
 
 game/leaf_sweep/leaf_8000D6E4.c:
 	.text       start:0x8000D6E4 end:0x8000D6E8
+
+game/m2c_candidates/candidate_8000ED9C.c:
+	.text       start:0x8000ED9C end:0x8000EDA8
 
 game/auto_03_8000F234_leaf.c:
 	.text       start:0x8000F234 end:0x8000F270
@@ -82,6 +142,9 @@ game/leaf_sweep/leaf_80014E90.c:
 game/leaf_sweep/leaf_80016D84.c:
 	.text       start:0x80016D84 end:0x80016D90
 
+game/m2c_candidates/candidate_80016D90.c:
+	.text       start:0x80016D90 end:0x80016DB8
+
 game/leaf_sweep/leaf_80016E28.c:
 	.text       start:0x80016E28 end:0x80016E30
 
@@ -90,6 +153,9 @@ game/leaf_sweep/leaf_80019188.c:
 
 game/leaf_sweep/leaf_8001A9C4.c:
 	.text       start:0x8001A9C4 end:0x8001A9C8
+
+game/m2c_candidates/candidate_8001CAA0.c:
+	.text       start:0x8001CAA0 end:0x8001CAB0
 
 game/leaf_sweep/leaf_8001E580.c:
 	.text       start:0x8001E580 end:0x8001E588
@@ -106,17 +172,56 @@ game/leaf_sweep/leaf_8002011C.c:
 game/leaf_sweep/leaf_800204FC.c:
 	.text       start:0x800204FC end:0x80020504
 
+game/m2c_candidates/candidate_8002242C.c:
+	.text       start:0x8002242C end:0x8002245C
+
 game/leaf_sweep/leaf_80022BFC.c:
 	.text       start:0x80022BFC end:0x80022C04
 
 game/leaf_sweep/leaf_80023814.c:
 	.text       start:0x80023814 end:0x80023818
 
+game/m2c_candidates/candidate_800277C4.c:
+	.text       start:0x800277C4 end:0x800277D4
+
+game/m2c_candidates/candidate_80027A20.c:
+	.text       start:0x80027A20 end:0x80027A38
+
 game/leaf_sweep/leaf_8002813C.c:
 	.text       start:0x8002813C end:0x80028144
 
+game/m2c_candidates/candidate_80028144.c:
+	.text       start:0x80028144 end:0x80028164
+
 game/leaf_sweep/leaf_80029580.c:
 	.text       start:0x80029580 end:0x80029588
+
+game/m2c_candidates/candidate_800295FC.c:
+	.text       start:0x800295FC end:0x8002960C
+
+game/m2c_candidates/candidate_80029624.c:
+	.text       start:0x80029624 end:0x8002962C
+
+game/m2c_candidates/candidate_80029D74.c:
+	.text       start:0x80029D74 end:0x80029D90
+
+game/m2c_candidates/candidate_8002B288.c:
+	.text       start:0x8002B288 end:0x8002B2AC
+
+game/m2c_candidates/candidate_8002DE54.c:
+	.text       start:0x8002DE54 end:0x8002DE68
+
+game/m2c_candidates/candidate_80034820.c:
+	.text       start:0x80034820 end:0x80034858
+
+game/m2c_candidates/candidate_80035738.c:
+	.text       start:0x80035738 end:0x80035758
+
+game/m2c_candidates/candidate_80035758.c:
+	.text       start:0x80035758 end:0x80035778
+
+game/m2c_candidates/candidate_80036D98.c:
+	.text       start:0x80036D98 end:0x80036DA0
 
 game/leaf_sweep/leaf_80036EE0.c:
 	.text       start:0x80036EE0 end:0x80036EE8
@@ -126,6 +231,9 @@ game/leaf_sweep/leaf_80036FD4.c:
 
 game/leaf_sweep/leaf_8003722C.c:
 	.text       start:0x8003722C end:0x80037234
+
+game/m2c_candidates/candidate_800375F8.c:
+	.text       start:0x800375F8 end:0x80037630
 
 game/leaf_sweep/leaf_80037CB4.c:
 	.text       start:0x80037CB4 end:0x80037CBC
@@ -139,6 +247,12 @@ game/leaf_sweep/leaf_8003826C.c:
 game/leaf_sweep/leaf_8003858C.c:
 	.text       start:0x8003858C end:0x80038594
 
+game/m2c_candidates/candidate_800389C0.c:
+	.text       start:0x800389C0 end:0x800389C8
+
+game/m2c_candidates/candidate_800394F0.c:
+	.text       start:0x800394F0 end:0x80039538
+
 game/leaf_sweep/leaf_800395EC.c:
 	.text       start:0x800395EC end:0x800395F4
 
@@ -151,17 +265,152 @@ game/leaf_sweep/leaf_800396D0.c:
 game/leaf_sweep/leaf_80039768.c:
 	.text       start:0x80039768 end:0x8003976C
 
+game/m2c_candidates/candidate_8003976C.c:
+	.text       start:0x8003976C end:0x800397AC
+
+game/m2c_candidates/candidate_800397AC.c:
+	.text       start:0x800397AC end:0x800397EC
+
+game/m2c_candidates/candidate_80039978.c:
+	.text       start:0x80039978 end:0x800399A0
+
+game/m2c_candidates/candidate_80039BC0.c:
+	.text       start:0x80039BC0 end:0x80039BFC
+
 game/leaf_sweep/leaf_8003A1A4.c:
 	.text       start:0x8003A1A4 end:0x8003A1BC
+
+game/m2c_candidates/candidate_8003ACE8.c:
+	.text       start:0x8003ACE8 end:0x8003AD00
+
+game/m2c_candidates/candidate_8003D0F8.c:
+	.text       start:0x8003D0F8 end:0x8003D114
+
+game/m2c_candidates/candidate_8003FD3C.c:
+	.text       start:0x8003FD3C end:0x8003FD98
 
 game/leaf_sweep/leaf_800405B0.c:
 	.text       start:0x800405B0 end:0x800405D4
 
+game/m2c_candidates/candidate_8004214C.c:
+	.text       start:0x8004214C end:0x80042158
+
+game/m2c_candidates/candidate_80042158.c:
+	.text       start:0x80042158 end:0x80042174
+
+game/m2c_candidates/candidate_80044320.c:
+	.text       start:0x80044320 end:0x8004432C
+
+game/m2c_candidates/candidate_8004432C.c:
+	.text       start:0x8004432C end:0x80044338
+
+game/m2c_candidates/candidate_80044388.c:
+	.text       start:0x80044388 end:0x800443B0
+
+game/m2c_candidates/candidate_800443B0.c:
+	.text       start:0x800443B0 end:0x800443D8
+
+game/m2c_candidates/candidate_800444EC.c:
+	.text       start:0x800444EC end:0x800444FC
+
+game/m2c_candidates/candidate_80044680.c:
+	.text       start:0x80044680 end:0x8004468C
+
+game/m2c_candidates/candidate_80045840.c:
+	.text       start:0x80045840 end:0x80045874
+
+game/m2c_candidates/candidate_80045A44.c:
+	.text       start:0x80045A44 end:0x80045A98
+
+game/m2c_candidates/candidate_80047158.c:
+	.text       start:0x80047158 end:0x8004717C
+
+game/m2c_candidates/candidate_8004717C.c:
+	.text       start:0x8004717C end:0x80047228
+
+game/m2c_candidates/candidate_80047228.c:
+	.text       start:0x80047228 end:0x8004728C
+
+game/m2c_candidates/candidate_8004728C.c:
+	.text       start:0x8004728C end:0x800472CC
+
+game/m2c_candidates/candidate_80047714.c:
+	.text       start:0x80047714 end:0x8004775C
+
+game/m2c_candidates/candidate_80048800.c:
+	.text       start:0x80048800 end:0x800488C8
+
 game/auto_03_80048920_leaf.c:
 	.text       start:0x80048920 end:0x80048974
 
+game/m2c_candidates/candidate_80048D3C.c:
+	.text       start:0x80048D3C end:0x80048D98
+
+game/m2c_candidates/candidate_80048D98.c:
+	.text       start:0x80048D98 end:0x80048DCC
+
+game/m2c_candidates/candidate_80049E00.c:
+	.text       start:0x80049E00 end:0x80049E44
+
+game/m2c_candidates/candidate_80049EA4.c:
+	.text       start:0x80049EA4 end:0x80049EB4
+
+game/m2c_candidates/candidate_8004A7DC.c:
+	.text       start:0x8004A7DC end:0x8004A84C
+
+game/m2c_candidates/candidate_8004BA4C.c:
+	.text       start:0x8004BA4C end:0x8004BA60
+
+game/m2c_candidates/candidate_8004BB84.c:
+	.text       start:0x8004BB84 end:0x8004BBC4
+
+game/m2c_candidates/candidate_8004BE9C.c:
+	.text       start:0x8004BE9C end:0x8004BEBC
+
+game/m2c_candidates/candidate_8004C130.c:
+	.text       start:0x8004C130 end:0x8004C178
+
 game/leaf_sweep/leaf_8004C7FC.c:
 	.text       start:0x8004C7FC end:0x8004C800
+
+game/m2c_candidates/candidate_8004D5C0.c:
+	.text       start:0x8004D5C0 end:0x8004D5E8
+
+game/m2c_candidates/candidate_8004D5E8.c:
+	.text       start:0x8004D5E8 end:0x8004D640
+
+game/m2c_candidates/candidate_8004DB30.c:
+	.text       start:0x8004DB30 end:0x8004DBB4
+
+game/m2c_candidates/candidate_8004E290.c:
+	.text       start:0x8004E290 end:0x8004E314
+
+game/m2c_candidates/candidate_8004E370.c:
+	.text       start:0x8004E370 end:0x8004E3F4
+
+game/m2c_candidates/candidate_8004E3F4.c:
+	.text       start:0x8004E3F4 end:0x8004E478
+
+game/m2c_candidates/candidate_8004E478.c:
+	.text       start:0x8004E478 end:0x8004E4FC
+
+game/m2c_candidates/candidate_8004E6BC.c:
+	.text       start:0x8004E6BC end:0x8004E714
+
+game/m2c_candidates/candidate_8004E7E0.c:
+	.text       start:0x8004E7E0 end:0x8004E818
+
+game/m2c_candidates/candidate_80051608.c:
+	.text       start:0x80051608 end:0x80051618
+
+game/m2c_candidates/candidate_800516E8.c:
+	.text       start:0x800516E8 end:0x80051730
+
+game/m2c_candidates/candidate_80051730.c:
+	.text       start:0x80051730 end:0x80051790
+
+game/m2c_candidates/candidate_80052A28.c:
+	.text       start:0x80052A28 end:0x80052A38
 
 game/leaf_sweep/leaf_80053E94.c:
 	.text       start:0x80053E94 end:0x80053E9C
@@ -181,20 +430,419 @@ game/leaf_sweep/leaf_800540B4.c:
 game/leaf_sweep/leaf_8005413C.c:
 	.text       start:0x8005413C end:0x8005414C
 
+game/m2c_candidates/candidate_800547C0.c:
+	.text       start:0x800547C0 end:0x800547EC
+
+game/m2c_candidates/candidate_800547EC.c:
+	.text       start:0x800547EC end:0x80054818
+
+game/m2c_candidates/candidate_80054818.c:
+	.text       start:0x80054818 end:0x80054840
+
+game/m2c_candidates/candidate_80054840.c:
+	.text       start:0x80054840 end:0x80054898
+
+game/m2c_candidates/candidate_80054D88.c:
+	.text       start:0x80054D88 end:0x80054DD0
+
+game/m2c_candidates/candidate_80054F84.c:
+	.text       start:0x80054F84 end:0x80054FD4
+
+game/m2c_candidates/candidate_80054FD4.c:
+	.text       start:0x80054FD4 end:0x80055024
+
+game/m2c_candidates/candidate_800554D4.c:
+	.text       start:0x800554D4 end:0x80055500
+
+game/m2c_candidates/candidate_80056014.c:
+	.text       start:0x80056014 end:0x8005603C
+
+game/m2c_candidates/candidate_8005603C.c:
+	.text       start:0x8005603C end:0x80056064
+
+game/m2c_candidates/candidate_80056064.c:
+	.text       start:0x80056064 end:0x8005608C
+
+game/m2c_candidates/candidate_8005608C.c:
+	.text       start:0x8005608C end:0x800560B4
+
+game/m2c_candidates/candidate_800560B4.c:
+	.text       start:0x800560B4 end:0x800560DC
+
+game/m2c_candidates/candidate_800560DC.c:
+	.text       start:0x800560DC end:0x80056104
+
+game/m2c_candidates/candidate_80056104.c:
+	.text       start:0x80056104 end:0x8005612C
+
+game/m2c_candidates/candidate_8005612C.c:
+	.text       start:0x8005612C end:0x80056154
+
+game/m2c_candidates/candidate_80056154.c:
+	.text       start:0x80056154 end:0x8005617C
+
+game/m2c_candidates/candidate_8005617C.c:
+	.text       start:0x8005617C end:0x800561A4
+
+game/m2c_candidates/candidate_800561A4.c:
+	.text       start:0x800561A4 end:0x800561CC
+
+game/m2c_candidates/candidate_800561CC.c:
+	.text       start:0x800561CC end:0x800561F4
+
+game/m2c_candidates/candidate_800561F4.c:
+	.text       start:0x800561F4 end:0x8005621C
+
+game/m2c_candidates/candidate_8005621C.c:
+	.text       start:0x8005621C end:0x80056244
+
+game/m2c_candidates/candidate_80056244.c:
+	.text       start:0x80056244 end:0x8005626C
+
+game/m2c_candidates/candidate_8005626C.c:
+	.text       start:0x8005626C end:0x80056294
+
+game/m2c_candidates/candidate_80056294.c:
+	.text       start:0x80056294 end:0x800562BC
+
+game/m2c_candidates/candidate_800562BC.c:
+	.text       start:0x800562BC end:0x800562E4
+
+game/m2c_candidates/candidate_800562E4.c:
+	.text       start:0x800562E4 end:0x8005630C
+
+game/m2c_candidates/candidate_8005630C.c:
+	.text       start:0x8005630C end:0x80056334
+
+game/m2c_candidates/candidate_80056334.c:
+	.text       start:0x80056334 end:0x8005635C
+
+game/m2c_candidates/candidate_8005635C.c:
+	.text       start:0x8005635C end:0x80056384
+
+game/m2c_candidates/candidate_80056384.c:
+	.text       start:0x80056384 end:0x800563AC
+
+game/m2c_candidates/candidate_800563AC.c:
+	.text       start:0x800563AC end:0x800563D4
+
+game/m2c_candidates/candidate_800563D4.c:
+	.text       start:0x800563D4 end:0x800563FC
+
+game/m2c_candidates/candidate_800563FC.c:
+	.text       start:0x800563FC end:0x80056424
+
+game/m2c_candidates/candidate_80056424.c:
+	.text       start:0x80056424 end:0x8005644C
+
+game/m2c_candidates/candidate_8005644C.c:
+	.text       start:0x8005644C end:0x80056474
+
+game/m2c_candidates/candidate_80056474.c:
+	.text       start:0x80056474 end:0x8005649C
+
+game/m2c_candidates/candidate_8005649C.c:
+	.text       start:0x8005649C end:0x800564C4
+
+game/m2c_candidates/candidate_800564C4.c:
+	.text       start:0x800564C4 end:0x800564EC
+
+game/m2c_candidates/candidate_800564EC.c:
+	.text       start:0x800564EC end:0x80056514
+
+game/m2c_candidates/candidate_80056514.c:
+	.text       start:0x80056514 end:0x8005653C
+
+game/m2c_candidates/candidate_8005653C.c:
+	.text       start:0x8005653C end:0x80056564
+
 game/auto_03_80056564_leaf.c:
 	.text       start:0x80056564 end:0x8005658C
+
+game/m2c_candidates/candidate_8005658C.c:
+	.text       start:0x8005658C end:0x800565B4
+
+game/m2c_candidates/candidate_800565B4.c:
+	.text       start:0x800565B4 end:0x800565DC
+
+game/m2c_candidates/candidate_800565DC.c:
+	.text       start:0x800565DC end:0x80056604
+
+game/m2c_candidates/candidate_80056604.c:
+	.text       start:0x80056604 end:0x8005662C
+
+game/m2c_candidates/candidate_8005662C.c:
+	.text       start:0x8005662C end:0x80056654
+
+game/m2c_candidates/candidate_80056654.c:
+	.text       start:0x80056654 end:0x8005667C
+
+game/m2c_candidates/candidate_8005667C.c:
+	.text       start:0x8005667C end:0x800566A4
+
+game/m2c_candidates/candidate_800566A4.c:
+	.text       start:0x800566A4 end:0x800566CC
+
+game/m2c_candidates/candidate_800566CC.c:
+	.text       start:0x800566CC end:0x800566F4
+
+game/m2c_candidates/candidate_800566F4.c:
+	.text       start:0x800566F4 end:0x800567F0
+
+game/m2c_candidates/candidate_800575E0.c:
+	.text       start:0x800575E0 end:0x80057678
+
+game/m2c_candidates/candidate_800579A4.c:
+	.text       start:0x800579A4 end:0x800579F4
+
+game/m2c_candidates/candidate_800579F4.c:
+	.text       start:0x800579F4 end:0x80057A04
+
+game/m2c_candidates/candidate_80057A04.c:
+	.text       start:0x80057A04 end:0x80057A18
+
+game/m2c_candidates/candidate_80057A18.c:
+	.text       start:0x80057A18 end:0x80057A6C
+
+game/m2c_candidates/candidate_80057BD8.c:
+	.text       start:0x80057BD8 end:0x80057C30
+
+game/m2c_candidates/candidate_80057F8C.c:
+	.text       start:0x80057F8C end:0x80057FC8
+
+game/m2c_candidates/candidate_800584C4.c:
+	.text       start:0x800584C4 end:0x80058504
+
+game/m2c_candidates/candidate_800594B4.c:
+	.text       start:0x800594B4 end:0x800594DC
+
+game/m2c_candidates/candidate_800594DC.c:
+	.text       start:0x800594DC end:0x80059504
+
+game/m2c_candidates/candidate_80059504.c:
+	.text       start:0x80059504 end:0x80059540
+
+game/m2c_candidates/candidate_800598FC.c:
+	.text       start:0x800598FC end:0x80059954
+
+game/m2c_candidates/candidate_80059B88.c:
+	.text       start:0x80059B88 end:0x80059CB4
+
+game/m2c_candidates/candidate_8005A070.c:
+	.text       start:0x8005A070 end:0x8005A0FC
+
+game/m2c_candidates/candidate_8005A0FC.c:
+	.text       start:0x8005A0FC end:0x8005A24C
+
+game/m2c_candidates/candidate_8005A24C.c:
+	.text       start:0x8005A24C end:0x8005A2D8
+
+game/m2c_candidates/candidate_8005A3E4.c:
+	.text       start:0x8005A3E4 end:0x8005A4E8
+
+game/m2c_candidates/candidate_8005A5FC.c:
+	.text       start:0x8005A5FC end:0x8005A6D4
+
+game/m2c_candidates/candidate_8005A7E8.c:
+	.text       start:0x8005A7E8 end:0x8005A8C0
+
+game/m2c_candidates/candidate_8005A8C0.c:
+	.text       start:0x8005A8C0 end:0x8005A998
+
+game/m2c_candidates/candidate_8005A998.c:
+	.text       start:0x8005A998 end:0x8005AA24
+
+game/m2c_candidates/candidate_8005AA24.c:
+	.text       start:0x8005AA24 end:0x8005AAB0
+
+game/m2c_candidates/candidate_8005AAB0.c:
+	.text       start:0x8005AAB0 end:0x8005AB88
+
+game/m2c_candidates/candidate_8005AB88.c:
+	.text       start:0x8005AB88 end:0x8005AC14
+
+game/m2c_candidates/candidate_8005AC14.c:
+	.text       start:0x8005AC14 end:0x8005AD64
+
+game/m2c_candidates/candidate_8005B738.c:
+	.text       start:0x8005B738 end:0x8005B760
+
+game/m2c_candidates/candidate_8005B760.c:
+	.text       start:0x8005B760 end:0x8005B788
+
+game/m2c_candidates/candidate_8005BC20.c:
+	.text       start:0x8005BC20 end:0x8005BC44
+
+game/m2c_candidates/candidate_8005C228.c:
+	.text       start:0x8005C228 end:0x8005C2C0
+
+game/m2c_candidates/candidate_8005C77C.c:
+	.text       start:0x8005C77C end:0x8005C7A4
+
+game/m2c_candidates/candidate_8005C7A4.c:
+	.text       start:0x8005C7A4 end:0x8005C7CC
+
+game/m2c_candidates/candidate_8005D0F8.c:
+	.text       start:0x8005D0F8 end:0x8005D11C
 
 game/auto_03_8005D598_leaf.c:
 	.text       start:0x8005D598 end:0x8005D5CC
 
+game/m2c_candidates/candidate_8005D5CC.c:
+	.text       start:0x8005D5CC end:0x8005D628
+
+game/m2c_candidates/candidate_8005DDFC.c:
+	.text       start:0x8005DDFC end:0x8005DE34
+
+game/m2c_candidates/candidate_8005DE34.c:
+	.text       start:0x8005DE34 end:0x8005DE8C
+
+game/m2c_candidates/candidate_8005E830.c:
+	.text       start:0x8005E830 end:0x8005E898
+
+game/m2c_candidates/candidate_8005E898.c:
+	.text       start:0x8005E898 end:0x8005E900
+
+game/m2c_candidates/candidate_8006003C.c:
+	.text       start:0x8006003C end:0x80060074
+
+game/m2c_candidates/candidate_80060074.c:
+	.text       start:0x80060074 end:0x800600DC
+
+game/m2c_candidates/candidate_80060DE8.c:
+	.text       start:0x80060DE8 end:0x80060E6C
+
+game/m2c_candidates/candidate_8006108C.c:
+	.text       start:0x8006108C end:0x800610C8
+
+game/m2c_candidates/candidate_80061154.c:
+	.text       start:0x80061154 end:0x80061184
+
+game/m2c_candidates/candidate_80061184.c:
+	.text       start:0x80061184 end:0x80061194
+
+game/m2c_candidates/candidate_800616A0.c:
+	.text       start:0x800616A0 end:0x800616C8
+
+game/m2c_candidates/candidate_800616C8.c:
+	.text       start:0x800616C8 end:0x800616F0
+
+game/m2c_candidates/candidate_800616F0.c:
+	.text       start:0x800616F0 end:0x80061748
+
+game/m2c_candidates/candidate_80062A44.c:
+	.text       start:0x80062A44 end:0x80062A80
+
+game/m2c_candidates/candidate_80063A60.c:
+	.text       start:0x80063A60 end:0x80063A8C
+
 game/leaf_sweep/leaf_80063B78.c:
 	.text       start:0x80063B78 end:0x80063B7C
+
+game/m2c_candidates/candidate_80063F78.c:
+	.text       start:0x80063F78 end:0x80063FCC
+
+game/m2c_candidates/candidate_80063FCC.c:
+	.text       start:0x80063FCC end:0x80063FE8
+
+game/m2c_candidates/candidate_800662F8.c:
+	.text       start:0x800662F8 end:0x80066338
+
+game/m2c_candidates/candidate_80066B18.c:
+	.text       start:0x80066B18 end:0x80066B28
+
+game/m2c_candidates/candidate_80066B28.c:
+	.text       start:0x80066B28 end:0x80066B3C
+
+game/m2c_candidates/candidate_800671E4.c:
+	.text       start:0x800671E4 end:0x80067220
+
+game/m2c_candidates/candidate_80067220.c:
+	.text       start:0x80067220 end:0x80067238
+
+game/m2c_candidates/candidate_80067238.c:
+	.text       start:0x80067238 end:0x80067274
+
+game/m2c_candidates/candidate_80067274.c:
+	.text       start:0x80067274 end:0x8006728C
+
+game/m2c_candidates/candidate_8006728C.c:
+	.text       start:0x8006728C end:0x800672D4
+
+game/m2c_candidates/candidate_800672D4.c:
+	.text       start:0x800672D4 end:0x800672F8
+
+game/m2c_candidates/candidate_800672F8.c:
+	.text       start:0x800672F8 end:0x80067334
+
+game/m2c_candidates/candidate_80067334.c:
+	.text       start:0x80067334 end:0x8006734C
+
+game/m2c_candidates/candidate_8006734C.c:
+	.text       start:0x8006734C end:0x80067388
+
+game/m2c_candidates/candidate_80067388.c:
+	.text       start:0x80067388 end:0x800673A0
+
+game/m2c_candidates/candidate_80067B98.c:
+	.text       start:0x80067B98 end:0x80067BC4
+
+game/m2c_candidates/candidate_80067BF4.c:
+	.text       start:0x80067BF4 end:0x80067C3C
+
+game/m2c_candidates/candidate_80067C3C.c:
+	.text       start:0x80067C3C end:0x80067C84
+
+game/m2c_candidates/candidate_800681AC.c:
+	.text       start:0x800681AC end:0x800681F0
+
+game/m2c_candidates/candidate_8006A760.c:
+	.text       start:0x8006A760 end:0x8006A798
+
+game/m2c_candidates/candidate_8006AD18.c:
+	.text       start:0x8006AD18 end:0x8006AD50
+
+game/m2c_candidates/candidate_8006B1B0.c:
+	.text       start:0x8006B1B0 end:0x8006B204
+
+game/m2c_candidates/candidate_8006B204.c:
+	.text       start:0x8006B204 end:0x8006B258
+
+game/m2c_candidates/candidate_8006CE7C.c:
+	.text       start:0x8006CE7C end:0x8006CEB4
+
+game/m2c_candidates/candidate_8006DA00.c:
+	.text       start:0x8006DA00 end:0x8006DA3C
 
 game/leaf_sweep/leaf_8006DA3C.c:
 	.text       start:0x8006DA3C end:0x8006DA40
 
+game/m2c_candidates/candidate_8006F6AC.c:
+	.text       start:0x8006F6AC end:0x8006F6DC
+
+game/m2c_candidates/candidate_8006F6DC.c:
+	.text       start:0x8006F6DC end:0x8006F73C
+
+game/m2c_candidates/candidate_8006F86C.c:
+	.text       start:0x8006F86C end:0x8006F884
+
+game/m2c_candidates/candidate_8006F8A4.c:
+	.text       start:0x8006F8A4 end:0x8006F8E0
+
+game/m2c_candidates/candidate_8006FEC0.c:
+	.text       start:0x8006FEC0 end:0x8006FEE4
+
+game/m2c_candidates/candidate_800701B0.c:
+	.text       start:0x800701B0 end:0x800701D8
+
 game/leaf_sweep/leaf_800703F8.c:
 	.text       start:0x800703F8 end:0x80070400
+
+game/m2c_candidates/candidate_80070A58.c:
+	.text       start:0x80070A58 end:0x80070A64
+
+game/m2c_candidates/candidate_80070A64.c:
+	.text       start:0x80070A64 end:0x80070A70
 
 game/leaf_sweep/leaf_80072E10.c:
 	.text       start:0x80072E10 end:0x80072E14
@@ -205,8 +853,125 @@ game/leaf_sweep/leaf_80073930.c:
 game/leaf_sweep/leaf_800740A4.c:
 	.text       start:0x800740A4 end:0x800740B4
 
+game/m2c_candidates/candidate_8007429C.c:
+	.text       start:0x8007429C end:0x800742B8
+
+game/m2c_candidates/candidate_800742B8.c:
+	.text       start:0x800742B8 end:0x800742F4
+
+game/m2c_candidates/candidate_80074350.c:
+	.text       start:0x80074350 end:0x8007437C
+
+game/m2c_candidates/candidate_800755FC.c:
+	.text       start:0x800755FC end:0x80075628
+
+game/m2c_candidates/candidate_8007587C.c:
+	.text       start:0x8007587C end:0x800758C4
+
+game/m2c_candidates/candidate_800758C4.c:
+	.text       start:0x800758C4 end:0x8007590C
+
+game/m2c_candidates/candidate_80075C18.c:
+	.text       start:0x80075C18 end:0x80075C34
+
+game/m2c_candidates/candidate_80077428.c:
+	.text       start:0x80077428 end:0x80077464
+
+game/m2c_candidates/candidate_80077C64.c:
+	.text       start:0x80077C64 end:0x80077C84
+
+game/m2c_candidates/candidate_80078BF8.c:
+	.text       start:0x80078BF8 end:0x80078C40
+
+game/m2c_candidates/candidate_80078C40.c:
+	.text       start:0x80078C40 end:0x80078C88
+
+game/m2c_candidates/candidate_80079B8C.c:
+	.text       start:0x80079B8C end:0x80079BFC
+
+game/m2c_candidates/candidate_8007A5F8.c:
+	.text       start:0x8007A5F8 end:0x8007A608
+
+game/m2c_candidates/candidate_8007A624.c:
+	.text       start:0x8007A624 end:0x8007A634
+
+game/m2c_candidates/candidate_8007CA7C.c:
+	.text       start:0x8007CA7C end:0x8007CAE4
+
+game/m2c_candidates/candidate_8007CAE4.c:
+	.text       start:0x8007CAE4 end:0x8007CB3C
+
+game/m2c_candidates/candidate_8007CB3C.c:
+	.text       start:0x8007CB3C end:0x8007CB74
+
+game/m2c_candidates/candidate_8007CE2C.c:
+	.text       start:0x8007CE2C end:0x8007CEAC
+
+game/m2c_candidates/candidate_8007D574.c:
+	.text       start:0x8007D574 end:0x8007D600
+
+game/m2c_candidates/candidate_8007DCAC.c:
+	.text       start:0x8007DCAC end:0x8007DCD0
+
+game/m2c_candidates/candidate_8007DCF4.c:
+	.text       start:0x8007DCF4 end:0x8007DD3C
+
+game/m2c_candidates/candidate_8007E688.c:
+	.text       start:0x8007E688 end:0x8007E6D0
+
+game/m2c_candidates/candidate_8007E788.c:
+	.text       start:0x8007E788 end:0x8007E7D0
+
+game/m2c_candidates/candidate_8007E7D0.c:
+	.text       start:0x8007E7D0 end:0x8007E7E0
+
+game/m2c_candidates/candidate_8007E7E0.c:
+	.text       start:0x8007E7E0 end:0x8007E81C
+
+game/m2c_candidates/candidate_8007E8E4.c:
+	.text       start:0x8007E8E4 end:0x8007EA18
+
+game/m2c_candidates/candidate_8007EA18.c:
+	.text       start:0x8007EA18 end:0x8007EA48
+
+game/m2c_candidates/candidate_8007FDFC.c:
+	.text       start:0x8007FDFC end:0x8007FE24
+
+game/m2c_candidates/candidate_80080D40.c:
+	.text       start:0x80080D40 end:0x80080D88
+
+game/m2c_candidates/candidate_80080EAC.c:
+	.text       start:0x80080EAC end:0x80080ED4
+
+game/m2c_candidates/candidate_80080ED4.c:
+	.text       start:0x80080ED4 end:0x80080F2C
+
+game/m2c_candidates/candidate_80081B24.c:
+	.text       start:0x80081B24 end:0x80081B4C
+
+game/m2c_candidates/candidate_80081B4C.c:
+	.text       start:0x80081B4C end:0x80081BA4
+
+game/m2c_candidates/candidate_80082E00.c:
+	.text       start:0x80082E00 end:0x80082E2C
+
+game/m2c_candidates/candidate_8008311C.c:
+	.text       start:0x8008311C end:0x80083140
+
+game/m2c_candidates/candidate_8008376C.c:
+	.text       start:0x8008376C end:0x8008378C
+
 game/leaf_sweep/leaf_80083ABC.c:
 	.text       start:0x80083ABC end:0x80083AC4
+
+game/m2c_candidates/candidate_80083D70.c:
+	.text       start:0x80083D70 end:0x80083DB0
+
+game/m2c_candidates/candidate_8008420C.c:
+	.text       start:0x8008420C end:0x80084234
+
+game/m2c_candidates/candidate_80084234.c:
+	.text       start:0x80084234 end:0x80084244
 
 game/leaf_sweep/leaf_80084244.c:
 	.text       start:0x80084244 end:0x8008424C
@@ -217,23 +982,104 @@ game/leaf_sweep/leaf_80084708.c:
 game/leaf_sweep/leaf_800848F4.c:
 	.text       start:0x800848F4 end:0x80084904
 
+game/m2c_candidates/candidate_80084C94.c:
+	.text       start:0x80084C94 end:0x80084D40
+
 game/leaf_sweep/leaf_80084D40.c:
 	.text       start:0x80084D40 end:0x80084D44
+
+game/m2c_candidates/candidate_8008596C.c:
+	.text       start:0x8008596C end:0x800859B4
+
+game/m2c_candidates/candidate_80085A74.c:
+	.text       start:0x80085A74 end:0x80085A98
 
 game/auto_03_80085BE8_leaf.c:
 	.text       start:0x80085BE8 end:0x80085C0C
 
+game/m2c_candidates/candidate_80085C0C.c:
+	.text       start:0x80085C0C end:0x80085C54
+
+game/m2c_candidates/candidate_80085E10.c:
+	.text       start:0x80085E10 end:0x80085E44
+
+game/m2c_candidates/candidate_800864F4.c:
+	.text       start:0x800864F4 end:0x80086504
+
+game/m2c_candidates/candidate_800865E4.c:
+	.text       start:0x800865E4 end:0x80086614
+
+game/m2c_candidates/candidate_80086684.c:
+	.text       start:0x80086684 end:0x800866A4
+
+game/m2c_candidates/candidate_800866CC.c:
+	.text       start:0x800866CC end:0x80086738
+
+game/m2c_candidates/candidate_800867F8.c:
+	.text       start:0x800867F8 end:0x800868D4
+
+game/m2c_candidates/candidate_800868D4.c:
+	.text       start:0x800868D4 end:0x800869A0
+
+game/m2c_candidates/candidate_800869A0.c:
+	.text       start:0x800869A0 end:0x80086A1C
+
 game/leaf_sweep/leaf_80086A1C.c:
 	.text       start:0x80086A1C end:0x80086A24
+
+game/m2c_candidates/candidate_80086A24.c:
+	.text       start:0x80086A24 end:0x80086AC0
 
 game/leaf_sweep/leaf_80086BA0.c:
 	.text       start:0x80086BA0 end:0x80086BB0
 
+game/m2c_candidates/candidate_80087668.c:
+	.text       start:0x80087668 end:0x80087678
+
+game/m2c_candidates/candidate_80087678.c:
+	.text       start:0x80087678 end:0x80087688
+
+game/m2c_candidates/candidate_80087688.c:
+	.text       start:0x80087688 end:0x80087698
+
+game/m2c_candidates/candidate_800876CC.c:
+	.text       start:0x800876CC end:0x80087760
+
+game/m2c_candidates/candidate_80087D34.c:
+	.text       start:0x80087D34 end:0x80087D64
+
+game/m2c_candidates/candidate_80087D64.c:
+	.text       start:0x80087D64 end:0x80087DAC
+
+game/m2c_candidates/candidate_80087DAC.c:
+	.text       start:0x80087DAC end:0x80087E04
+
+game/m2c_candidates/candidate_80087E04.c:
+	.text       start:0x80087E04 end:0x80087E4C
+
+game/m2c_candidates/candidate_800881E0.c:
+	.text       start:0x800881E0 end:0x800881EC
+
+game/m2c_candidates/candidate_8008832C.c:
+	.text       start:0x8008832C end:0x80088348
+
 game/leaf_sweep/leaf_80088410.c:
 	.text       start:0x80088410 end:0x80088418
 
+game/m2c_candidates/candidate_80088470.c:
+	.text       start:0x80088470 end:0x800884F0
+
+game/m2c_candidates/candidate_80088654.c:
+	.text       start:0x80088654 end:0x80088678
+
 game/leaf_sweep/leaf_80088A34.c:
 	.text       start:0x80088A34 end:0x80088A3C
+
+game/m2c_candidates/candidate_8008A028.c:
+	.text       start:0x8008A028 end:0x8008A068
+
+game/m2c_candidates/candidate_8008A8AC.c:
+	.text       start:0x8008A8AC end:0x8008A8D4
 
 game/auto_03_8008AB74_leaves.c:
 	.text       start:0x8008AB74 end:0x8008AC20
@@ -249,6 +1095,9 @@ game/auto_03_8008ACA0_leaf.c:
 
 game/auto_03_8008C7BC_leaf.c:
 	.text       start:0x8008C7BC end:0x8008C7C0
+
+game/m2c_candidates/candidate_8008DECC.c:
+	.text       start:0x8008DECC end:0x8008DF50
 
 game/auto_03_8008DF50_leaf.c:
 	.text       start:0x8008DF50 end:0x8008DF7C
@@ -268,8 +1117,44 @@ game/auto_03_8008E09C_leaf.c:
 game/auto_03_8008E118_leaf.c:
 	.text       start:0x8008E118 end:0x8008E124
 
+game/m2c_candidates/candidate_8008E158.c:
+	.text       start:0x8008E158 end:0x8008E198
+
+game/m2c_candidates/candidate_8008E198.c:
+	.text       start:0x8008E198 end:0x8008E1D4
+
+game/m2c_candidates/candidate_8008E1D4.c:
+	.text       start:0x8008E1D4 end:0x8008E214
+
+game/m2c_candidates/candidate_8008E214.c:
+	.text       start:0x8008E214 end:0x8008E250
+
 game/auto_03_8008E250_leaf.c:
 	.text       start:0x8008E250 end:0x8008E298
+
+game/m2c_candidates/candidate_8008E298.c:
+	.text       start:0x8008E298 end:0x8008E2D0
+
+game/m2c_candidates/candidate_8008E2D0.c:
+	.text       start:0x8008E2D0 end:0x8008E308
+
+game/m2c_candidates/candidate_8008E308.c:
+	.text       start:0x8008E308 end:0x8008E340
+
+game/m2c_candidates/candidate_8008E6D0.c:
+	.text       start:0x8008E6D0 end:0x8008E724
+
+game/m2c_candidates/candidate_8008E724.c:
+	.text       start:0x8008E724 end:0x8008E774
+
+game/m2c_candidates/candidate_8008E774.c:
+	.text       start:0x8008E774 end:0x8008E7C0
+
+game/m2c_candidates/candidate_8008E7C0.c:
+	.text       start:0x8008E7C0 end:0x8008E7FC
+
+game/m2c_candidates/candidate_8008E834.c:
+	.text       start:0x8008E834 end:0x8008E86C
 
 game/auto_03_8008E95C_leaf.c:
 	.text       start:0x8008E95C end:0x8008E978
@@ -298,6 +1183,9 @@ game/auto_03_8008F3C0_leaf.c:
 game/auto_03_800901A8_leaves.c:
 	.text       start:0x800901A8 end:0x800901B8
 
+game/m2c_candidates/candidate_80091470.c:
+	.text       start:0x80091470 end:0x80091584
+
 game/auto_03_800916C4_leaves.c:
 	.text       start:0x800916C4 end:0x800917B4
 
@@ -307,17 +1195,53 @@ game/auto_03_800917B4_leaf.c:
 game/auto_03_800917C0_leaf.c:
 	.text       start:0x800917C0 end:0x800917CC
 
+game/m2c_candidates/candidate_80091B34.c:
+	.text       start:0x80091B34 end:0x80091B68
+
 game/auto_03_80091DF4_leaf.c:
 	.text       start:0x80091DF4 end:0x80091DFC
+
+game/m2c_candidates/candidate_80091DFC.c:
+	.text       start:0x80091DFC end:0x80091EF8
 
 game/auto_03_80091EF8_leaf.c:
 	.text       start:0x80091EF8 end:0x80091F00
 
+game/m2c_candidates/candidate_80092920.c:
+	.text       start:0x80092920 end:0x80092954
+
+game/m2c_candidates/candidate_80094A8C.c:
+	.text       start:0x80094A8C end:0x80094AC4
+
+game/m2c_candidates/candidate_80094DB0.c:
+	.text       start:0x80094DB0 end:0x80094DF8
+
 game/auto_03_80095134_leaf.c:
 	.text       start:0x80095134 end:0x80095144
 
+game/m2c_candidates/candidate_800951D8.c:
+	.text       start:0x800951D8 end:0x80095240
+
+game/m2c_candidates/candidate_80095240.c:
+	.text       start:0x80095240 end:0x800952A4
+
+game/m2c_candidates/candidate_800958A8.c:
+	.text       start:0x800958A8 end:0x800958D8
+
+game/m2c_candidates/candidate_800958D8.c:
+	.text       start:0x800958D8 end:0x80095914
+
 game/auto_03_80095914_leaf.c:
 	.text       start:0x80095914 end:0x80095924
+
+game/m2c_candidates/candidate_80095924.c:
+	.text       start:0x80095924 end:0x80095984
+
+game/m2c_candidates/candidate_80095984.c:
+	.text       start:0x80095984 end:0x800959DC
+
+game/m2c_candidates/candidate_800959DC.c:
+	.text       start:0x800959DC end:0x80095A30
 
 game/auto_03_80095FD0_leaf.c:
 	.text       start:0x80095FD0 end:0x80095FE0
@@ -330,6 +1254,9 @@ game/auto_03_80096808_leaf.c:
 
 game/auto_03_80098578_leaves.c:
 	.text       start:0x80098578 end:0x80098580
+
+game/m2c_candidates/candidate_80098580.c:
+	.text       start:0x80098580 end:0x800985C8
 
 game/auto_03_800985C8_leaves.c:
 	.text       start:0x800985C8 end:0x800985EC
@@ -366,6 +1293,9 @@ game/auto_03_800BCC64_leaves.c:
 
 game/auto_03_800BCCB0_leaf.c:
 	.text       start:0x800BCCB0 end:0x800BCD10
+
+game/m2c_candidates/candidate_800BCD3C.c:
+	.text       start:0x800BCD3C end:0x800BCD84
 
 game/auto_03_800BCEB0_leaves.c:
 	.text       start:0x800BCEB0 end:0x800BCEC0
@@ -412,11 +1342,17 @@ game/auto_03_800BE7D0_leaf.c:
 game/auto_03_800BF0AC_leaf.c:
 	.text       start:0x800BF0AC end:0x800BF0CC
 
+game/m2c_candidates/candidate_800BF168.c:
+	.text       start:0x800BF168 end:0x800BF1C8
+
 game/auto_03_800BF1C8_leaf.c:
 	.text       start:0x800BF1C8 end:0x800BF1E4
 
 game/auto_03_800BF308_leaves.c:
 	.text       start:0x800BF308 end:0x800BF31C
+
+game/m2c_candidates/candidate_800BF430.c:
+	.text       start:0x800BF430 end:0x800BF48C
 
 game/auto_03_800BF928_leaf.c:
 	.text       start:0x800BF928 end:0x800BF92C
@@ -430,8 +1366,41 @@ game/auto_03_800BFB1C_leaf.c:
 game/auto_03_800BFBA8_leaves.c:
 	.text       start:0x800BFBA8 end:0x800BFBC4
 
+game/m2c_candidates/candidate_800BFBC4.c:
+	.text       start:0x800BFBC4 end:0x800BFBE4
+
+game/m2c_candidates/candidate_800BFF08.c:
+	.text       start:0x800BFF08 end:0x800BFF78
+
+game/m2c_candidates/candidate_800BFF78.c:
+	.text       start:0x800BFF78 end:0x800C0008
+
 game/auto_03_800C0034_leaf.c:
 	.text       start:0x800C0034 end:0x800C003C
+
+game/m2c_candidates/candidate_800C065C.c:
+	.text       start:0x800C065C end:0x800C06B0
+
+game/m2c_candidates/candidate_800C06B0.c:
+	.text       start:0x800C06B0 end:0x800C0704
+
+game/m2c_candidates/candidate_800C150C.c:
+	.text       start:0x800C150C end:0x800C1560
+
+game/m2c_candidates/candidate_800C16E0.c:
+	.text       start:0x800C16E0 end:0x800C1760
+
+game/m2c_candidates/candidate_800C18A4.c:
+	.text       start:0x800C18A4 end:0x800C18F8
+
+game/m2c_candidates/candidate_800C1B94.c:
+	.text       start:0x800C1B94 end:0x800C1BB4
+
+game/m2c_candidates/candidate_800C1D68.c:
+	.text       start:0x800C1D68 end:0x800C1DE0
+
+game/m2c_candidates/candidate_800C2054.c:
+	.text       start:0x800C2054 end:0x800C20A4
 
 game/leaf_sweep/leaf_800C2174.c:
 	.text       start:0x800C2174 end:0x800C217C
@@ -439,44 +1408,305 @@ game/leaf_sweep/leaf_800C2174.c:
 game/leaf_sweep/leaf_800C2584.c:
 	.text       start:0x800C2584 end:0x800C2590
 
+game/m2c_candidates/candidate_800C2590.c:
+	.text       start:0x800C2590 end:0x800C25E8
+
+game/m2c_candidates/candidate_800C2A54.c:
+	.text       start:0x800C2A54 end:0x800C2AA8
+
+game/m2c_candidates/candidate_800C2B34.c:
+	.text       start:0x800C2B34 end:0x800C2B7C
+
+game/m2c_candidates/candidate_800C34F4.c:
+	.text       start:0x800C34F4 end:0x800C3554
+
+game/m2c_candidates/candidate_800C3554.c:
+	.text       start:0x800C3554 end:0x800C3590
+
+game/m2c_candidates/candidate_800C3590.c:
+	.text       start:0x800C3590 end:0x800C35C4
+
+game/m2c_candidates/candidate_800C36FC.c:
+	.text       start:0x800C36FC end:0x800C3748
+
+game/m2c_candidates/candidate_800C3BC0.c:
+	.text       start:0x800C3BC0 end:0x800C3C04
+
+game/m2c_candidates/candidate_800C3C04.c:
+	.text       start:0x800C3C04 end:0x800C3C0C
+
 game/leaf_sweep/leaf_800C3C0C.c:
 	.text       start:0x800C3C0C end:0x800C3C14
+
+game/m2c_candidates/candidate_800C4058.c:
+	.text       start:0x800C4058 end:0x800C4080
+
+game/m2c_candidates/candidate_800C430C.c:
+	.text       start:0x800C430C end:0x800C435C
+
+game/m2c_candidates/candidate_800C435C.c:
+	.text       start:0x800C435C end:0x800C4418
+
+game/m2c_candidates/candidate_800C4418.c:
+	.text       start:0x800C4418 end:0x800C44E0
+
+game/m2c_candidates/candidate_800C44E0.c:
+	.text       start:0x800C44E0 end:0x800C4588
+
+game/m2c_candidates/candidate_800C479C.c:
+	.text       start:0x800C479C end:0x800C47D0
+
+game/m2c_candidates/candidate_800C47D0.c:
+	.text       start:0x800C47D0 end:0x800C4898
+
+game/m2c_candidates/candidate_800C48E8.c:
+	.text       start:0x800C48E8 end:0x800C4924
+
+game/m2c_candidates/candidate_800C4A88.c:
+	.text       start:0x800C4A88 end:0x800C4AC4
+
+game/m2c_candidates/candidate_800C4AC4.c:
+	.text       start:0x800C4AC4 end:0x800C4B74
+
+game/m2c_candidates/candidate_800C5388.c:
+	.text       start:0x800C5388 end:0x800C53D8
+
+game/m2c_candidates/candidate_800C571C.c:
+	.text       start:0x800C571C end:0x800C57CC
+
+game/m2c_candidates/candidate_800C6344.c:
+	.text       start:0x800C6344 end:0x800C63F4
+
+game/m2c_candidates/candidate_800C6E98.c:
+	.text       start:0x800C6E98 end:0x800C6F0C
+
+game/m2c_candidates/candidate_800C7290.c:
+	.text       start:0x800C7290 end:0x800C72FC
 
 game/leaf_sweep/leaf_800C752C.c:
 	.text       start:0x800C752C end:0x800C7534
 
+game/m2c_candidates/candidate_800C7588.c:
+	.text       start:0x800C7588 end:0x800C75B8
+
 game/leaf_sweep/leaf_800C75B8.c:
 	.text       start:0x800C75B8 end:0x800C75C0
+
+game/m2c_candidates/candidate_800C7604.c:
+	.text       start:0x800C7604 end:0x800C7658
+
+game/m2c_candidates/candidate_800C8228.c:
+	.text       start:0x800C8228 end:0x800C827C
+
+game/m2c_candidates/candidate_800C89C4.c:
+	.text       start:0x800C89C4 end:0x800C8A04
+
+game/m2c_candidates/candidate_800C90E4.c:
+	.text       start:0x800C90E4 end:0x800C9138
+
+game/m2c_candidates/candidate_800C9198.c:
+	.text       start:0x800C9198 end:0x800C91E8
+
+game/m2c_candidates/candidate_800C9310.c:
+	.text       start:0x800C9310 end:0x800C9340
+
+game/m2c_candidates/candidate_800C9764.c:
+	.text       start:0x800C9764 end:0x800C97B4
+
+game/m2c_candidates/candidate_800C97B4.c:
+	.text       start:0x800C97B4 end:0x800C97F0
+
+game/m2c_candidates/candidate_800C97F0.c:
+	.text       start:0x800C97F0 end:0x800C9808
+
+game/m2c_candidates/candidate_800C9808.c:
+	.text       start:0x800C9808 end:0x800C9868
+
+game/m2c_candidates/candidate_800C9868.c:
+	.text       start:0x800C9868 end:0x800C98A0
+
+game/m2c_candidates/candidate_800C9908.c:
+	.text       start:0x800C9908 end:0x800C991C
+
+game/m2c_candidates/candidate_800CA09C.c:
+	.text       start:0x800CA09C end:0x800CA0E4
+
+game/m2c_candidates/candidate_800CA0E4.c:
+	.text       start:0x800CA0E4 end:0x800CA0F8
 
 game/leaf_sweep/leaf_800CA25C.c:
 	.text       start:0x800CA25C end:0x800CA26C
 
+game/m2c_candidates/candidate_800CA26C.c:
+	.text       start:0x800CA26C end:0x800CA2B0
+
 game/leaf_sweep/leaf_800CA4A8.c:
 	.text       start:0x800CA4A8 end:0x800CA4B0
+
+game/m2c_candidates/candidate_800CA5F0.c:
+	.text       start:0x800CA5F0 end:0x800CA610
+
+game/m2c_candidates/candidate_800CA610.c:
+	.text       start:0x800CA610 end:0x800CA630
+
+game/m2c_candidates/candidate_800CA6CC.c:
+	.text       start:0x800CA6CC end:0x800CA700
 
 game/leaf_sweep/leaf_800CAB6C.c:
 	.text       start:0x800CAB6C end:0x800CAB74
 
+game/m2c_candidates/candidate_800CAB74.c:
+	.text       start:0x800CAB74 end:0x800CAB80
+
+game/m2c_candidates/candidate_800CAB80.c:
+	.text       start:0x800CAB80 end:0x800CAB8C
+
+game/m2c_candidates/candidate_800CAB8C.c:
+	.text       start:0x800CAB8C end:0x800CAB98
+
+game/m2c_candidates/candidate_800CAB98.c:
+	.text       start:0x800CAB98 end:0x800CABA4
+
+game/m2c_candidates/candidate_800CABA4.c:
+	.text       start:0x800CABA4 end:0x800CABB0
+
+game/m2c_candidates/candidate_800CADE0.c:
+	.text       start:0x800CADE0 end:0x800CAE54
+
+game/m2c_candidates/candidate_800CB000.c:
+	.text       start:0x800CB000 end:0x800CB034
+
+game/m2c_candidates/candidate_800CB16C.c:
+	.text       start:0x800CB16C end:0x800CB1C4
+
+game/m2c_candidates/candidate_800CB1C4.c:
+	.text       start:0x800CB1C4 end:0x800CB214
+
+game/m2c_candidates/candidate_800CB4E8.c:
+	.text       start:0x800CB4E8 end:0x800CB528
+
+game/m2c_candidates/candidate_800CB528.c:
+	.text       start:0x800CB528 end:0x800CB56C
+
+game/m2c_candidates/candidate_800CB56C.c:
+	.text       start:0x800CB56C end:0x800CB5AC
+
+game/m2c_candidates/candidate_800CB8C4.c:
+	.text       start:0x800CB8C4 end:0x800CB8F0
+
+game/m2c_candidates/candidate_800CB93C.c:
+	.text       start:0x800CB93C end:0x800CB990
+
+game/m2c_candidates/candidate_800CBB14.c:
+	.text       start:0x800CBB14 end:0x800CBB5C
+
 game/leaf_sweep/leaf_800CBBE0.c:
 	.text       start:0x800CBBE0 end:0x800CBBF0
+
+game/m2c_candidates/candidate_800CBBF0.c:
+	.text       start:0x800CBBF0 end:0x800CBC20
+
+game/m2c_candidates/candidate_800CBD6C.c:
+	.text       start:0x800CBD6C end:0x800CBD90
+
+game/m2c_candidates/candidate_800CBD90.c:
+	.text       start:0x800CBD90 end:0x800CBDBC
+
+game/m2c_candidates/candidate_800CC1C4.c:
+	.text       start:0x800CC1C4 end:0x800CC2BC
 
 game/leaf_sweep/leaf_800CD3F4.c:
 	.text       start:0x800CD3F4 end:0x800CD400
 
+game/m2c_candidates/candidate_800CDD68.c:
+	.text       start:0x800CDD68 end:0x800CDD94
+
+game/m2c_candidates/candidate_800CDD94.c:
+	.text       start:0x800CDD94 end:0x800CDDD0
+
+game/m2c_candidates/candidate_800CE788.c:
+	.text       start:0x800CE788 end:0x800CE7A4
+
+game/m2c_candidates/candidate_800CE7A4.c:
+	.text       start:0x800CE7A4 end:0x800CE7F0
+
+game/m2c_candidates/candidate_800CEA80.c:
+	.text       start:0x800CEA80 end:0x800CEAD4
+
+game/m2c_candidates/candidate_800CEAF0.c:
+	.text       start:0x800CEAF0 end:0x800CEB2C
+
+game/m2c_candidates/candidate_800CEB2C.c:
+	.text       start:0x800CEB2C end:0x800CEB80
+
+game/m2c_candidates/candidate_800D1680.c:
+	.text       start:0x800D1680 end:0x800D16D4
+
 game/leaf_sweep/leaf_800D1E50.c:
 	.text       start:0x800D1E50 end:0x800D1E54
+
+game/m2c_candidates/candidate_800D22E8.c:
+	.text       start:0x800D22E8 end:0x800D2350
+
+game/m2c_candidates/candidate_800D2680.c:
+	.text       start:0x800D2680 end:0x800D26F8
 
 game/leaf_sweep/leaf_800D26F8.c:
 	.text       start:0x800D26F8 end:0x800D26FC
 
+game/m2c_candidates/candidate_800D2BC8.c:
+	.text       start:0x800D2BC8 end:0x800D2C10
+
+game/m2c_candidates/candidate_800D2C10.c:
+	.text       start:0x800D2C10 end:0x800D2C24
+
+game/m2c_candidates/candidate_800D2E64.c:
+	.text       start:0x800D2E64 end:0x800D2E98
+
+game/m2c_candidates/candidate_800D5058.c:
+	.text       start:0x800D5058 end:0x800D5068
+
+game/m2c_candidates/candidate_800D5068.c:
+	.text       start:0x800D5068 end:0x800D5078
+
+game/m2c_candidates/candidate_800D5AF4.c:
+	.text       start:0x800D5AF4 end:0x800D5B18
+
+game/m2c_candidates/candidate_800D5B18.c:
+	.text       start:0x800D5B18 end:0x800D5B3C
+
+game/m2c_candidates/candidate_800D6178.c:
+	.text       start:0x800D6178 end:0x800D619C
+
+game/m2c_candidates/candidate_800D619C.c:
+	.text       start:0x800D619C end:0x800D61E0
+
 game/auto_03_800D61E0_leaf.c:
 	.text       start:0x800D61E0 end:0x800D6288
+
+game/m2c_candidates/candidate_800D6288.c:
+	.text       start:0x800D6288 end:0x800D62E8
+
+game/m2c_candidates/candidate_800D6CC0.c:
+	.text       start:0x800D6CC0 end:0x800D6CE4
 
 game/auto_03_800D7200_leaf.c:
 	.text       start:0x800D7200 end:0x800D73DC
 
+game/m2c_candidates/candidate_800D76A8.c:
+	.text       start:0x800D76A8 end:0x800D76DC
+
+game/m2c_candidates/candidate_800D77F8.c:
+	.text       start:0x800D77F8 end:0x800D7824
+
+game/m2c_candidates/candidate_800D7B54.c:
+	.text       start:0x800D7B54 end:0x800D7B9C
+
 game/leaf_sweep/leaf_800D7BE4.c:
 	.text       start:0x800D7BE4 end:0x800D7BF0
+
+game/m2c_candidates/candidate_800D7D8C.c:
+	.text       start:0x800D7D8C end:0x800D7DC8
 
 game/leaf_sweep/leaf_800D8290.c:
 	.text       start:0x800D8290 end:0x800D8298
@@ -484,14 +1714,47 @@ game/leaf_sweep/leaf_800D8290.c:
 game/leaf_sweep/leaf_800D8508.c:
 	.text       start:0x800D8508 end:0x800D8510
 
+game/m2c_candidates/candidate_800D8510.c:
+	.text       start:0x800D8510 end:0x800D8540
+
 game/leaf_sweep/leaf_800D89AC.c:
 	.text       start:0x800D89AC end:0x800D89CC
+
+game/m2c_candidates/candidate_800D89CC.c:
+	.text       start:0x800D89CC end:0x800D89D8
+
+game/m2c_candidates/candidate_800D89D8.c:
+	.text       start:0x800D89D8 end:0x800D89E4
 
 game/leaf_sweep/leaf_800D89E4.c:
 	.text       start:0x800D89E4 end:0x800D8A0C
 
+game/m2c_candidates/candidate_800D8B2C.c:
+	.text       start:0x800D8B2C end:0x800D8B4C
+
+game/m2c_candidates/candidate_800D8B4C.c:
+	.text       start:0x800D8B4C end:0x800D8B94
+
+game/m2c_candidates/candidate_800D8BA4.c:
+	.text       start:0x800D8BA4 end:0x800D8BB0
+
+game/m2c_candidates/candidate_800D8C70.c:
+	.text       start:0x800D8C70 end:0x800D8CB8
+
+game/m2c_candidates/candidate_800D8CB8.c:
+	.text       start:0x800D8CB8 end:0x800D8D00
+
 game/leaf_sweep/leaf_800D8D84.c:
 	.text       start:0x800D8D84 end:0x800D8D8C
+
+game/m2c_candidates/candidate_800D9118.c:
+	.text       start:0x800D9118 end:0x800D9154
+
+game/m2c_candidates/candidate_800D916C.c:
+	.text       start:0x800D916C end:0x800D91A8
+
+game/m2c_candidates/candidate_800D91A8.c:
+	.text       start:0x800D91A8 end:0x800D91E8
 
 game/leaf_sweep/leaf_800D9CF0.c:
 	.text       start:0x800D9CF0 end:0x800D9D10
@@ -499,11 +1762,23 @@ game/leaf_sweep/leaf_800D9CF0.c:
 game/leaf_sweep/leaf_800D9D6C.c:
 	.text       start:0x800D9D6C end:0x800D9D80
 
+game/m2c_candidates/candidate_800D9F20.c:
+	.text       start:0x800D9F20 end:0x800DA010
+
 game/leaf_sweep/leaf_800DA364.c:
 	.text       start:0x800DA364 end:0x800DA374
 
+game/m2c_candidates/candidate_800DA480.c:
+	.text       start:0x800DA480 end:0x800DA514
+
 game/leaf_sweep/leaf_800DA588.c:
 	.text       start:0x800DA588 end:0x800DA58C
+
+game/m2c_candidates/candidate_800DAF50.c:
+	.text       start:0x800DAF50 end:0x800DB018
+
+game/m2c_candidates/candidate_800DB018.c:
+	.text       start:0x800DB018 end:0x800DB028
 
 game/leaf_sweep/leaf_800E11DC.c:
 	.text       start:0x800E11DC end:0x800E11F8
@@ -571,14 +1846,71 @@ game/leaf_sweep/leaf_800E204C.c:
 game/leaf_sweep/leaf_800E2074.c:
 	.text       start:0x800E2074 end:0x800E2100
 
+game/m2c_candidates/candidate_800E3764.c:
+	.text       start:0x800E3764 end:0x800E377C
+
+game/m2c_candidates/candidate_800E377C.c:
+	.text       start:0x800E377C end:0x800E3794
+
+game/m2c_candidates/candidate_800E3794.c:
+	.text       start:0x800E3794 end:0x800E37AC
+
+game/m2c_candidates/candidate_800E37AC.c:
+	.text       start:0x800E37AC end:0x800E37C4
+
+game/m2c_candidates/candidate_800E37C4.c:
+	.text       start:0x800E37C4 end:0x800E37DC
+
+game/m2c_candidates/candidate_800E37DC.c:
+	.text       start:0x800E37DC end:0x800E37F4
+
+game/m2c_candidates/candidate_800E37F4.c:
+	.text       start:0x800E37F4 end:0x800E380C
+
+game/m2c_candidates/candidate_800E380C.c:
+	.text       start:0x800E380C end:0x800E3824
+
+game/m2c_candidates/candidate_800E3824.c:
+	.text       start:0x800E3824 end:0x800E383C
+
+game/m2c_candidates/candidate_800E383C.c:
+	.text       start:0x800E383C end:0x800E3854
+
+game/m2c_candidates/candidate_800E3854.c:
+	.text       start:0x800E3854 end:0x800E386C
+
+game/m2c_candidates/candidate_800E386C.c:
+	.text       start:0x800E386C end:0x800E3884
+
+game/m2c_candidates/candidate_800E3884.c:
+	.text       start:0x800E3884 end:0x800E389C
+
+game/m2c_candidates/candidate_800E389C.c:
+	.text       start:0x800E389C end:0x800E38B4
+
+game/m2c_candidates/candidate_800E38B4.c:
+	.text       start:0x800E38B4 end:0x800E38CC
+
+game/m2c_candidates/candidate_800E38CC.c:
+	.text       start:0x800E38CC end:0x800E38E4
+
+game/m2c_candidates/candidate_800E544C.c:
+	.text       start:0x800E544C end:0x800E54C0
+
 game/leaf_sweep/leaf_800E676C.c:
 	.text       start:0x800E676C end:0x800E6774
+
+game/m2c_candidates/candidate_800E759C.c:
+	.text       start:0x800E759C end:0x800E75B8
 
 game/leaf_sweep/leaf_800E79FC.c:
 	.text       start:0x800E79FC end:0x800E7A1C
 
 game/leaf_sweep/leaf_800E7E80.c:
 	.text       start:0x800E7E80 end:0x800E7E84
+
+game/m2c_candidates/candidate_800E7EC0.c:
+	.text       start:0x800E7EC0 end:0x800E7ED0
 
 game/leaf_sweep/leaf_800E7ED0.c:
 	.text       start:0x800E7ED0 end:0x800E7ED8
@@ -589,8 +1921,17 @@ game/leaf_sweep/leaf_800E98E8.c:
 game/leaf_sweep/leaf_800E9944.c:
 	.text       start:0x800E9944 end:0x800E994C
 
+game/m2c_candidates/candidate_800EAB34.c:
+	.text       start:0x800EAB34 end:0x800EAB84
+
 game/leaf_sweep/leaf_800EC4DC.c:
 	.text       start:0x800EC4DC end:0x800EC4E4
+
+game/m2c_candidates/candidate_800EC52C.c:
+	.text       start:0x800EC52C end:0x800EC538
+
+game/m2c_candidates/candidate_800EC538.c:
+	.text       start:0x800EC538 end:0x800EC544
 
 game/leaf_sweep/leaf_800EC560.c:
 	.text       start:0x800EC560 end:0x800EC568
@@ -622,6 +1963,9 @@ game/leaf_sweep/leaf_800F14E4.c:
 game/leaf_sweep/leaf_800F150C.c:
 	.text       start:0x800F150C end:0x800F1510
 
+game/m2c_candidates/candidate_800F37B0.c:
+	.text       start:0x800F37B0 end:0x800F37C8
+
 game/leaf_sweep/leaf_800F3898.c:
 	.text       start:0x800F3898 end:0x800F38A0
 
@@ -631,8 +1975,20 @@ game/leaf_sweep/leaf_800F3C5C.c:
 game/leaf_sweep/leaf_800F3F08.c:
 	.text       start:0x800F3F08 end:0x800F3F0C
 
+game/m2c_candidates/candidate_800F5304.c:
+	.text       start:0x800F5304 end:0x800F5358
+
+game/m2c_candidates/candidate_800F7358.c:
+	.text       start:0x800F7358 end:0x800F7378
+
+game/m2c_candidates/candidate_800F7C9C.c:
+	.text       start:0x800F7C9C end:0x800F7CB4
+
 game/leaf_sweep/leaf_800F7E0C.c:
 	.text       start:0x800F7E0C end:0x800F7E14
+
+game/m2c_candidates/candidate_800F9A28.c:
+	.text       start:0x800F9A28 end:0x800F9A40
 
 game/leaf_sweep/leaf_800F9B7C.c:
 	.text       start:0x800F9B7C end:0x800F9B84
@@ -640,8 +1996,59 @@ game/leaf_sweep/leaf_800F9B7C.c:
 game/leaf_sweep/leaf_800F9C60.c:
 	.text       start:0x800F9C60 end:0x800F9C64
 
+game/m2c_candidates/candidate_800FB6D8.c:
+	.text       start:0x800FB6D8 end:0x800FB6F0
+
+game/m2c_candidates/candidate_800FB6F0.c:
+	.text       start:0x800FB6F0 end:0x800FB708
+
+game/m2c_candidates/candidate_800FB708.c:
+	.text       start:0x800FB708 end:0x800FB720
+
+game/m2c_candidates/candidate_800FB720.c:
+	.text       start:0x800FB720 end:0x800FB738
+
+game/m2c_candidates/candidate_800FB738.c:
+	.text       start:0x800FB738 end:0x800FB750
+
+game/m2c_candidates/candidate_800FB750.c:
+	.text       start:0x800FB750 end:0x800FB768
+
+game/m2c_candidates/candidate_800FB768.c:
+	.text       start:0x800FB768 end:0x800FB780
+
+game/m2c_candidates/candidate_800FB780.c:
+	.text       start:0x800FB780 end:0x800FB798
+
+game/m2c_candidates/candidate_800FB798.c:
+	.text       start:0x800FB798 end:0x800FB7B0
+
+game/m2c_candidates/candidate_800FB7B0.c:
+	.text       start:0x800FB7B0 end:0x800FB7C8
+
+game/m2c_candidates/candidate_800FB7C8.c:
+	.text       start:0x800FB7C8 end:0x800FB7E0
+
+game/m2c_candidates/candidate_800FB7E0.c:
+	.text       start:0x800FB7E0 end:0x800FB7F8
+
 game/auto_03_800FB7F8_leaf.c:
 	.text       start:0x800FB7F8 end:0x800FB810
+
+game/m2c_candidates/candidate_800FD1A0.c:
+	.text       start:0x800FD1A0 end:0x800FD1B0
+
+game/m2c_candidates/candidate_8010247C.c:
+	.text       start:0x8010247C end:0x801024DC
+
+game/m2c_candidates/candidate_801024DC.c:
+	.text       start:0x801024DC end:0x80102534
+
+game/m2c_candidates/candidate_80102594.c:
+	.text       start:0x80102594 end:0x801025A8
+
+game/m2c_candidates/candidate_801030C0.c:
+	.text       start:0x801030C0 end:0x801030E0
 
 game/leaf_sweep/leaf_80103264.c:
 	.text       start:0x80103264 end:0x8010326C
@@ -664,11 +2071,17 @@ game/leaf_sweep/leaf_80105318.c:
 game/leaf_sweep/leaf_80105390.c:
 	.text       start:0x80105390 end:0x801053A4
 
+game/m2c_candidates/candidate_801053A4.c:
+	.text       start:0x801053A4 end:0x801053B4
+
 game/leaf_sweep/leaf_801053B4.c:
 	.text       start:0x801053B4 end:0x801053B8
 
 game/leaf_sweep/leaf_80105414.c:
 	.text       start:0x80105414 end:0x80105428
+
+game/m2c_candidates/candidate_80105428.c:
+	.text       start:0x80105428 end:0x80105438
 
 game/leaf_sweep/leaf_80105494.c:
 	.text       start:0x80105494 end:0x801054A0
@@ -676,11 +2089,29 @@ game/leaf_sweep/leaf_80105494.c:
 game/leaf_sweep/leaf_801054E8.c:
 	.text       start:0x801054E8 end:0x801054F4
 
+game/m2c_candidates/candidate_801056B4.c:
+	.text       start:0x801056B4 end:0x801056CC
+
 game/leaf_sweep/leaf_801066D4.c:
 	.text       start:0x801066D4 end:0x801066D8
 
+game/m2c_candidates/candidate_801068E0.c:
+	.text       start:0x801068E0 end:0x80106908
+
 game/leaf_sweep/leaf_80106CD0.c:
 	.text       start:0x80106CD0 end:0x80106CD4
+
+game/m2c_candidates/candidate_801071D8.c:
+	.text       start:0x801071D8 end:0x80107218
+
+game/m2c_candidates/candidate_8010758C.c:
+	.text       start:0x8010758C end:0x801075B8
+
+game/m2c_candidates/candidate_801075B8.c:
+	.text       start:0x801075B8 end:0x80107600
+
+game/m2c_candidates/candidate_80107614.c:
+	.text       start:0x80107614 end:0x8010767C
 
 game/leaf_sweep/leaf_80107788.c:
 	.text       start:0x80107788 end:0x801077D0
@@ -693,6 +2124,9 @@ game/leaf_sweep/leaf_80107F00.c:
 
 game/leaf_sweep/leaf_8010810C.c:
 	.text       start:0x8010810C end:0x80108114
+
+game/m2c_candidates/candidate_801081E8.c:
+	.text       start:0x801081E8 end:0x80108200
 
 game/leaf_sweep/leaf_801084A0.c:
 	.text       start:0x801084A0 end:0x801084A8
@@ -715,6 +2149,15 @@ game/leaf_sweep/leaf_80108904.c:
 game/leaf_sweep/leaf_80108A04.c:
 	.text       start:0x80108A04 end:0x80108AD0
 
+game/m2c_candidates/candidate_80108C30.c:
+	.text       start:0x80108C30 end:0x80108C60
+
+game/m2c_candidates/candidate_80108C60.c:
+	.text       start:0x80108C60 end:0x80108C80
+
+game/m2c_candidates/candidate_80108C80.c:
+	.text       start:0x80108C80 end:0x80108CB0
+
 game/leaf_sweep/leaf_80108CB0.c:
 	.text       start:0x80108CB0 end:0x80108CBC
 
@@ -736,6 +2179,9 @@ game/leaf_sweep/leaf_8010E7C4.c:
 game/leaf_sweep/leaf_80111BE4.c:
 	.text       start:0x80111BE4 end:0x80111C04
 
+game/m2c_candidates/candidate_80111C04.c:
+	.text       start:0x80111C04 end:0x80111C10
+
 game/leaf_sweep/leaf_80111CF8.c:
 	.text       start:0x80111CF8 end:0x80111D00
 
@@ -745,11 +2191,38 @@ game/leaf_sweep/leaf_80112008.c:
 game/leaf_sweep/leaf_801130F8.c:
 	.text       start:0x801130F8 end:0x80113104
 
+game/m2c_candidates/candidate_80113104.c:
+	.text       start:0x80113104 end:0x801131B0
+
+game/m2c_candidates/candidate_8011325C.c:
+	.text       start:0x8011325C end:0x80113264
+
+game/m2c_candidates/candidate_8011329C.c:
+	.text       start:0x8011329C end:0x801132A4
+
+game/m2c_candidates/candidate_801132EC.c:
+	.text       start:0x801132EC end:0x801132F4
+
+game/m2c_candidates/candidate_801132F4.c:
+	.text       start:0x801132F4 end:0x80113300
+
+game/m2c_candidates/candidate_80113300.c:
+	.text       start:0x80113300 end:0x8011330C
+
+game/m2c_candidates/candidate_8011330C.c:
+	.text       start:0x8011330C end:0x80113314
+
 game/leaf_sweep/leaf_80113314.c:
 	.text       start:0x80113314 end:0x8011331C
 
+game/m2c_candidates/candidate_8011331C.c:
+	.text       start:0x8011331C end:0x80113328
+
 game/leaf_sweep/leaf_80113328.c:
 	.text       start:0x80113328 end:0x80113338
+
+game/m2c_candidates/candidate_80113338.c:
+	.text       start:0x80113338 end:0x80113344
 
 game/leaf_sweep/leaf_80113344.c:
 	.text       start:0x80113344 end:0x8011335C
@@ -757,11 +2230,32 @@ game/leaf_sweep/leaf_80113344.c:
 game/leaf_sweep/leaf_801133EC.c:
 	.text       start:0x801133EC end:0x801133F8
 
+game/m2c_candidates/candidate_80113430.c:
+	.text       start:0x80113430 end:0x80113438
+
+game/m2c_candidates/candidate_80113480.c:
+	.text       start:0x80113480 end:0x80113488
+
+game/m2c_candidates/candidate_80113488.c:
+	.text       start:0x80113488 end:0x80113494
+
+game/m2c_candidates/candidate_80113494.c:
+	.text       start:0x80113494 end:0x801134A0
+
+game/m2c_candidates/candidate_801134A0.c:
+	.text       start:0x801134A0 end:0x801134A8
+
 game/leaf_sweep/leaf_801134A8.c:
 	.text       start:0x801134A8 end:0x801134B0
 
+game/m2c_candidates/candidate_801134B0.c:
+	.text       start:0x801134B0 end:0x801134BC
+
 game/leaf_sweep/leaf_801134BC.c:
 	.text       start:0x801134BC end:0x801134CC
+
+game/m2c_candidates/candidate_801134CC.c:
+	.text       start:0x801134CC end:0x801134D8
 
 game/leaf_sweep/leaf_801134D8.c:
 	.text       start:0x801134D8 end:0x801134E0
@@ -771,6 +2265,9 @@ game/leaf_sweep/leaf_801135DC.c:
 
 game/leaf_sweep/leaf_801137A0.c:
 	.text       start:0x801137A0 end:0x801137A8
+
+game/m2c_candidates/candidate_801137A8.c:
+	.text       start:0x801137A8 end:0x801137B4
 
 game/leaf_sweep/leaf_801137B4.c:
 	.text       start:0x801137B4 end:0x801137BC
@@ -787,6 +2284,9 @@ game/leaf_sweep/leaf_80113A44.c:
 game/leaf_sweep/leaf_80113C08.c:
 	.text       start:0x80113C08 end:0x80113C10
 
+game/m2c_candidates/candidate_80113C10.c:
+	.text       start:0x80113C10 end:0x80113C1C
+
 game/leaf_sweep/leaf_80113C1C.c:
 	.text       start:0x80113C1C end:0x80113C24
 
@@ -801,6 +2301,9 @@ game/leaf_sweep/leaf_80113EA4.c:
 
 game/leaf_sweep/leaf_80114068.c:
 	.text       start:0x80114068 end:0x80114070
+
+game/m2c_candidates/candidate_80114070.c:
+	.text       start:0x80114070 end:0x8011407C
 
 game/leaf_sweep/leaf_8011407C.c:
 	.text       start:0x8011407C end:0x80114084
@@ -826,6 +2329,9 @@ game/leaf_sweep/leaf_801144DC.c:
 game/leaf_sweep/leaf_801145BC.c:
 	.text       start:0x801145BC end:0x801145D0
 
+game/m2c_candidates/candidate_801145D0.c:
+	.text       start:0x801145D0 end:0x801145DC
+
 game/leaf_sweep/leaf_801145DC.c:
 	.text       start:0x801145DC end:0x801145E4
 
@@ -835,8 +2341,14 @@ game/leaf_sweep/leaf_8011483C.c:
 game/leaf_sweep/leaf_801148B0.c:
 	.text       start:0x801148B0 end:0x801148BC
 
+game/m2c_candidates/candidate_80114904.c:
+	.text       start:0x80114904 end:0x8011490C
+
 game/leaf_sweep/leaf_80114978.c:
 	.text       start:0x80114978 end:0x80114980
+
+game/m2c_candidates/candidate_80114980.c:
+	.text       start:0x80114980 end:0x8011498C
 
 game/leaf_sweep/leaf_8011498C.c:
 	.text       start:0x8011498C end:0x80114994
@@ -844,8 +2356,14 @@ game/leaf_sweep/leaf_8011498C.c:
 game/leaf_sweep/leaf_801149EC.c:
 	.text       start:0x801149EC end:0x80114A08
 
+game/m2c_candidates/candidate_80114A50.c:
+	.text       start:0x80114A50 end:0x80114A58
+
 game/leaf_sweep/leaf_80114AC4.c:
 	.text       start:0x80114AC4 end:0x80114AE0
+
+game/m2c_candidates/candidate_80114BB8.c:
+	.text       start:0x80114BB8 end:0x80114BC4
 
 game/leaf_sweep/leaf_80114BC4.c:
 	.text       start:0x80114BC4 end:0x80114BD4
@@ -853,17 +2371,26 @@ game/leaf_sweep/leaf_80114BC4.c:
 game/leaf_sweep/leaf_80114C30.c:
 	.text       start:0x80114C30 end:0x80114C38
 
+game/m2c_candidates/candidate_80114C38.c:
+	.text       start:0x80114C38 end:0x80114C44
+
 game/leaf_sweep/leaf_80114C44.c:
 	.text       start:0x80114C44 end:0x80114C6C
 
 game/leaf_sweep/leaf_80114CC8.c:
 	.text       start:0x80114CC8 end:0x80114CD4
 
+game/m2c_candidates/candidate_80114E18.c:
+	.text       start:0x80114E18 end:0x80114E24
+
 game/leaf_sweep/leaf_80114E24.c:
 	.text       start:0x80114E24 end:0x80114E34
 
 game/leaf_sweep/leaf_80114E70.c:
 	.text       start:0x80114E70 end:0x80114E78
+
+game/m2c_candidates/candidate_80114E78.c:
+	.text       start:0x80114E78 end:0x80114E84
 
 game/leaf_sweep/leaf_80114E84.c:
 	.text       start:0x80114E84 end:0x80114EB8
@@ -879,6 +2406,18 @@ game/leaf_sweep/leaf_80114FE4.c:
 
 game/leaf_sweep/leaf_801151D0.c:
 	.text       start:0x801151D0 end:0x80115218
+
+game/m2c_candidates/candidate_80116A78.c:
+	.text       start:0x80116A78 end:0x80116A9C
+
+game/m2c_candidates/candidate_80116A9C.c:
+	.text       start:0x80116A9C end:0x80116AA8
+
+game/m2c_candidates/candidate_801177CC.c:
+	.text       start:0x801177CC end:0x80117800
+
+game/m2c_candidates/candidate_80117FB8.c:
+	.text       start:0x80117FB8 end:0x80117FD0
 
 game/leaf_sweep/leaf_8011C3D4.c:
 	.text       start:0x8011C3D4 end:0x8011C3DC
@@ -913,6 +2452,9 @@ game/leaf_sweep/leaf_8011C840.c:
 game/leaf_sweep/leaf_8011C8A4.c:
 	.text       start:0x8011C8A4 end:0x8011C8AC
 
+game/m2c_candidates/candidate_8011CC5C.c:
+	.text       start:0x8011CC5C end:0x8011CCCC
+
 game/leaf_sweep/leaf_8011E800.c:
 	.text       start:0x8011E800 end:0x8011E810
 
@@ -924,6 +2466,9 @@ game/leaf_sweep/leaf_8011E9C4.c:
 
 game/leaf_sweep/leaf_8011EABC.c:
 	.text       start:0x8011EABC end:0x8011EAC4
+
+game/m2c_candidates/candidate_8011EE98.c:
+	.text       start:0x8011EE98 end:0x8011EEC0
 
 game/leaf_sweep/leaf_80122370.c:
 	.text       start:0x80122370 end:0x80122380
@@ -940,6 +2485,63 @@ game/leaf_sweep/leaf_80122470.c:
 game/leaf_sweep/leaf_801224FC.c:
 	.text       start:0x801224FC end:0x80122508
 
+game/m2c_candidates/candidate_80122564.c:
+	.text       start:0x80122564 end:0x8012257C
+
+game/m2c_candidates/candidate_8012257C.c:
+	.text       start:0x8012257C end:0x80122594
+
+game/m2c_candidates/candidate_80122594.c:
+	.text       start:0x80122594 end:0x801225AC
+
+game/m2c_candidates/candidate_801225AC.c:
+	.text       start:0x801225AC end:0x801225C4
+
+game/m2c_candidates/candidate_801225C4.c:
+	.text       start:0x801225C4 end:0x801225DC
+
+game/m2c_candidates/candidate_801225DC.c:
+	.text       start:0x801225DC end:0x801225F4
+
+game/m2c_candidates/candidate_801225F4.c:
+	.text       start:0x801225F4 end:0x8012260C
+
+game/m2c_candidates/candidate_8012260C.c:
+	.text       start:0x8012260C end:0x80122624
+
+game/m2c_candidates/candidate_80122624.c:
+	.text       start:0x80122624 end:0x8012263C
+
+game/m2c_candidates/candidate_8012263C.c:
+	.text       start:0x8012263C end:0x80122654
+
+game/m2c_candidates/candidate_80122654.c:
+	.text       start:0x80122654 end:0x8012266C
+
+game/m2c_candidates/candidate_8012266C.c:
+	.text       start:0x8012266C end:0x80122684
+
+game/m2c_candidates/candidate_80122684.c:
+	.text       start:0x80122684 end:0x8012269C
+
+game/m2c_candidates/candidate_8012269C.c:
+	.text       start:0x8012269C end:0x801226B4
+
+game/m2c_candidates/candidate_801226B4.c:
+	.text       start:0x801226B4 end:0x801226CC
+
+game/m2c_candidates/candidate_801226CC.c:
+	.text       start:0x801226CC end:0x801226E4
+
+game/m2c_candidates/candidate_801226E4.c:
+	.text       start:0x801226E4 end:0x801226FC
+
+game/m2c_candidates/candidate_801226FC.c:
+	.text       start:0x801226FC end:0x80122714
+
+game/m2c_candidates/candidate_80122714.c:
+	.text       start:0x80122714 end:0x8012272C
+
 game/leaf_sweep/leaf_80122C04.c:
 	.text       start:0x80122C04 end:0x80122C0C
 
@@ -948,6 +2550,48 @@ game/leaf_sweep/leaf_80122D5C.c:
 
 game/leaf_sweep/leaf_8012420C.c:
 	.text       start:0x8012420C end:0x8012421C
+
+game/m2c_candidates/candidate_801244BC.c:
+	.text       start:0x801244BC end:0x801244D4
+
+game/m2c_candidates/candidate_801244D4.c:
+	.text       start:0x801244D4 end:0x801244EC
+
+game/m2c_candidates/candidate_801244EC.c:
+	.text       start:0x801244EC end:0x80124504
+
+game/m2c_candidates/candidate_80124504.c:
+	.text       start:0x80124504 end:0x8012451C
+
+game/m2c_candidates/candidate_8012451C.c:
+	.text       start:0x8012451C end:0x80124534
+
+game/m2c_candidates/candidate_80124534.c:
+	.text       start:0x80124534 end:0x8012454C
+
+game/m2c_candidates/candidate_8012454C.c:
+	.text       start:0x8012454C end:0x80124564
+
+game/m2c_candidates/candidate_80124B08.c:
+	.text       start:0x80124B08 end:0x80124B18
+
+game/m2c_candidates/candidate_80124B18.c:
+	.text       start:0x80124B18 end:0x80124B2C
+
+game/m2c_candidates/candidate_801250F4.c:
+	.text       start:0x801250F4 end:0x8012510C
+
+game/m2c_candidates/candidate_801258A8.c:
+	.text       start:0x801258A8 end:0x801258C0
+
+game/m2c_candidates/candidate_801258C0.c:
+	.text       start:0x801258C0 end:0x801258D8
+
+game/m2c_candidates/candidate_801258D8.c:
+	.text       start:0x801258D8 end:0x801258F0
+
+game/m2c_candidates/candidate_801258F0.c:
+	.text       start:0x801258F0 end:0x80125908
 
 game/leaf_sweep/leaf_80127554.c:
 	.text       start:0x80127554 end:0x8012755C
@@ -964,11 +2608,29 @@ game/leaf_sweep/leaf_801276F0.c:
 game/leaf_sweep/leaf_80127764.c:
 	.text       start:0x80127764 end:0x8012776C
 
+game/m2c_candidates/candidate_80127790.c:
+	.text       start:0x80127790 end:0x801277A8
+
+game/m2c_candidates/candidate_801277A8.c:
+	.text       start:0x801277A8 end:0x801277C0
+
 game/leaf_sweep/leaf_80127824.c:
 	.text       start:0x80127824 end:0x8012782C
 
+game/m2c_candidates/candidate_80129A20.c:
+	.text       start:0x80129A20 end:0x80129A2C
+
 dolphin/os/OSContextClear.c:
 	.text       start:0x80129B8C end:0x80129BB0
+
+game/m2c_candidates/candidate_8012BB04.c:
+	.text       start:0x8012BB04 end:0x8012BB24
+
+game/m2c_candidates/candidate_8012C628.c:
+	.text       start:0x8012C628 end:0x8012C648
+
+game/m2c_candidates/candidate_8012CD38.c:
+	.text       start:0x8012CD38 end:0x8012CD48
 
 game/leaf_sweep/leaf_8012D1B8.c:
 	.text       start:0x8012D1B8 end:0x8012D1BC
@@ -976,38 +2638,194 @@ game/leaf_sweep/leaf_8012D1B8.c:
 dolphin/os/OSInitThreadQueue.c:
 	.text       start:0x8012D314 end:0x8012D324
 
+game/m2c_candidates/candidate_8012D324.c:
+	.text       start:0x8012D324 end:0x8012D330
+
+game/m2c_candidates/candidate_8012D648.c:
+	.text       start:0x8012D648 end:0x8012D698
+
+game/m2c_candidates/candidate_8012D8F0.c:
+	.text       start:0x8012D8F0 end:0x8012D92C
+
+game/m2c_candidates/candidate_8012E980.c:
+	.text       start:0x8012E980 end:0x8012E9A0
+
+game/m2c_candidates/candidate_80130950.c:
+	.text       start:0x80130950 end:0x80130970
+
+game/m2c_candidates/candidate_80130970.c:
+	.text       start:0x80130970 end:0x801309AC
+
 dolphin/si/SITypeDecode.c:
 	.text       start:0x80132040 end:0x8013218C
+
+game/m2c_candidates/candidate_8013218C.c:
+	.text       start:0x8013218C end:0x801321B0
 
 dolphin/db/DBPrintf.c:
 	.text       start:0x80132354 end:0x801323A4
 
+game/m2c_candidates/candidate_80134090.c:
+	.text       start:0x80134090 end:0x801340B4
+
 game/leaf_sweep/leaf_80134504.c:
 	.text       start:0x80134504 end:0x80134508
+
+game/m2c_candidates/candidate_801347A0.c:
+	.text       start:0x801347A0 end:0x801347D4
+
+game/m2c_candidates/candidate_801347D4.c:
+	.text       start:0x801347D4 end:0x801347FC
+
+game/m2c_candidates/candidate_80134C44.c:
+	.text       start:0x80134C44 end:0x80134C6C
+
+game/m2c_candidates/candidate_80134F80.c:
+	.text       start:0x80134F80 end:0x80134FB8
+
+game/m2c_candidates/candidate_801353BC.c:
+	.text       start:0x801353BC end:0x801353EC
+
+game/m2c_candidates/candidate_8013545C.c:
+	.text       start:0x8013545C end:0x80135484
+
+game/m2c_candidates/candidate_80136540.c:
+	.text       start:0x80136540 end:0x8013658C
+
+game/m2c_candidates/candidate_801369E4.c:
+	.text       start:0x801369E4 end:0x801369EC
+
+game/m2c_candidates/candidate_80136C70.c:
+	.text       start:0x80136C70 end:0x80136CD8
+
+game/m2c_candidates/candidate_8013B134.c:
+	.text       start:0x8013B134 end:0x8013B144
+
+game/m2c_candidates/candidate_8013B224.c:
+	.text       start:0x8013B224 end:0x8013B238
+
+game/m2c_candidates/candidate_8013B30C.c:
+	.text       start:0x8013B30C end:0x8013B31C
+
+game/m2c_candidates/candidate_8013B338.c:
+	.text       start:0x8013B338 end:0x8013B348
+
+game/m2c_candidates/candidate_8013B364.c:
+	.text       start:0x8013B364 end:0x8013B374
+
+game/m2c_candidates/candidate_8013BB80.c:
+	.text       start:0x8013BB80 end:0x8013BB90
 
 game/leaf_sweep/leaf_8013D484.c:
 	.text       start:0x8013D484 end:0x8013D488
 
+game/m2c_candidates/candidate_8013D720.c:
+	.text       start:0x8013D720 end:0x8013D744
+
+game/m2c_candidates/candidate_8013D790.c:
+	.text       start:0x8013D790 end:0x8013D7C4
+
+game/m2c_candidates/candidate_8013D7C4.c:
+	.text       start:0x8013D7C4 end:0x8013D7DC
+
+game/m2c_candidates/candidate_8013D9B8.c:
+	.text       start:0x8013D9B8 end:0x8013D9D8
+
 game/leaf_sweep/leaf_8013E8EC.c:
 	.text       start:0x8013E8EC end:0x8013E8F0
+
+game/m2c_candidates/candidate_8013F0FC.c:
+	.text       start:0x8013F0FC end:0x8013F108
 
 game/leaf_sweep/leaf_8013F52C.c:
 	.text       start:0x8013F52C end:0x8013F530
 
+game/m2c_candidates/candidate_8013FF90.c:
+	.text       start:0x8013FF90 end:0x8013FF9C
+
+game/m2c_candidates/candidate_8013FF9C.c:
+	.text       start:0x8013FF9C end:0x8013FFE0
+
 game/leaf_sweep/leaf_801401E4.c:
 	.text       start:0x801401E4 end:0x801401E8
+
+game/m2c_candidates/candidate_80140418.c:
+	.text       start:0x80140418 end:0x801404B0
+
+game/m2c_candidates/candidate_80141EAC.c:
+	.text       start:0x80141EAC end:0x80141EDC
+
+game/m2c_candidates/candidate_80142DF0.c:
+	.text       start:0x80142DF0 end:0x80142E38
 
 game/leaf_sweep/leaf_801430B8.c:
 	.text       start:0x801430B8 end:0x801430BC
 
+game/m2c_candidates/candidate_80143F40.c:
+	.text       start:0x80143F40 end:0x80143F60
+
+game/m2c_candidates/candidate_80143F88.c:
+	.text       start:0x80143F88 end:0x80143FA4
+
+game/m2c_candidates/candidate_80144000.c:
+	.text       start:0x80144000 end:0x8014406C
+
+game/m2c_candidates/candidate_80145F78.c:
+	.text       start:0x80145F78 end:0x80145FD0
+
+game/m2c_candidates/candidate_80145FD0.c:
+	.text       start:0x80145FD0 end:0x80145FDC
+
+game/m2c_candidates/candidate_80145FDC.c:
+	.text       start:0x80145FDC end:0x80145FE8
+
+game/m2c_candidates/candidate_801475A4.c:
+	.text       start:0x801475A4 end:0x80147600
+
+game/m2c_candidates/candidate_80147728.c:
+	.text       start:0x80147728 end:0x80147754
+
+game/m2c_candidates/candidate_80148128.c:
+	.text       start:0x80148128 end:0x80148158
+
 game/leaf_sweep/leaf_80148D68.c:
 	.text       start:0x80148D68 end:0x80148D70
+
+game/m2c_candidates/candidate_80148D70.c:
+	.text       start:0x80148D70 end:0x80148D94
+
+game/m2c_candidates/candidate_80148D94.c:
+	.text       start:0x80148D94 end:0x80148DB8
+
+game/m2c_candidates/candidate_80148DB8.c:
+	.text       start:0x80148DB8 end:0x80148DC8
+
+game/m2c_candidates/candidate_80148DC8.c:
+	.text       start:0x80148DC8 end:0x80148DD8
+
+game/m2c_candidates/candidate_80148F40.c:
+	.text       start:0x80148F40 end:0x80148F80
+
+game/m2c_candidates/candidate_801494BC.c:
+	.text       start:0x801494BC end:0x8014965C
 
 game/leaf_sweep/leaf_8014991C.c:
 	.text       start:0x8014991C end:0x80149920
 
+game/m2c_candidates/candidate_80149920.c:
+	.text       start:0x80149920 end:0x80149954
+
+game/m2c_candidates/candidate_80149BEC.c:
+	.text       start:0x80149BEC end:0x80149C70
+
+game/m2c_candidates/candidate_8014ADA4.c:
+	.text       start:0x8014ADA4 end:0x8014ADF4
+
 dolphin/card/bitrev.c:
 	.text       start:0x8014AE44 end:0x8014AFB0
+
+game/m2c_candidates/candidate_8014C2CC.c:
+	.text       start:0x8014C2CC end:0x8014C334
 
 game/leaf_sweep/leaf_8014C334.c:
 	.text       start:0x8014C334 end:0x8014C33C
@@ -1027,8 +2845,32 @@ dolphin/card/UpdateIconOffsets.c:
 dolphin/gx/GXInitFifoBase.c:
 	.text       start:0x80151FE4 end:0x80152050
 
+game/m2c_candidates/candidate_801520C0.c:
+	.text       start:0x801520C0 end:0x801520CC
+
+game/m2c_candidates/candidate_8015236C.c:
+	.text       start:0x8015236C end:0x801523A0
+
+game/m2c_candidates/candidate_801531BC.c:
+	.text       start:0x801531BC end:0x801531CC
+
+game/m2c_candidates/candidate_80154C20.c:
+	.text       start:0x80154C20 end:0x80154C3C
+
+game/m2c_candidates/candidate_80154C3C.c:
+	.text       start:0x80154C3C end:0x80154C4C
+
+game/m2c_candidates/candidate_80154C4C.c:
+	.text       start:0x80154C4C end:0x80154C68
+
+game/m2c_candidates/candidate_80154C68.c:
+	.text       start:0x80154C68 end:0x80154C74
+
 game/leaf_sweep/leaf_801555E0.c:
 	.text       start:0x801555E0 end:0x801555E8
+
+game/m2c_candidates/candidate_801555E8.c:
+	.text       start:0x801555E8 end:0x80155600
 
 dolphin/gx/GXInitTexCacheRegion.c:
 	.text       start:0x801558A0 end:0x80155994
@@ -1038,6 +2880,30 @@ dolphin/gx/GXSetTmemConfig.c:
 
 game/leaf_sweep/leaf_8015642C.c:
 	.text       start:0x8015642C end:0x80156430
+
+game/m2c_candidates/candidate_801580F8.c:
+	.text       start:0x801580F8 end:0x80158110
+
+game/m2c_candidates/candidate_80158C74.c:
+	.text       start:0x80158C74 end:0x80158CC8
+
+game/m2c_candidates/candidate_80158D88.c:
+	.text       start:0x80158D88 end:0x80158DEC
+
+game/m2c_candidates/candidate_8015A000.c:
+	.text       start:0x8015A000 end:0x8015A060
+
+game/m2c_candidates/candidate_8015A160.c:
+	.text       start:0x8015A160 end:0x8015A190
+
+game/m2c_candidates/candidate_8015A190.c:
+	.text       start:0x8015A190 end:0x8015A224
+
+game/m2c_candidates/candidate_8015B57C.c:
+	.text       start:0x8015B57C end:0x8015B5B0
+
+game/m2c_candidates/candidate_8015DCAC.c:
+	.text       start:0x8015DCAC end:0x8015DCBC
 
 crt/fwrite.c:
 	.text       start:0x8015E0F0 end:0x8015E16C
@@ -1050,6 +2916,9 @@ crt/memchr.c:
 
 crt/mem.c:
 	.text       start:0x8015E9DC end:0x8015ED78
+
+game/m2c_candidates/candidate_8015F048.c:
+	.text       start:0x8015F048 end:0x8015F0B4
 
 crt/round_decimal.c:
 	.text       start:0x8015FF9C end:0x801600C8
@@ -1078,6 +2947,39 @@ crt/copysign.c:
 crt/modf.c:
 	.text       start:0x801642D4 end:0x801643D0
 
+game/m2c_candidates/candidate_80164520.c:
+	.text       start:0x80164520 end:0x80164540
+
+game/m2c_candidates/candidate_80164540.c:
+	.text       start:0x80164540 end:0x80164560
+
+game/m2c_candidates/candidate_80164560.c:
+	.text       start:0x80164560 end:0x80164580
+
+game/m2c_candidates/candidate_801647A4.c:
+	.text       start:0x801647A4 end:0x801647C8
+
+game/m2c_candidates/candidate_801647C8.c:
+	.text       start:0x801647C8 end:0x801647EC
+
+game/m2c_candidates/candidate_801647EC.c:
+	.text       start:0x801647EC end:0x80164810
+
+game/m2c_candidates/candidate_80164810.c:
+	.text       start:0x80164810 end:0x80164834
+
+game/m2c_candidates/candidate_80164834.c:
+	.text       start:0x80164834 end:0x80164854
+
+game/m2c_candidates/candidate_80164970.c:
+	.text       start:0x80164970 end:0x80164988
+
+game/m2c_candidates/candidate_80165380.c:
+	.text       start:0x80165380 end:0x801653C0
+
+game/m2c_candidates/candidate_80165424.c:
+	.text       start:0x80165424 end:0x80165450
+
 game/leaf_sweep/leaf_8016558C.c:
 	.text       start:0x8016558C end:0x80165594
 
@@ -1090,8 +2992,71 @@ MetroTRK/TRKDispatchInit.c:
 game/leaf_sweep/leaf_80166858.c:
 	.text       start:0x80166858 end:0x80166868
 
+game/m2c_candidates/candidate_801669F4.c:
+	.text       start:0x801669F4 end:0x80166A00
+
+game/m2c_candidates/candidate_80166A00.c:
+	.text       start:0x80166A00 end:0x80166A10
+
 game/leaf_sweep/leaf_801671CC.c:
 	.text       start:0x801671CC end:0x801671E4
+
+game/m2c_candidates/candidate_8016780C.c:
+	.text       start:0x8016780C end:0x8016781C
+
+game/m2c_candidates/candidate_8016781C.c:
+	.text       start:0x8016781C end:0x80167834
+
+game/m2c_candidates/candidate_80167834.c:
+	.text       start:0x80167834 end:0x80167844
+
+game/m2c_candidates/candidate_80167844.c:
+	.text       start:0x80167844 end:0x80167854
+
+game/m2c_candidates/candidate_80167A54.c:
+	.text       start:0x80167A54 end:0x80167A64
+
+game/m2c_candidates/candidate_801696DC.c:
+	.text       start:0x801696DC end:0x80169728
+
+game/m2c_candidates/candidate_80169854.c:
+	.text       start:0x80169854 end:0x801698AC
+
+game/m2c_candidates/candidate_80169A38.c:
+	.text       start:0x80169A38 end:0x80169A68
+
+game/m2c_candidates/candidate_80169A68.c:
+	.text       start:0x80169A68 end:0x80169A98
+
+game/m2c_candidates/candidate_80169A98.c:
+	.text       start:0x80169A98 end:0x80169AD4
+
+game/m2c_candidates/candidate_80169AD4.c:
+	.text       start:0x80169AD4 end:0x80169B10
+
+game/m2c_candidates/candidate_80169B10.c:
+	.text       start:0x80169B10 end:0x80169B40
+
+game/m2c_candidates/candidate_80169B40.c:
+	.text       start:0x80169B40 end:0x80169B88
+
+game/m2c_candidates/candidate_80169E7C.c:
+	.text       start:0x80169E7C end:0x80169EB0
+
+game/m2c_candidates/candidate_80169EB0.c:
+	.text       start:0x80169EB0 end:0x80169EC0
+
+game/m2c_candidates/candidate_80169EC0.c:
+	.text       start:0x80169EC0 end:0x80169ECC
+
+game/m2c_candidates/candidate_8016A08C.c:
+	.text       start:0x8016A08C end:0x8016A0B0
+
+game/m2c_candidates/candidate_8016A120.c:
+	.text       start:0x8016A120 end:0x8016A144
+
+game/m2c_candidates/candidate_8016A144.c:
+	.text       start:0x8016A144 end:0x8016A168
 
 MetroTRK/ddh_cc_close.c:
 	.text       start:0x8016A314 end:0x8016A31C
@@ -1102,11 +3067,26 @@ MetroTRK/ddh_cc_shutdown.c:
 game/leaf_sweep/leaf_8016A630.c:
 	.text       start:0x8016A630 end:0x8016A638
 
+game/m2c_candidates/candidate_8016A638.c:
+	.text       start:0x8016A638 end:0x8016A65C
+
+game/m2c_candidates/candidate_8016A6CC.c:
+	.text       start:0x8016A6CC end:0x8016A6F0
+
+game/m2c_candidates/candidate_8016A6F0.c:
+	.text       start:0x8016A6F0 end:0x8016A714
+
 MetroTRK/gdev_cc_close.c:
 	.text       start:0x8016A8C8 end:0x8016A8D0
 
 MetroTRK/gdev_cc_shutdown.c:
 	.text       start:0x8016A8F4 end:0x8016A8FC
+
+game/m2c_candidates/candidate_8016A9D4.c:
+	.text       start:0x8016A9D4 end:0x8016A9F8
+
+game/m2c_candidates/candidate_8016A9F8.c:
+	.text       start:0x8016A9F8 end:0x8016AA28
 
 game/leaf_sweep/leaf_8016AA28.c:
 	.text       start:0x8016AA28 end:0x8016AA54
